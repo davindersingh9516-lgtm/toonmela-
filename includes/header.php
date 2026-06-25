@@ -33,26 +33,63 @@
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Source+Sans+3:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo SITE_URL; ?>css/style.css?v=2.1">
     <style>
-    .lang-bar{background:var(--heading-color,#1A1A2E);padding:6px 0;text-align:right}
-    .lang-bar .container{display:flex;align-items:center;justify-content:flex-end;gap:10px}
-    .lang-bar label{font-family:var(--font-ui);font-size:12px;color:#aaa;letter-spacing:0.5px}
-    .goog-te-gadget{font-size:0!important}
-    .goog-te-gadget .goog-te-combo{font-family:var(--font-ui);font-size:13px;padding:4px 8px;border:1px solid #444;border-radius:4px;background:#2a2a4a;color:#ddd;outline:none;cursor:pointer}
+    .lang-bar{background:var(--heading-color,#1A1A2E);padding:5px 0}
+    .lang-bar .container{display:flex;align-items:center;justify-content:flex-end;gap:8px}
+    .lang-bar label{font-family:var(--font-ui);font-size:11px;color:#aaa;letter-spacing:0.5px}
+    .lang-select{font-family:var(--font-ui);font-size:12px;padding:4px 8px;border:1px solid #444;border-radius:4px;background:#2a2a4a;color:#ddd;outline:none;cursor:pointer}
     .goog-te-banner-frame{display:none!important}
     body{top:0!important}
-    .skiptranslate{display:none!important}
+    .VIpgJd-ZVi9od-ORHb-OEVmcd,.skiptranslate:not(#google_translate_element){display:none!important}
     </style>
 </head>
 <body>
 
 <div class="lang-bar">
     <div class="container">
-        <label>Language:</label>
-        <div id="google_translate_element"></div>
+        <label>&#127760; Language:</label>
+        <select class="lang-select" id="langSelect" onchange="changeLanguage(this.value)">
+            <option value="">Hinglish (Default)</option>
+            <option value="hi">हिन्दी</option>
+            <option value="en">English</option>
+            <option value="bn">বাংলা</option>
+            <option value="ta">தமிழ்</option>
+            <option value="te">తెలుగు</option>
+            <option value="mr">मराठी</option>
+            <option value="gu">ગુજરાતી</option>
+            <option value="kn">ಕನ್ನಡ</option>
+            <option value="ml">മലയാളം</option>
+            <option value="pa">ਪੰਜਾਬੀ</option>
+            <option value="ur">اردو</option>
+            <option value="or">ଓଡ଼ିଆ</option>
+            <option value="as">অসমীয়া</option>
+            <option value="sa">संस्कृतम्</option>
+        </select>
+        <div id="google_translate_element" style="display:none"></div>
     </div>
 </div>
 <script>
-function googleTranslateElementInit(){new google.translate.TranslateElement({pageLanguage:'hi',includedLanguages:'hi,en,bn,ta,te,mr,gu,kn,ml,pa,ur,or,as,sa',layout:google.translate.TranslateElement.InlineLayout.SIMPLE},'google_translate_element');}
+function googleTranslateElementInit(){
+    new google.translate.TranslateElement({pageLanguage:'hi',includedLanguages:'hi,en,bn,ta,te,mr,gu,kn,ml,pa,ur,or,as,sa',autoDisplay:false},'google_translate_element');
+}
+function changeLanguage(lang){
+    if(!lang){
+        // Reset to original
+        var frame=document.querySelector('.goog-te-banner-frame');
+        if(frame){var btn=frame.contentDocument.querySelector('.goog-close-link');if(btn)btn.click();}
+        document.cookie="googtrans=;path=/;expires=Thu, 01 Jan 1970 00:00:00 GMT";
+        document.cookie="googtrans=;path=/;domain=."+location.hostname+";expires=Thu, 01 Jan 1970 00:00:00 GMT";
+        location.reload();
+        return;
+    }
+    document.cookie="googtrans=/hi/"+lang+";path=/";
+    document.cookie="googtrans=/hi/"+lang+";path=/;domain=."+location.hostname;
+    location.reload();
+}
+// Set dropdown to current language on load
+document.addEventListener('DOMContentLoaded',function(){
+    var m=document.cookie.match(/googtrans=\/hi\/(\w+)/);
+    if(m&&document.getElementById('langSelect')){document.getElementById('langSelect').value=m[1];}
+});
 </script>
 <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
