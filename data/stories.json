@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "slug": "lalchi-kauwa-aur-siyaar",
+    "title": "Lalchi Kauwa Aur Chalak Siyaar",
+    "excerpt": "Ek kauwa tha jo hamesha doosron ka khaana churata tha. Ek din usne ek siyaar ka khaana churaya, lekin siyaar ne usse aisi seekh di...",
+    "category": "Panchtantra",
+    "age": "junior-readers",
+    "ageLabel": "Junior Readers",
+    "date": "2026-06-25",
+    "readTime": 5,
+    "image": "https://cdn.pixabay.com/photo/2017/02/07/16/47/kingfisher-2046453_640.jpg",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "slug": "sher-aur-chuha",
+    "title": "Sher Aur Chuha - Ek Dosti Ki Kahani",
+    "excerpt": "Jungle ka raja sher ek chhote se chuhe ko maarne wala tha. Lekin chuhe ne kaha - mujhe chhodh do, ek din main tumhare kaam aaunga...",
+    "category": "Panchtantra",
+    "age": "nanhe-readers",
+    "ageLabel": "Nanhe Readers",
+    "date": "2026-06-25",
+    "readTime": 4,
+    "image": "https://cdn.pixabay.com/photo/2018/07/31/22/08/lion-3576045_640.jpg",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "slug": "imandaar-lakadhara",
+    "title": "Imaandaar Lakadhara - Sachai Ki Jeet",
+    "excerpt": "Ek gareeb lakadhara ki kulhaadi nadi mein gir gayi. Jal devta ne usse teen kulhadiyaan dikhayi - sone ki, chaandi ki, aur lohe ki...",
+    "category": "Fairy Tales",
+    "age": "nanhe-readers",
+    "ageLabel": "Nanhe Readers",
+    "date": "2026-06-24",
+    "readTime": 4,
+    "image": "https://cdn.pixabay.com/photo/2015/06/19/21/24/avenue-815297_640.jpg",
+    "featured": false
+  }
+]

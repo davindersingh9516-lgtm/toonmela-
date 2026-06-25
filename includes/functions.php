@@ -1,0 +1,101 @@
+<?php
+
+define('SITE_NAME', 'ToonMela');
+define('SITE_TAGLINE', 'Kahaniyon Ka Mela');
+define('SITE_URL', '/');
+define('SITE_DESC', 'Moral stories for all ages in Hindi & English. Panchtantra, Fairy Tales, Life Lessons aur bahut kuch.');
+
+function get_stories() {
+    static $stories = null;
+    if ($stories !== null) return $stories;
+
+    $file = __DIR__ . '/../data/stories.json';
+    if (!file_exists($file)) return [];
+    $stories = json_decode(file_get_contents($file), true) ?: [];
+    usort($stories, function($a, $b) { return strcmp($b['date'], $a['date']); });
+    return $stories;
+}
+
+function get_story_by_slug($slug) {
+    $stories = get_stories();
+    foreach ($stories as $s) {
+        if ($s['slug'] === $slug) return $s;
+    }
+    return null;
+}
+
+function get_stories_by_age($age, $limit = 0) {
+    $stories = get_stories();
+    $filtered = array_filter($stories, function($s) use ($age) { return $s['age'] === $age; });
+    if ($limit > 0) $filtered = array_slice($filtered, 0, $limit);
+    return array_values($filtered);
+}
+
+function get_stories_by_category($cat, $limit = 0) {
+    $stories = get_stories();
+    $filtered = array_filter($stories, function($s) use ($cat) { return $s['category'] === $cat; });
+    if ($limit > 0) $filtered = array_slice($filtered, 0, $limit);
+    return array_values($filtered);
+}
+
+function get_featured_story() {
+    $stories = get_stories();
+    foreach ($stories as $s) {
+        if (!empty($s['featured'])) return $s;
+    }
+    return !empty($stories) ? $stories[0] : null;
+}
+
+function get_related_stories($current_slug, $age, $limit = 3) {
+    $stories = get_stories();
+    $related = array_filter($stories, function($s) use ($current_slug, $age) {
+        return $s['slug'] !== $current_slug && $s['age'] === $age;
+    });
+    if (count($related) < $limit) {
+        $related = array_filter($stories, function($s) use ($current_slug) {
+            return $s['slug'] !== $current_slug;
+        });
+    }
+    return array_values(array_slice($related, 0, $limit));
+}
+
+function search_stories($query) {
+    $stories = get_stories();
+    $q = mb_strtolower(trim($query));
+    return array_values(array_filter($stories, function($s) use ($q) {
+        return mb_strpos(mb_strtolower($s['title']), $q) !== false
+            || mb_strpos(mb_strtolower($s['excerpt']), $q) !== false
+            || mb_strpos(mb_strtolower($s['category']), $q) !== false;
+    }));
+}
+
+function format_date($date) {
+    $months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    $t = strtotime($date);
+    return date('j', $t) . ' ' . $months[(int)date('n', $t) - 1] . ' ' . date('Y', $t);
+}
+
+function get_age_groups() {
+    return [
+        'nanhe-readers'  => ['label' => 'Nanhe Readers', 'range' => '3-6 Years', 'desc' => 'Chhote bachcho ke liye simple moral stories'],
+        'junior-readers' => ['label' => 'Junior Readers', 'range' => '7-12 Years', 'desc' => 'Panchtantra aur adventure moral stories'],
+        'teen-readers'   => ['label' => 'Teen Readers', 'range' => '13-17 Years', 'desc' => 'Life lessons aur character building stories'],
+        'sabke-liye'     => ['label' => 'Sabke Liye', 'range' => '18+', 'desc' => 'Deep moral tales aur philosophical stories'],
+    ];
+}
+
+function get_age_count($age_slug) {
+    return count(get_stories_by_age($age_slug));
+}
+
+function e($str) {
+    return htmlspecialchars($str, ENT_QUOTES, 'UTF-8');
+}
+
+function story_url($slug) {
+    return SITE_URL . 'stories/' . $slug . '.php';
+}
+
+function age_url($slug) {
+    return SITE_URL . 'age/' . $slug . '.php';
+}

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://toonmela.com/sitemap.xml
+
+Disallow: /includes/
+Disallow: /data/
