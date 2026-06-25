@@ -9,7 +9,7 @@ $latest = array_slice(get_stories(), 0, 5);
 $page_title = 'Tootey Taarey Ka Safar - Ek Aisi Kahani Jo Dil Choo Le | ToonMela';
 $page_desc = 'Ek chhote gaon ka ladka Arjun ek chamakti hui cheez dhundta hai khet mein. Sab kehte hain pagal hai, lekin Arjun ko vishwaas hai yeh toota hua taara hai. Kya Arjun sahi tha? Padhein poori kahani.';
 $page_url = SITE_URL . 'stories/tootey-taarey-ka-safar.php';
-$page_image = SITE_URL . 'img/story1-hero.png';
+$page_image = SITE_URL . 'img/story1-hero.webp';
 $page_type = 'article';
 $page_schema = [
     '@context' => 'https://schema.org', '@type' => 'Article',
@@ -48,7 +48,7 @@ require_once __DIR__ . '/../includes/header.php';
                 </header>
 
                 <div class="single-img">
-                    <img src="<?php echo SITE_URL; ?>img/story1-hero.png" alt="Arjun khet mein toota taara dekhta hua - cartoon illustration">
+                    <img src="<?php echo SITE_URL; ?>img/story1-hero.webp" alt="Arjun khet mein toota taara dekhta hua - cartoon illustration">
                 </div>
 
                 <div class="story-body">
@@ -75,7 +75,7 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p>Arjun ne haath se mitti hataai. Aur wahan — ek pathar tha. Lekin yeh koi aam pathar nahi tha.</p>
 
-<img src="<?php echo SITE_URL; ?>img/story1-crystal.png" alt="Arjun ke haath mein chamakta jadui pathar - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/story1-crystal.webp" alt="Arjun ke haath mein chamakta jadui pathar - cartoon" style="border-radius:8px; margin: 2em auto;">
 
 <p>Pathar hatheli mein aata tha. Uska rang neela-safed tha, aur usmein se ek halki si garmi nikal rahi thi — jaise kisi ne abhi-abhi isse aag se nikala ho. Lekin jalata nahi tha. Bas... <strong>zinda lagta tha.</strong></p>
 
@@ -111,7 +111,7 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p>Din beette gaye. Hafte beete. Arjun rozana raat ko woh pathar haath mein lekar aasmaan dekhta tha. Kuch nahi hota tha — na chamak, na jaadu, na koi chamatkar. Bas woh neeli si garmi thi jo use sukoon deti thi.</p>
 
-<img src="<?php echo SITE_URL; ?>img/story1-crystal.png" alt="Arjun raat mein pathar ko dekhta hua - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/story1-crystal.webp" alt="Arjun raat mein pathar ko dekhta hua - cartoon" style="border-radius:8px; margin: 2em auto;">
 
 <p>Lekin gaon mein baatein badh gayi thin.</p>
 
@@ -141,7 +141,7 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p>Saamne ek budha aadmi baitha tha. Safed daadhi, chamakti aankhein, aur ek muskurahat jo jaani pehchani lagti thi.</p>
 
-<img src="<?php echo SITE_URL; ?>img/story1-wiseman.png" alt="Budha gyaani aur Arjun - jadui roshni mein - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/story1-wiseman.webp" alt="Budha gyaani aur Arjun - jadui roshni mein - cartoon" style="border-radius:8px; margin: 2em auto;">
 
 <p>"Tum... tum kaun ho?" Arjun ne poocha.</p>
 
@@ -179,7 +179,7 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p>Lekin Arjun badal chuka tha.</p>
 
-<img src="<?php echo SITE_URL; ?>img/story1-sunrise.png" alt="Arjun apne gaon mein school ke saamne - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/story1-sunrise.webp" alt="Arjun apne gaon mein school ke saamne - cartoon" style="border-radius:8px; margin: 2em auto;">
 
 <p>Woh uthha, kapde jhaade, aur ghar gaya. Maa chai bana rahi thi.</p>
 
@@ -215,7 +215,7 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p>Saal beete. Arjun bada hua. Padh-likh kar shehar gaya. Lekin woh gaon nahi bhula.</p>
 
-<img src="<?php echo SITE_URL; ?>img/story1-sunrise.png" alt="Arjun ka sapna poora hua - gaon mein school - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/story1-sunrise.webp" alt="Arjun ka sapna poora hua - gaon mein school - cartoon" style="border-radius:8px; margin: 2em auto;">
 
 <p>Arjun ne ek school khola — apne gaon mein. Woh school jahan bacche sirf kitaabein nahi padhte the, <strong>balki sapne dekhna seekhte the.</strong></p>
 
