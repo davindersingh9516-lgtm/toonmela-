@@ -31,9 +31,30 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Source+Sans+3:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="<?php echo SITE_URL; ?>css/style.css?v=2.0">
+    <link rel="stylesheet" href="<?php echo SITE_URL; ?>css/style.css?v=2.1">
+    <style>
+    .lang-bar{background:var(--heading-color,#1A1A2E);padding:6px 0;text-align:right}
+    .lang-bar .container{display:flex;align-items:center;justify-content:flex-end;gap:10px}
+    .lang-bar label{font-family:var(--font-ui);font-size:12px;color:#aaa;letter-spacing:0.5px}
+    .goog-te-gadget{font-size:0!important}
+    .goog-te-gadget .goog-te-combo{font-family:var(--font-ui);font-size:13px;padding:4px 8px;border:1px solid #444;border-radius:4px;background:#2a2a4a;color:#ddd;outline:none;cursor:pointer}
+    .goog-te-banner-frame{display:none!important}
+    body{top:0!important}
+    .skiptranslate{display:none!important}
+    </style>
 </head>
 <body>
+
+<div class="lang-bar">
+    <div class="container">
+        <label>Language:</label>
+        <div id="google_translate_element"></div>
+    </div>
+</div>
+<script>
+function googleTranslateElementInit(){new google.translate.TranslateElement({pageLanguage:'hi',includedLanguages:'hi,en,bn,ta,te,mr,gu,kn,ml,pa,ur,or,as,sa',layout:google.translate.TranslateElement.InlineLayout.SIMPLE},'google_translate_element');}
+</script>
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 <header class="header">
     <div class="container header-inner">

@@ -1,15 +1,18 @@
 [
-  {
-    "id": 1,
-    "slug": "tootey-taarey-ka-safar",
-    "title": "Tootey Taarey Ka Safar",
-    "excerpt": "Ek chhote gaon ka ladka Arjun khet mein ek chamakti cheez dhundhta hai. Sab kehte hain pagal hai, lekin Arjun ko vishwaas hai yeh toota hua taara hai. Kya Arjun sahi tha?",
-    "category": "Life Lessons",
-    "age": "sabke-liye",
-    "ageLabel": "Sabke Liye",
-    "date": "2026-06-25",
-    "readTime": 12,
-    "image": "/img/story1-hero.webp",
-    "featured": true
-  }
+  {"id":1,"slug":"tootey-taarey-ka-safar","title":"Tootey Taarey Ka Safar","excerpt":"Ek chhote gaon ka ladka Arjun khet mein ek chamakti cheez dhundhta hai. Sab kehte hain pagal hai, lekin Arjun ko vishwaas hai yeh toota taara hai.","category":"Life Lessons","age":"sabke-liye","ageLabel":"Sabke Liye","date":"2026-06-25","readTime":12,"image":"/img/story1-hero.webp","featured":true},
+  {"id":2,"slug":"ek-cup-chai","title":"Ek Cup Chai","excerpt":"Ek billionaire CEO ka driver nahi aaya. Auto se office jaate waqt ek chai wale ne usse zindagi ki sabse badi seekh de di.","category":"Life Lessons","age":"sabke-liye","ageLabel":"Sabke Liye","date":"2026-06-24","readTime":10,"image":"/img/ek-cup-chai-hero.webp","featured":false},
+  {"id":3,"slug":"purani-haveli-ka-chirag","title":"Purani Haveli Ka Chirag","excerpt":"Ek NRI apni purani haveli bechne aaya. Lekin haveli mein mila ek purana chirag jisne usse apni asli virasat dikhayi.","category":"Wisdom Tales","age":"sabke-liye","ageLabel":"Sabke Liye","date":"2026-06-23","readTime":10,"image":"/img/purani-haveli-hero.webp","featured":false},
+  {"id":4,"slug":"wapsi","title":"Wapsi","excerpt":"Manoj 20 saal baad apne gaon lautta hai. Sab badal gaya hai - lekin ek cheez nahi badli. Woh kya thi?","category":"Life Lessons","age":"sabke-liye","ageLabel":"Sabke Liye","date":"2026-06-22","readTime":10,"image":"/img/wapsi-hero.webp","featured":false},
+  {"id":5,"slug":"98-percent-ka-sach","title":"98 Percent Ka Sach","excerpt":"Riya class topper thi - 98%. Sabki aankhon ka taara. Lekin ek din usse pata chala ki 98% ke peeche ka sach kitna khaali hai.","category":"Life Lessons","age":"teen-readers","ageLabel":"Teen Readers","date":"2026-06-25","readTime":8,"image":"/img/98-percent-hero.webp","featured":false},
+  {"id":6,"slug":"screen-se-bahar","title":"Screen Se Bahar","excerpt":"Aditya ka poora din phone mein jaata tha. Ek din phone toot gaya aur 7 din bina phone ke - woh 7 din uski zindagi badal gaye.","category":"Life Lessons","age":"teen-readers","ageLabel":"Teen Readers","date":"2026-06-24","readTime":8,"image":"/img/screen-bahar-hero.webp","featured":false},
+  {"id":7,"slug":"haar-ke-baad","title":"Haar Ke Baad","excerpt":"Aryan state level ka final haar gaya. Lekin us haar ke baad jo hua - woh kisi trophy se bada tha.","category":"Life Lessons","age":"teen-readers","ageLabel":"Teen Readers","date":"2026-06-23","readTime":8,"image":"/img/haar-baad-hero.webp","featured":false},
+  {"id":8,"slug":"woh-ek-din","title":"Woh Ek Din","excerpt":"Sahil ko roz school mein bully kiya jaata tha. Ek din usne stage par kuch aisa kiya jisne bully ko bhi rula diya.","category":"Life Lessons","age":"teen-readers","ageLabel":"Teen Readers","date":"2026-06-22","readTime":8,"image":"/img/woh-ek-din-hero.webp","featured":false},
+  {"id":9,"slug":"jungle-ka-rahasya","title":"Jungle Ka Rahasya","excerpt":"Teen dost jungle mein gaye aur unhe mila ek aisa rahasya jisne unki zindagi badal di. Kya tha woh rahasya?","category":"Adventure","age":"junior-readers","ageLabel":"Junior Readers","date":"2026-06-25","readTime":7,"image":"/img/jungle-rahasya-hero.webp","featured":false},
+  {"id":10,"slug":"dadi-ki-jadui-rasoi","title":"Dadi Ki Jadui Rasoi","excerpt":"Dadi ka khaana itna tasty kyun hota tha? Kya unki rasoi mein sach mein jaadu tha? Ek pote ne dhundha asli raaz.","category":"Family Stories","age":"junior-readers","ageLabel":"Junior Readers","date":"2026-06-24","readTime":6,"image":"/img/dadi-rasoi-hero.webp","featured":false},
+  {"id":11,"slug":"pahaad-ka-hero","title":"Pahaad Ka Hero","excerpt":"Jab baadh aane wali thi aur koi nahi maan raha tha, ek 11 saal ke ladke ne akele poore gaon ko bachaya.","category":"Adventure","age":"junior-readers","ageLabel":"Junior Readers","date":"2026-06-23","readTime":7,"image":"/img/pahaad-hero-main.webp","featured":false},
+  {"id":12,"slug":"chor-aur-jadui-chirag","title":"Chor Aur Jadui Chirag","excerpt":"Ek chor ko mila jadui chirag jismein teen wishes thin. Lekin har wish ne usse aur mushkil mein daal diya!","category":"Wisdom Tales","age":"junior-readers","ageLabel":"Junior Readers","date":"2026-06-23","readTime":7,"image":"/img/chor-chirag-hero.webp","featured":false},
+  {"id":13,"slug":"rangbirangi-titli","title":"Rangbirangi Titli","excerpt":"Ek titli thi jise apne rang pasand nahi the. Lekin jab usne jaana ki har rang ka ek kaam hai, toh uski duniya badal gayi!","category":"Fairy Tales","age":"nanhe-readers","ageLabel":"Nanhe Readers","date":"2026-06-25","readTime":4,"image":"/img/rangbirangi-titli-hero.webp","featured":false},
+  {"id":14,"slug":"motu-haathi-aur-chuha","title":"Motu Haathi Aur Chhotu Chuha","excerpt":"Jungle ka sabse bada haathi sabse chhote chuhe se darta tha! Lekin ek din dono ki dosti ne poora jungle bacha liya.","category":"Friendship","age":"nanhe-readers","ageLabel":"Nanhe Readers","date":"2026-06-25","readTime":4,"image":"/img/motu-haathi-hero.webp","featured":false},
+  {"id":15,"slug":"jadui-baarish","title":"Jadui Baarish","excerpt":"Ek din jungle mein aasmaan se toffees aur chocolates barsne lagi! Sab khush. Lekin ek buddhimaan ullu ne bataya asli jadoo kya hai.","category":"Fairy Tales","age":"nanhe-readers","ageLabel":"Nanhe Readers","date":"2026-06-24","readTime":4,"image":"/img/jadui-baarish-hero.webp","featured":false},
+  {"id":16,"slug":"chanda-mama-ka-tohfa","title":"Chanda Mama Ka Tohfa","excerpt":"Gudiya roz raat ko chanda mama se baatein karti thi. Ek raat chanda mama ne usse ek aisa tohfa diya jo sabse keemti tha.","category":"Bedtime Stories","age":"nanhe-readers","ageLabel":"Nanhe Readers","date":"2026-06-24","readTime":4,"image":"/img/chanda-mama-hero.webp","featured":false}
 ]
