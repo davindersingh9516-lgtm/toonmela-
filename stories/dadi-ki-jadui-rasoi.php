@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . "/../includes/functions.php";
+
 $slug = 'dadi-ki-jadui-rasoi';
 $title = 'Dadi Ki Jadui Rasoi';
 $desc = 'Dadi ka khaana itna tasty kyun hota tha? Kya unki rasoi mein sach mein jaadu tha? Ek pote ne dhundha asli raaz aur woh sabko rula dega.';

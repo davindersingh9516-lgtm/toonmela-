@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . "/../includes/functions.php";
+
 $slug = 'chanda-mama-ka-tohfa';
 $title = 'Chanda Mama Ka Tohfa';
 $desc = 'Gudiya roz raat ko chanda mama se baatein karti thi. Ek raat chanda mama ne usse ek aisa tohfa diya jo poori duniya mein sabse keemti tha.';

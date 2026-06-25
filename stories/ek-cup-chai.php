@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . "/../includes/functions.php";
+
 $slug = 'ek-cup-chai';
 $title = 'Ek Cup Chai';
 $desc = 'Ek billionaire CEO ka driver ek din nahi aaya. Usse auto se office jaana pada aur raaste mein ek chai wale ne usse zindagi ki sabse badi seekh de di.';

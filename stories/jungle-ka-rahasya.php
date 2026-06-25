@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . "/../includes/functions.php";
+
 $slug = 'jungle-ka-rahasya';
 $title = 'Jungle Ka Rahasya';
 $desc = 'Teen dost jungle mein gaye aur unhe mila ek aisa rahasya jisne unki zindagi badal di. Kya tha woh rahasya? Padhein poori kahani.';

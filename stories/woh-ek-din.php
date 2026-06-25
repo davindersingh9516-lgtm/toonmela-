@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . "/../includes/functions.php";
+
 $slug = 'woh-ek-din';
 $title = 'Woh Ek Din';
 $desc = 'Sahil ko roz school mein bully kiya jaata tha. Ek din usne kuch aisa kiya jisne bully ko bhi rula diya. Yeh kahani har bacche ko padhni chahiye.';

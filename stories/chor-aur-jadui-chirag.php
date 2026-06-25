@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . "/../includes/functions.php";
+
 $slug = 'chor-aur-jadui-chirag';
 $title = 'Chor Aur Jadui Chirag';
 $desc = 'Ek chor ko mila jadui chirag jismein teen wishes thin. Lekin har wish ne usse aur mushkil mein daal diya! Kya chor samajh paaya ki asli khushi kismein hai?';

@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . "/../includes/functions.php";
+
 $slug = 'haar-ke-baad';
 $title = 'Haar Ke Baad';
 $desc = 'Aryan state level ka final haar gaya. Trophy nahi mili, taaliyan nahi mili. Lekin us haar ke baad jo hua - woh kisi trophy se bada tha.';

@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . "/../includes/functions.php";
+
 $slug = 'motu-haathi-aur-chuha';
 $title = 'Motu Haathi Aur Chhotu Chuha';
 $desc = 'Jungle ka sabse bada haathi sabse chhote chuhe se darta tha! Lekin ek din dono ki dosti ne poora jungle bacha liya. Padhein yeh cute kahani.';

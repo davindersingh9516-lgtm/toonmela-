@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . "/../includes/functions.php";
+
 $slug = '98-percent-ka-sach';
 $title = '98 Percent Ka Sach';
 $desc = 'Riya class topper thi - 98%. Sabki aankhon ka taara. Lekin ek din usse pata chala ki 98% ke peeche ka sach kitna khaali hai. Yeh kahani har student ko padhni chahiye.';

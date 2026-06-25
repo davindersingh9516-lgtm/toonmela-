@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . "/../includes/functions.php";
+
 $slug = 'jadui-baarish';
 $title = 'Jadui Baarish';
 $desc = 'Ek din jungle mein aasmaan se toffees aur chocolates barsne lagi! Sab jaanwar khush. Lekin ek buddhimaan ullu ne bataya ki asli jadoo kya hai.';

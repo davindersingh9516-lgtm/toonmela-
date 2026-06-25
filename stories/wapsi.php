@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . "/../includes/functions.php";
+
 $slug = 'wapsi';
 $title = 'Wapsi';
 $desc = 'Manoj 20 saal baad apne gaon lautta hai. Sab badal gaya hai - lekin ek cheez nahi badli. Woh kya hai? Padhein yeh dil choo lene wali kahani.';

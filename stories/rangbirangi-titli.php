@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . "/../includes/functions.php";
+
 $slug = 'rangbirangi-titli';
 $title = 'Rangbirangi Titli';
 $desc = 'Ek titli thi jise apne rang pasand nahi the. Lekin jab usne jaana ki har rang ka ek kaam hai, toh uski duniya badal gayi!';

@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . "/../includes/functions.php";
+
 $slug = 'screen-se-bahar';
 $title = 'Screen Se Bahar';
 $desc = 'Aditya ka poora din phone mein jaata tha - reels, games, chat. Ek din phone toot gaya aur 7 din bina phone ke - woh 7 din Aditya ki zindagi badal gaye.';

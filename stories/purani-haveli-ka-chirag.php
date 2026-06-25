@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . "/../includes/functions.php";
+
 $slug = 'purani-haveli-ka-chirag';
 $title = 'Purani Haveli Ka Chirag';
 $desc = 'Ek NRI apni purani haveli bechne aaya. Lekin haveli ke ek kamre mein mila ek purana chirag jisne usse apni asli virasat dikhaayi.';
