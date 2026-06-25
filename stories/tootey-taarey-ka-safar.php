@@ -9,7 +9,7 @@ $latest = array_slice(get_stories(), 0, 5);
 $page_title = 'Tootey Taarey Ka Safar - Ek Aisi Kahani Jo Dil Choo Le | ToonMela';
 $page_desc = 'Ek chhote gaon ka ladka Arjun ek chamakti hui cheez dhundta hai khet mein. Sab kehte hain pagal hai, lekin Arjun ko vishwaas hai yeh toota hua taara hai. Kya Arjun sahi tha? Padhein poori kahani.';
 $page_url = SITE_URL . 'stories/tootey-taarey-ka-safar.php';
-$page_image = 'https://cdn.pixabay.com/photo/2020/06/24/20/23/cartoon-5337501_640.jpg';
+$page_image = 'https://images.pexels.com/photos/7476134/pexels-photo-7476134.jpeg?auto=compress&cs=tinysrgb&w=800';
 $page_type = 'article';
 $page_schema = [
     '@context' => 'https://schema.org', '@type' => 'Article',
@@ -48,7 +48,7 @@ require_once __DIR__ . '/../includes/header.php';
                 </header>
 
                 <div class="single-img">
-                    <img src="https://cdn.pixabay.com/photo/2020/06/24/20/23/cartoon-5337501_640.jpg" alt="Tootey Taarey Ka Safar - Raat ka aasmaan aur taarey - cartoon illustration">
+                    <img src="https://images.pexels.com/photos/7476134/pexels-photo-7476134.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Tootey Taarey Ka Safar - Raat ka aasmaan aur taarey">
                 </div>
 
                 <div class="story-body">
@@ -75,7 +75,7 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p>Arjun ne haath se mitti hataai. Aur wahan — ek pathar tha. Lekin yeh koi aam pathar nahi tha.</p>
 
-<img src="https://cdn.pixabay.com/photo/2022/09/08/15/16/crystal-7441525_640.png" alt="Chamakta hua jadui pathar - cartoon illustration" style="border-radius:8px; margin: 2em auto;">
+<img src="https://images.pexels.com/photos/11048044/pexels-photo-11048044.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Chamakta hua jadui pathar - raat ka aasmaan" style="border-radius:8px; margin: 2em auto;">
 
 <p>Pathar hatheli mein aata tha. Uska rang neela-safed tha, aur usmein se ek halki si garmi nikal rahi thi — jaise kisi ne abhi-abhi isse aag se nikala ho. Lekin jalata nahi tha. Bas... <strong>zinda lagta tha.</strong></p>
 
@@ -111,7 +111,7 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p>Din beette gaye. Hafte beete. Arjun rozana raat ko woh pathar haath mein lekar aasmaan dekhta tha. Kuch nahi hota tha — na chamak, na jaadu, na koi chamatkar. Bas woh neeli si garmi thi jo use sukoon deti thi.</p>
 
-<img src="https://cdn.pixabay.com/photo/2021/11/13/23/06/tree-6792528_640.jpg" alt="Raat mein ek akela ladka sochta hua - cartoon style" style="border-radius:8px; margin: 2em auto;">
+<img src="https://images.pexels.com/photos/11113294/pexels-photo-11113294.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Raat mein akela - andhere mein sochta hua" style="border-radius:8px; margin: 2em auto;">
 
 <p>Lekin gaon mein baatein badh gayi thin.</p>
 
@@ -141,7 +141,7 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p>Saamne ek budha aadmi baitha tha. Safed daadhi, chamakti aankhein, aur ek muskurahat jo jaani pehchani lagti thi.</p>
 
-<img src="https://cdn.pixabay.com/photo/2020/08/03/09/51/cartoon-5459498_640.png" alt="Budha aadmi - jadui roshni mein - cartoon illustration" style="border-radius:8px; margin: 2em auto;">
+<img src="https://images.pexels.com/photos/7269629/pexels-photo-7269629.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Jadui lamha - roshni mein" style="border-radius:8px; margin: 2em auto;">
 
 <p>"Tum... tum kaun ho?" Arjun ne poocha.</p>
 
@@ -179,7 +179,7 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p>Lekin Arjun badal chuka tha.</p>
 
-<img src="https://cdn.pixabay.com/photo/2020/09/21/17/02/landscape-5590467_640.jpg" alt="Suraj nikalta hua gaon mein - nayi subah cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="https://images.pexels.com/photos/12576960/pexels-photo-12576960.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Suraj nikalta hua - nayi subah nayi umeed" style="border-radius:8px; margin: 2em auto;">
 
 <p>Woh uthha, kapde jhaade, aur ghar gaya. Maa chai bana rahi thi.</p>
 
@@ -215,7 +215,7 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p>Saal beete. Arjun bada hua. Padh-likh kar shehar gaya. Lekin woh gaon nahi bhula.</p>
 
-<img src="https://cdn.pixabay.com/photo/2020/04/19/08/17/watercolor-5062356_640.jpg" alt="Kitaabein aur padhai - Arjun ka safar cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="https://images.pexels.com/photos/18127653/pexels-photo-18127653.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Kitaabein aur padhai - Arjun ka safar" style="border-radius:8px; margin: 2em auto;">
 
 <p>Arjun ne ek school khola — apne gaon mein. Woh school jahan bacche sirf kitaabein nahi padhte the, <strong>balki sapne dekhna seekhte the.</strong></p>
 
