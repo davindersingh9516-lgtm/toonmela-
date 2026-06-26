@@ -27,16 +27,35 @@ $age_groups = get_age_groups();
 
 <section class="hero">
     <div class="container">
+        <div class="hero-badge"><i data-lucide="book-open" style="width:14px;height:14px;display:inline;vertical-align:-2px"></i> India's Moral Story Platform</div>
         <h1>Kahaniyon Ka Mela</h1>
-        <p>Har umar ke liye moral stories jo dimaag ko soochne par majboor karein aur dil ko choo jayein.</p>
+        <p class="hero-sub">Stories that stay with you — long after you stop reading.</p>
+        <div class="hero-langs">
+            <span>Read in:</span>
+            <span class="hero-lang">हिन्दी</span>
+            <span class="hero-lang">English</span>
+            <span class="hero-lang">বাংলা</span>
+            <span class="hero-lang">தமிழ்</span>
+            <span class="hero-lang">తెలుగు</span>
+            <span class="hero-lang">मराठी</span>
+            <span class="hero-lang-more">+6 more</span>
+        </div>
         <div class="age-selector">
-            <a href="<?php echo SITE_URL; ?>stories.php" class="age-btn active">Sabhi Kahaniyaan</a>
+            <a href="<?php echo SITE_URL; ?>stories.php" class="age-btn active">
+                <i data-lucide="layers" style="width:14px;height:14px;display:inline;vertical-align:-2px"></i> All Stories
+            </a>
             <?php foreach ($age_groups as $slug => $info) : ?>
                 <a href="<?php echo SITE_URL . 'age/' . $slug . '.php'; ?>" class="age-btn">
                     <?php echo e($info['label']); ?>
                     <span class="age-range"><?php echo e($info['range']); ?></span>
                 </a>
             <?php endforeach; ?>
+        </div>
+        <div class="hero-stats">
+            <div class="hero-stat"><strong><?php echo count($all_stories); ?></strong><span>Stories</span></div>
+            <div class="hero-stat"><strong>4</strong><span>Age Groups</span></div>
+            <div class="hero-stat"><strong>12+</strong><span>Languages</span></div>
+            <div class="hero-stat"><strong>Free</strong><span>Always</span></div>
         </div>
     </div>
 </section>

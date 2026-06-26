@@ -113,6 +113,11 @@ foreach ($all_schemas as $schema) {
 }
 ?>
 
+<div class="reading-progress" id="readingProgress"></div>
+<script>
+window.addEventListener('scroll',function(){var h=document.documentElement,b=document.body,st=h.scrollTop||b.scrollTop,sh=h.scrollHeight||b.scrollHeight,ch=h.clientHeight;document.getElementById('readingProgress').style.width=((st/(sh-ch))*100)+'%';});
+</script>
+
 <div class="container">
     <nav class="breadcrumbs" aria-label="Breadcrumb">
         <a href="<?php echo SITE_URL; ?>">Home</a><span class="sep">/</span>

@@ -49,28 +49,26 @@
     <div class="container">
         <label>&#127760; Language:</label>
         <select class="lang-select" id="langSelect" onchange="changeLanguage(this.value)">
-            <option value="">Hinglish (Default)</option>
-            <option value="hi">हिन्दी</option>
+            <option value="">Hinglish</option>
             <option value="en">English</option>
-            <option value="bn">বাংলা</option>
-            <option value="ta">தமிழ்</option>
-            <option value="te">తెలుగు</option>
-            <option value="mr">मराठी</option>
-            <option value="gu">ગુજરાતી</option>
-            <option value="kn">ಕನ್ನಡ</option>
-            <option value="ml">മലയാളം</option>
-            <option value="pa">ਪੰਜਾਬੀ</option>
-            <option value="ur">اردو</option>
-            <option value="or">ଓଡ଼ିଆ</option>
-            <option value="as">অসমীয়া</option>
-            <option value="sa">संस्कृतम्</option>
+            <option value="hi">हिन्दी</option>
+            <option value="bn">বাংলা (Bengali)</option>
+            <option value="ta">தமிழ் (Tamil)</option>
+            <option value="te">తెలుగు (Telugu)</option>
+            <option value="mr">मराठी (Marathi)</option>
+            <option value="gu">ગુજરાતી (Gujarati)</option>
+            <option value="kn">ಕನ್ನಡ (Kannada)</option>
+            <option value="ml">മലയാളം (Malayalam)</option>
+            <option value="pa">ਪੰਜਾਬੀ (Punjabi)</option>
+            <option value="ur">اردو (Urdu)</option>
+            <option value="or">ଓଡ଼ିଆ (Odia)</option>
         </select>
         <div id="google_translate_element" style="display:none"></div>
     </div>
 </div>
 <script>
 function googleTranslateElementInit(){
-    new google.translate.TranslateElement({pageLanguage:'hi',includedLanguages:'hi,en,bn,ta,te,mr,gu,kn,ml,pa,ur,or,as,sa',autoDisplay:false},'google_translate_element');
+    new google.translate.TranslateElement({pageLanguage:'hi-Latn',includedLanguages:'en,hi,bn,ta,te,mr,gu,kn,ml,pa,ur,or',autoDisplay:false},'google_translate_element');
 }
 function changeLanguage(lang){
     if(!lang){
