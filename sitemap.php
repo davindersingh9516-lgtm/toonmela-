@@ -21,6 +21,12 @@ echo '<?xml version="1.0" encoding="UTF-8"?>';
         <priority>0.9</priority>
     </url>
     <url>
+        <loc><?php echo $base; ?>/videos.php</loc>
+        <lastmod><?php echo date('Y-m-d'); ?></lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc><?php echo $base; ?>/about.php</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>

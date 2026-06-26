@@ -124,6 +124,7 @@ document.addEventListener('DOMContentLoaded',function(){
             <?php foreach (get_age_groups() as $slug => $info) : ?>
                 <a href="<?php echo SITE_URL . 'age/' . $slug . '.php'; ?>"><?php echo e($info['label']); ?></a>
             <?php endforeach; ?>
+            <a href="<?php echo SITE_URL; ?>videos.php"<?php if (($active_page ?? '') === 'videos') echo ' class="active"'; ?>>Videos</a>
             <a href="<?php echo SITE_URL; ?>about.php"<?php if (($active_page ?? '') === 'about') echo ' class="active"'; ?>>About</a>
             <a href="<?php echo SITE_URL; ?>contact.php"<?php if (($active_page ?? '') === 'contact') echo ' class="active"'; ?>>Contact</a>
             <button class="nav-search" onclick="document.querySelector('.search-overlay').classList.add('active')" aria-label="Search"><i data-lucide="search" style="width:18px;height:18px"></i></button>
