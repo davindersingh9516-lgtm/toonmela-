@@ -149,6 +149,21 @@ window.addEventListener('scroll',function(){var h=document.documentElement,b=doc
                     <?php endif; ?>
                 </header>
 
+                <?php
+                $audio_file = __DIR__ . '/../audio/' . $slug . '.mp3';
+                if (file_exists($audio_file)) : ?>
+                <div class="audio-player" style="background:linear-gradient(135deg,#1A1A2E,#16213E);border-radius:12px;padding:20px 24px;margin-bottom:28px;display:flex;align-items:center;gap:16px;flex-wrap:wrap;">
+                    <div style="display:flex;align-items:center;gap:10px;flex:1;min-width:200px;">
+                        <button onclick="var a=document.getElementById('storyAudio');if(a.paused){a.play();this.innerHTML='<i data-lucide=&quot;pause&quot; style=&quot;width:20px;height:20px&quot;></i>';lucide.createIcons();}else{a.pause();this.innerHTML='<i data-lucide=&quot;play&quot; style=&quot;width:20px;height:20px&quot;></i>';lucide.createIcons();}" style="background:var(--gold);border:none;width:44px;height:44px;border-radius:50%;display:flex;align-items:center;justify-content:center;cursor:pointer;color:#fff;flex-shrink:0;"><i data-lucide="play" style="width:20px;height:20px"></i></button>
+                        <div>
+                            <div style="font-family:var(--font-ui);font-size:13px;font-weight:700;color:#fff;letter-spacing:0.5px;">Listen to Story</div>
+                            <div style="font-family:var(--font-ui);font-size:11px;color:rgba(255,255,255,0.5);">AI-Narrated &bull; <?php echo $readTime; ?> min</div>
+                        </div>
+                    </div>
+                    <audio id="storyAudio" src="<?php echo SITE_URL . 'audio/' . $slug . '.mp3'; ?>" preload="none" style="flex:2;min-width:200px;height:36px;filter:sepia(20%) saturate(70%) grayscale(10%) brightness(1.1);" controls></audio>
+                </div>
+                <?php endif; ?>
+
                 <div class="single-img">
                     <img itemprop="image" src="<?php echo SITE_URL . ltrim($heroImage, '/'); ?>" alt="<?php echo e($title); ?> - cartoon illustration" width="1536" height="1024" loading="eager">
                 </div>
