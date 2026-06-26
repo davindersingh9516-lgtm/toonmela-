@@ -15,9 +15,9 @@
     <!-- Bing Webmaster - REPLACE with your verification code -->
     <!-- <meta name="msvalidate.01" content="YOUR_BING_CODE_HERE"> -->
 
-    <!-- Google Analytics GA4 - REPLACE with your Measurement ID -->
-    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
-    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-XXXXXXXXXX');</script> -->
+    <!-- Google Analytics GA4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CY6W4EXZ0W"></script>
+    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-CY6W4EXZ0W');</script>
 
     <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href="<?php echo SITE_URL; ?>favicon.svg">
