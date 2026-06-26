@@ -50,6 +50,7 @@
         <label>&#127760; Language:</label>
         <select class="lang-select" id="langSelect" onchange="changeLanguage(this.value)">
             <option value="">Original (Hinglish)</option>
+            <option value="en">English</option>
             <option value="hi">हिन्दी (Hindi)</option>
             <option value="bn">বাংলা (Bengali)</option>
             <option value="ta">தமிழ் (Tamil)</option>
@@ -67,7 +68,7 @@
 </div>
 <script>
 function googleTranslateElementInit(){
-    new google.translate.TranslateElement({pageLanguage:'en',includedLanguages:'hi,bn,ta,te,mr,gu,kn,ml,pa,ur,or',autoDisplay:false,layout:google.translate.TranslateElement.InlineLayout.HORIZONTAL},'google_translate_element');
+    new google.translate.TranslateElement({pageLanguage:'en',includedLanguages:'en,hi,bn,ta,te,mr,gu,kn,ml,pa,ur,or',autoDisplay:false,layout:google.translate.TranslateElement.InlineLayout.HORIZONTAL},'google_translate_element');
 }
 function changeLanguage(lang){
     if(!lang){
