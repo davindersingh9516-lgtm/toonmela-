@@ -7,7 +7,7 @@
                 <a href="https://facebook.com/toonmela" target="_blank" rel="noopener" aria-label="Facebook"><i data-lucide="facebook"></i></a>
                 <a href="https://instagram.com/toonmelatv" target="_blank" rel="noopener" aria-label="Instagram"><i data-lucide="instagram"></i></a>
                 <a href="https://x.com/toonmelatv" target="_blank" rel="noopener" aria-label="Twitter"><i data-lucide="twitter"></i></a>
-                <a href="https://youtube.com/@toonmela" target="_blank" rel="noopener" aria-label="YouTube"><i data-lucide="youtube"></i></a>
+                <a href="https://youtube.com/@softtoonacademy" target="_blank" rel="noopener" aria-label="YouTube"><i data-lucide="youtube"></i></a>
             </div>
         </div>
         <div class="footer-col">
