@@ -49,14 +49,15 @@ $age_groups = get_age_groups();
                 <img src="<?php echo e($featured['image']); ?>" alt="<?php echo e($featured['title']); ?>">
             </a>
             <div class="featured-body">
-                <span class="badge">Featured Story</span>
+                <span class="badge"><i data-lucide="bookmark" style="width:11px;height:11px;display:inline;vertical-align:-1px"></i> Featured Story</span>
                 <h2><a href="<?php echo story_url($featured['slug']); ?>"><?php echo e($featured['title']); ?></a></h2>
                 <p class="featured-excerpt"><?php echo e($featured['excerpt']); ?></p>
                 <div class="meta">
-                    <span><?php echo format_date($featured['date']); ?></span>
-                    <span><?php echo $featured['readTime']; ?> min read</span>
-                    <span><?php echo e($featured['ageLabel']); ?></span>
+                    <span><i data-lucide="calendar" style="width:14px;height:14px"></i> <?php echo format_date($featured['date']); ?></span>
+                    <span><i data-lucide="clock" style="width:14px;height:14px"></i> <?php echo $featured['readTime']; ?> min read</span>
+                    <span><i data-lucide="users" style="width:14px;height:14px"></i> <?php echo e($featured['ageLabel']); ?></span>
                 </div>
+                <a href="<?php echo story_url($featured['slug']); ?>" class="btn" style="margin-top:20px;width:fit-content;">Read Story <i data-lucide="arrow-right" style="width:16px;height:16px;display:inline;vertical-align:-3px"></i></a>
             </div>
         </div>
     </div>

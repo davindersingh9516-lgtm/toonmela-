@@ -4,10 +4,10 @@
             <a href="<?php echo SITE_URL; ?>" class="logo">Toon<span>Mela</span></a>
             <p class="footer-about">ToonMela - Kahaniyon Ka Mela. Moral stories jo har umar ke readers ke liye likhi gayi hain. Panchtantra se lekar modern life lessons tak.</p>
             <div class="footer-social">
-                <a href="https://facebook.com/toonmela" target="_blank" rel="noopener" aria-label="Facebook">f</a>
-                <a href="https://instagram.com/toonmelatv" target="_blank" rel="noopener" aria-label="Instagram">ig</a>
-                <a href="https://x.com/toonmelatv" target="_blank" rel="noopener" aria-label="Twitter">x</a>
-                <a href="https://youtube.com/@toonmela" target="_blank" rel="noopener" aria-label="YouTube">yt</a>
+                <a href="https://facebook.com/toonmela" target="_blank" rel="noopener" aria-label="Facebook"><i data-lucide="facebook"></i></a>
+                <a href="https://instagram.com/toonmelatv" target="_blank" rel="noopener" aria-label="Instagram"><i data-lucide="instagram"></i></a>
+                <a href="https://x.com/toonmelatv" target="_blank" rel="noopener" aria-label="Twitter"><i data-lucide="twitter"></i></a>
+                <a href="https://youtube.com/@toonmela" target="_blank" rel="noopener" aria-label="YouTube"><i data-lucide="youtube"></i></a>
             </div>
         </div>
         <div class="footer-col">
@@ -38,6 +38,7 @@
 </footer>
 
 <script>
+lucide.createIcons();
 document.addEventListener('keydown',function(e){if(e.key==='Escape'){var o=document.querySelector('.search-overlay');if(o)o.classList.remove('active');}});
 document.addEventListener('click',function(e){if(e.target.matches('.nav a')){var n=document.querySelector('.nav');if(n)n.classList.remove('active');}});
 </script>
