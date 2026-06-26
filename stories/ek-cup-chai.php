@@ -21,6 +21,17 @@ $faq = [
 ob_start();
 ?>
 
+<div class="audio-player" style="background:linear-gradient(135deg,#1A1A2E,#16213E);border-radius:12px;padding:20px 24px;margin-bottom:28px;display:flex;align-items:center;gap:16px;flex-wrap:wrap;">
+    <div style="display:flex;align-items:center;gap:10px;flex:1;min-width:200px;">
+        <button onclick="var a=document.getElementById('storyAudio');if(a.paused){a.play();this.textContent='⏸';}else{a.pause();this.textContent='▶';}" style="background:#D4A373;border:none;width:44px;height:44px;border-radius:50%;display:flex;align-items:center;justify-content:center;cursor:pointer;color:#fff;font-size:18px;flex-shrink:0;">▶</button>
+        <div>
+            <div style="font-family:var(--font-ui);font-size:13px;font-weight:700;color:#fff;">Listen to Story</div>
+            <div style="font-family:var(--font-ui);font-size:11px;color:rgba(255,255,255,0.5);">AI-Narrated • 12 min</div>
+        </div>
+    </div>
+    <audio id="storyAudio" src="/audio/ek-cup-chai.mp3" preload="none" style="flex:2;min-width:200px;height:36px;" controls></audio>
+</div>
+
 <p>Subah ke 7:15 baje the. Vikram Malhotra apne 4000 square foot ke penthouse mein khade the — Italian marble ka floor, imported leather ki sofa, aur samne 40-inch ki screen par CNBC chal raha tha. Neeche shehar ki skyline dikhai de rahi thi — chhoti-chhoti gaadiyaan, chhote-chhote log. Sab uski building se neeche the — literally aur figuratively.</p>
 
 <p><strong>Vikram Malhotra — Malhotra Industries ka CEO.</strong></p>
