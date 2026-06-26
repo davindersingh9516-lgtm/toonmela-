@@ -2,7 +2,7 @@
 require_once __DIR__ . "/../includes/functions.php";
 
 $slug = 'motu-haathi-aur-chuha';
-$title = 'Motu Haathi Aur Chhotu Chuha';
+$title = 'Motu Haathi Aur Chhotu Chuha - Funny Hindi Kahani';
 $desc = 'Jungle ka sabse bada haathi sabse chhote chuhe se darta tha! Lekin ek din dono ki dosti ne poora jungle bacha liya. Padhein yeh cute kahani.';
 $date = '2026-06-25';
 $readTime = 4;

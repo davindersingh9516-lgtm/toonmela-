@@ -2,7 +2,7 @@
 require_once __DIR__ . "/../includes/functions.php";
 
 $slug = 'ek-cup-chai';
-$title = 'Ek Cup Chai';
+$title = 'Ek Cup Chai - CEO Aur Chaiwale Ki Motivational Kahani';
 $desc = 'Ek billionaire CEO ka driver nahi aaya. Auto se jaate waqt ek chai wale ne usse zindagi ki sabse badi seekh de di. Yeh kahani aapki soch badal degi.';
 $date = '2026-06-24';
 $readTime = 12;

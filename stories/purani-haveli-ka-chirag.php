@@ -2,7 +2,7 @@
 require_once __DIR__ . "/../includes/functions.php";
 
 $slug = 'purani-haveli-ka-chirag';
-$title = 'Purani Haveli Ka Chirag';
+$title = 'Purani Haveli Ka Chirag - Emotional Hindi Kahani';
 $desc = 'Ek NRI apni purani haveli bechne aaya - 4 crore ka offer tha. Lekin haveli ke ek band kamre mein mila ek purana chirag aur ek diary jisne usse apni asli virasat dikha di.';
 $date = '2026-06-23';
 $readTime = 13;

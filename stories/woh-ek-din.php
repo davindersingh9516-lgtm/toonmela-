@@ -2,7 +2,7 @@
 require_once __DIR__ . "/../includes/functions.php";
 
 $slug = 'woh-ek-din';
-$title = 'Woh Ek Din';
+$title = 'Woh Ek Din - School Bullying Story in Hindi';
 $desc = 'Sahil ko roz school mein bully kiya jaata tha. Ek din usne stage par kuch aisa kiya jisne bully ko bhi rula diya. Yeh kahani har bacche ko padhni chahiye.';
 $date = '2026-06-22';
 $readTime = 13;

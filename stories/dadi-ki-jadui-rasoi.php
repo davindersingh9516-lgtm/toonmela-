@@ -2,7 +2,7 @@
 require_once __DIR__ . "/../includes/functions.php";
 
 $slug = 'dadi-ki-jadui-rasoi';
-$title = 'Dadi Ki Jadui Rasoi';
+$title = 'Dadi Ki Jadui Rasoi - Grandmother Story in Hindi';
 $desc = 'Dadi ka khaana itna tasty kyun hota tha? Restaurant se bhi accha? Kya sach mein unki rasoi mein jaadu tha? Ek pote ne spy banke dhundha asli raaz.';
 $date = '2026-06-24';
 $readTime = 10;

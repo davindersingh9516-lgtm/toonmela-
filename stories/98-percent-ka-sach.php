@@ -2,7 +2,7 @@
 require_once __DIR__ . "/../includes/functions.php";
 
 $slug = '98-percent-ka-sach';
-$title = '98 Percent Ka Sach';
+$title = '98 Percent Ka Sach - Student Life Story in Hindi';
 $desc = 'Riya school topper thi - 98.4%. Sabki aankhon ka taara. Lekin kisi ne nahi poocha - kya Riya khush hai? Yeh kahani har student aur parent ko padhni chahiye.';
 $date = '2026-06-25';
 $readTime = 12;

@@ -6,7 +6,7 @@ $story_data = get_story_by_slug($slug);
 $related = get_related_stories($slug, 'sabke-liye');
 $latest = array_slice(get_stories(), 0, 5);
 
-$page_title = 'Tootey Taarey Ka Safar - Ek Aisi Kahani Jo Dil Choo Le | ToonMela';
+$page_title = 'Tootey Taarey Ka Safar - Inspirational Hindi Kahani with Moral | ToonMela';
 $page_desc = 'Ek chhote gaon ka ladka Arjun ek chamakti hui cheez dhundta hai khet mein. Sab kehte hain pagal hai, lekin Arjun ko vishwaas hai yeh toota hua taara hai. Kya Arjun sahi tha? Padhein poori kahani.';
 $page_url = SITE_URL . 'stories/tootey-taarey-ka-safar.php';
 $page_image = SITE_URL . 'img/story1-hero.webp';

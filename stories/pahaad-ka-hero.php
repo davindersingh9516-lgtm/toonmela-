@@ -2,7 +2,7 @@
 require_once __DIR__ . "/../includes/functions.php";
 
 $slug = 'pahaad-ka-hero';
-$title = 'Pahaad Ka Hero';
+$title = 'Pahaad Ka Hero - Brave Boy Story in Hindi';
 $desc = 'Jab baadh aane wali thi aur koi nahi maan raha tha, ek 11 saal ke ladke ne akele poore gaon ko bachaya. Yeh hai Veer ki kahani - asli hero ki.';
 $date = '2026-06-23';
 $readTime = 11;

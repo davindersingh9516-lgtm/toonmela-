@@ -2,7 +2,7 @@
 require_once __DIR__ . "/../includes/functions.php";
 
 $slug = 'screen-se-bahar';
-$title = 'Screen Se Bahar';
+$title = 'Screen Se Bahar - Phone Addiction Story in Hindi';
 $desc = 'Aditya ka poora din phone mein jaata tha - reels, games, chat. Ek din phone toot gaya aur 7 din bina phone ke - woh 7 din uski zindagi badal gaye.';
 $date = '2026-06-24';
 $readTime = 12;

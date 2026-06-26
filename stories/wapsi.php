@@ -2,7 +2,7 @@
 require_once __DIR__ . "/../includes/functions.php";
 
 $slug = 'wapsi';
-$title = 'Wapsi';
+$title = 'Wapsi - Maa Baap Ki Emotional Kahani in Hindi';
 $desc = 'Manoj 20 saal baad apne gaon lautta hai. Sab badal gaya hai - lekin ek cheez nahi badli. Woh kya hai? Yeh kahani har us insaan ke liye hai jisne ghar choda hai.';
 $date = '2026-06-22';
 $readTime = 14;

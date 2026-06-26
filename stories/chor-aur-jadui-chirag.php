@@ -2,7 +2,7 @@
 require_once __DIR__ . "/../includes/functions.php";
 
 $slug = 'chor-aur-jadui-chirag';
-$title = 'Chor Aur Jadui Chirag';
+$title = 'Chor Aur Jadui Chirag - Jadui Chirag Ki Kahani Hindi';
 $desc = 'Ek chor ko mila jadui chirag jismein 3 wishes thin. Pehli wish mein paisa maanga, doosri mein taaqat. Lekin dono ne usse aur dukhi kar diya. Teesri wish mein usne kya maanga?';
 $date = '2026-06-23';
 $readTime = 11;

@@ -2,7 +2,7 @@
 require_once __DIR__ . "/../includes/functions.php";
 
 $slug = 'chanda-mama-ka-tohfa';
-$title = 'Chanda Mama Ka Tohfa';
+$title = 'Chanda Mama Ka Tohfa - Bedtime Story in Hindi';
 $desc = 'Gudiya roz raat ko chanda mama se baatein karti thi. Ek raat chanda mama ne usse ek aisa tohfa diya jo poori duniya mein sabse keemti tha.';
 $date = '2026-06-24';
 $readTime = 4;

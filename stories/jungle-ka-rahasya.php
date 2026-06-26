@@ -2,7 +2,7 @@
 require_once __DIR__ . "/../includes/functions.php";
 
 $slug = 'jungle-ka-rahasya';
-$title = 'Jungle Ka Rahasya';
+$title = 'Jungle Ka Rahasya - Adventure Story for Kids in Hindi';
 $desc = 'Teen dost jungle mein gaye aur unhe mila ek aisa rahasya jisne unki zindagi badal di. Kya tha woh rahasya? Padhein poori adventure kahani.';
 $date = '2026-06-25';
 $readTime = 10;

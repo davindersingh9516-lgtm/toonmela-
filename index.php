@@ -2,8 +2,8 @@
 require_once __DIR__ . '/includes/functions.php';
 
 $active_page = 'home';
-$page_title = SITE_NAME . ' - ' . SITE_TAGLINE . ' | Moral Stories for All Ages';
-$page_desc = 'ToonMela - Kahaniyon Ka Mela. Best moral stories for all ages in Hindi. Panchtantra, Fairy Tales, Life Lessons, Bedtime Stories aur bahut kuch.';
+$page_title = 'ToonMela - Best Moral Stories in Hindi | Hindi Kahani | Panchtantra Ki Kahani | Bedtime Stories';
+$page_desc = 'ToonMela - Hindi Kahani with Moral for all ages. Panchtantra ki kahani, bedtime stories in hindi, motivational stories, fairy tales. Bachon ki kahani se lekar adults ki life lessons tak - rozana nayi kahaniya. Free, 12+ Indian languages.';
 $page_url = SITE_URL;
 $page_schema = [
     '@context' => 'https://schema.org',

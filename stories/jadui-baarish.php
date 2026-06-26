@@ -2,7 +2,7 @@
 require_once __DIR__ . "/../includes/functions.php";
 
 $slug = 'jadui-baarish';
-$title = 'Jadui Baarish';
+$title = 'Jadui Baarish - Fairy Tale in Hindi for Kids';
 $desc = 'Ek din jungle mein aasmaan se toffees aur chocolates barsne lagi! Sab jaanwar khush. Lekin ek buddhimaan ullu ne bataya ki asli jadoo kya hai.';
 $date = '2026-06-24';
 $readTime = 4;
