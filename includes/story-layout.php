@@ -150,7 +150,7 @@ window.addEventListener('scroll',function(){var h=document.documentElement,b=doc
                     <img itemprop="image" src="<?php echo SITE_URL . ltrim($heroImage, '/'); ?>" alt="<?php echo e($title); ?> - cartoon illustration" width="1536" height="1024" loading="eager">
                 </div>
 
-                <div class="story-body" itemprop="articleBody">
+                <div class="story-body" itemprop="articleBody" lang="hi-Latn">
                     <?php echo $story_content; ?>
                 </div>
 

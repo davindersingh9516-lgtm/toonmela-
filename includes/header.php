@@ -49,9 +49,8 @@
     <div class="container">
         <label>&#127760; Language:</label>
         <select class="lang-select" id="langSelect" onchange="changeLanguage(this.value)">
-            <option value="">Hinglish</option>
-            <option value="en">English</option>
-            <option value="hi">हिन्दी</option>
+            <option value="">Original (Hinglish)</option>
+            <option value="hi">हिन्दी (Hindi)</option>
             <option value="bn">বাংলা (Bengali)</option>
             <option value="ta">தமிழ் (Tamil)</option>
             <option value="te">తెలుగు (Telugu)</option>
@@ -68,25 +67,21 @@
 </div>
 <script>
 function googleTranslateElementInit(){
-    new google.translate.TranslateElement({pageLanguage:'hi-Latn',includedLanguages:'en,hi,bn,ta,te,mr,gu,kn,ml,pa,ur,or',autoDisplay:false},'google_translate_element');
+    new google.translate.TranslateElement({pageLanguage:'en',includedLanguages:'hi,bn,ta,te,mr,gu,kn,ml,pa,ur,or',autoDisplay:false,layout:google.translate.TranslateElement.InlineLayout.HORIZONTAL},'google_translate_element');
 }
 function changeLanguage(lang){
     if(!lang){
-        // Reset to original
-        var frame=document.querySelector('.goog-te-banner-frame');
-        if(frame){var btn=frame.contentDocument.querySelector('.goog-close-link');if(btn)btn.click();}
         document.cookie="googtrans=;path=/;expires=Thu, 01 Jan 1970 00:00:00 GMT";
         document.cookie="googtrans=;path=/;domain=."+location.hostname+";expires=Thu, 01 Jan 1970 00:00:00 GMT";
         location.reload();
         return;
     }
-    document.cookie="googtrans=/hi/"+lang+";path=/";
-    document.cookie="googtrans=/hi/"+lang+";path=/;domain=."+location.hostname;
+    document.cookie="googtrans=/en/"+lang+";path=/";
+    document.cookie="googtrans=/en/"+lang+";path=/;domain=."+location.hostname;
     location.reload();
 }
-// Set dropdown to current language on load
 document.addEventListener('DOMContentLoaded',function(){
-    var m=document.cookie.match(/googtrans=\/hi\/(\w+)/);
+    var m=document.cookie.match(/googtrans=\/en\/(\w+)/);
     if(m&&document.getElementById('langSelect')){document.getElementById('langSelect').value=m[1];}
 });
 </script>
@@ -94,7 +89,7 @@ document.addEventListener('DOMContentLoaded',function(){
 
 <header class="header">
     <div class="container header-inner">
-        <a href="<?php echo SITE_URL; ?>" class="logo">Toon<span>Mela</span><small>Kahaniyon Ka Mela</small></a>
+        <a href="<?php echo SITE_URL; ?>" class="logo notranslate" translate="no">Toon<span>Mela</span><small>Kahaniyon Ka Mela</small></a>
         <button class="mobile-toggle" aria-label="Menu" onclick="document.querySelector('.nav').classList.toggle('active')">
             <i data-lucide="menu" style="width:24px;height:24px;color:var(--text)"></i>
         </button>
