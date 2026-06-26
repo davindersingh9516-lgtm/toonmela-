@@ -8,8 +8,9 @@ RewriteRule ^(.*)$ $1.php [L]
 # Custom 404
 ErrorDocument 404 /404.php
 
-# Serve sitemap.xml via PHP
+# Serve sitemap.xml and feed.xml via PHP
 RewriteRule ^sitemap\.xml$ sitemap.php [L]
+RewriteRule ^feed\.xml$ feed.php [L]
 
 # Security headers
 <IfModule mod_headers.c>

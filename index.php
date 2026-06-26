@@ -9,17 +9,41 @@ $page_schema = [
     '@context' => 'https://schema.org',
     '@type' => 'WebSite',
     'name' => SITE_NAME,
-    'url' => SITE_URL,
+    'url' => 'https://toonmela.com/',
     'description' => SITE_DESC,
+    'inLanguage' => ['hi', 'en'],
     'potentialAction' => [
         '@type' => 'SearchAction',
-        'target' => SITE_URL . 'search.php?q={search_term_string}',
+        'target' => 'https://toonmela.com/search.php?q={search_term_string}',
         'query-input' => 'required name=search_term_string',
     ],
 ];
 
-require_once __DIR__ . '/includes/header.php';
+$org_schema = [
+    '@context' => 'https://schema.org',
+    '@type' => 'Organization',
+    'name' => 'ToonMela',
+    'url' => 'https://toonmela.com/',
+    'logo' => 'https://toonmela.com/favicon.svg',
+    'description' => 'India\'s moral story platform for all ages. Engaging stories in Hindi & English.',
+    'foundingDate' => '2024',
+    'sameAs' => [
+        'https://facebook.com/toonmela',
+        'https://instagram.com/toonmelatv',
+        'https://x.com/toonmelatv',
+        'https://youtube.com/@toonmela',
+    ],
+    'contactPoint' => [
+        '@type' => 'ContactPoint',
+        'email' => 'operations@toonmela.com',
+        'contactType' => 'customer support',
+    ],
+];
 
+require_once __DIR__ . '/includes/header.php';
+?>
+<script type="application/ld+json"><?php echo json_encode($org_schema, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE); ?></script>
+<?php
 $featured = get_featured_story();
 $all_stories = get_stories();
 $age_groups = get_age_groups();

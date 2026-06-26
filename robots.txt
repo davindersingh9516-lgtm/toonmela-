@@ -5,3 +5,6 @@ Sitemap: https://toonmela.com/sitemap.xml
 
 Disallow: /includes/
 Disallow: /data/
+
+# RSS Feed
+# https://toonmela.com/feed.xml

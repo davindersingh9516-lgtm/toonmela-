@@ -6,7 +6,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo e($page_title ?? SITE_NAME . ' - ' . SITE_TAGLINE); ?></title>
     <meta name="description" content="<?php echo e($page_desc ?? SITE_DESC); ?>">
+    <?php if (!empty($keywords)) : ?><meta name="keywords" content="<?php echo e($keywords); ?>"><?php endif; ?>
     <link rel="canonical" href="<?php echo e($page_url ?? SITE_URL); ?>">
+
+    <!-- Google Search Console - REPLACE with your verification code -->
+    <!-- <meta name="google-site-verification" content="YOUR_GSC_CODE_HERE"> -->
+
+    <!-- Bing Webmaster - REPLACE with your verification code -->
+    <!-- <meta name="msvalidate.01" content="YOUR_BING_CODE_HERE"> -->
+
+    <!-- Google Analytics GA4 - REPLACE with your Measurement ID -->
+    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-XXXXXXXXXX');</script> -->
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="<?php echo SITE_URL; ?>favicon.svg">
+    <link rel="apple-touch-icon" href="<?php echo SITE_URL; ?>apple-touch-icon.png">
+    <link rel="manifest" href="<?php echo SITE_URL; ?>manifest.json">
+    <meta name="theme-color" content="#1A1A2E">
+
+    <!-- RSS Feed -->
+    <link rel="alternate" type="application/rss+xml" title="ToonMela Stories" href="<?php echo SITE_URL; ?>feed.xml">
+
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="author" content="ToonMela">
 
     <meta property="og:site_name" content="<?php echo SITE_NAME; ?>">
     <meta property="og:title" content="<?php echo e($page_title ?? SITE_NAME); ?>">
