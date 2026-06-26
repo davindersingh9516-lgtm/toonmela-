@@ -1,0 +1,49 @@
+# ToonMela - Kahaniyon Ka Mela
+
+> India's moral story platform for all ages. Engaging stories in Hindi, English & 12+ Indian languages.
+
+ToonMela is a free moral story publishing platform that creates engaging, age-appropriate stories for readers of all ages. Every story is designed to be so captivating that readers cannot stop until they finish.
+
+## Age Groups
+
+- **Nanhe Readers (3-6 Years)**: Simple moral stories with colorful cartoon illustrations for toddlers and young children.
+- **Junior Readers (7-12 Years)**: Adventure, friendship, and wisdom stories for school-going children.
+- **Teen Readers (13-17 Years)**: Life lessons about exam pressure, bullying, phone addiction, and sportsmanship.
+- **Sabke Liye (18+)**: Deep philosophical stories about family, career, relationships, and life values.
+
+## Story Categories
+
+- Panchtantra Stories
+- Fairy Tales / Pari Kahaniyaan
+- Life Lessons
+- Friendship Stories
+- Family Stories
+- Bedtime Stories
+- Adventure Stories
+- Wisdom Tales
+
+## Content Language
+
+Stories are written in Hinglish (Hindi-English mix using Roman script) and can be translated to Hindi (Devanagari), English, Bengali, Tamil, Telugu, Marathi, Gujarati, Kannada, Malayalam, Punjabi, Urdu, and Odia.
+
+## Featured Stories
+
+- **Tootey Taarey Ka Safar**: A boy finds a glowing stone in his field and believes it's a fallen star. A story about belief and never giving up.
+- **Ek Cup Chai**: A billionaire CEO learns life's biggest lesson from a roadside chai seller.
+- **98 Percent Ka Sach**: A school topper discovers that 98% marks came at the cost of her happiness.
+- **Wapsi**: A man returns to his village after 20 years to find 20 kurtas his father kept for him every Diwali.
+- **Rangbirangi Titli**: A butterfly who doesn't like her colors learns she is a flying rainbow.
+- **Motu Haathi Aur Chhotu Chuha**: The jungle's biggest elephant and smallest mouse become best friends.
+
+## Contact
+
+- Website: https://toonmela.com
+- Email: operations@toonmela.com
+
+## Key Facts
+
+- Free to read, no subscription required
+- New stories published daily
+- All cartoon illustrations are original
+- Available in 12+ Indian languages
+- Age-appropriate content filtering
