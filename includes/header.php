@@ -16,8 +16,8 @@
     <!-- <meta name="msvalidate.01" content="YOUR_BING_CODE_HERE"> -->
 
     <!-- Google Analytics GA4 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CY6W4EXZ0W"></script>
-    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-CY6W4EXZ0W');</script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZSGJTSK3Q"></script>
+    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-VZSGJTSK3Q');</script>
 
     <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href="<?php echo SITE_URL; ?>favicon.svg">
