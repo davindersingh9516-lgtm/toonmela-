@@ -39,7 +39,8 @@
 </footer>
 
 <script>
-lucide.createIcons();
+function initLucide(){if(typeof lucide!=='undefined'){lucide.createIcons();}else{setTimeout(initLucide,100);}}
+initLucide();
 document.addEventListener('keydown',function(e){if(e.key==='Escape'){var o=document.querySelector('.search-overlay');if(o)o.classList.remove('active');}});
 document.addEventListener('click',function(e){if(e.target.matches('.nav a')){var n=document.querySelector('.nav');if(n)n.classList.remove('active');}});
 </script>
