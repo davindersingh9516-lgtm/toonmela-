@@ -29,6 +29,7 @@
             <a href="<?php echo SITE_URL; ?>">Home</a>
             <a href="<?php echo SITE_URL; ?>about.php">About Us</a>
             <a href="<?php echo SITE_URL; ?>contact.php">Contact Us</a>
+            <a href="<?php echo SITE_URL; ?>editorial-policy.php">Editorial Policy</a>
             <a href="<?php echo SITE_URL; ?>privacy-policy.php">Privacy Policy</a>
         </div>
     </div>

@@ -32,9 +32,12 @@ $page_schema = [
     'datePublished' => $date,
     'dateModified' => $date,
     'author' => [
-        '@type' => 'Organization',
-        'name' => 'ToonMela',
-        'url' => $base_url,
+        '@type' => 'Person',
+        'name' => 'Davinder Singh',
+        'url' => $base_url . 'about.php',
+        'jobTitle' => 'Founder & Editor-in-Chief',
+        'worksFor' => ['@type' => 'Organization', 'name' => 'ToonMela'],
+        'sameAs' => ['https://instagram.com/toonmelatv', 'https://x.com/toonmelatv'],
     ],
     'publisher' => [
         '@type' => 'Organization',
@@ -165,6 +168,27 @@ window.addEventListener('scroll',function(){var h=document.documentElement,b=doc
                     <?php endforeach; ?>
                 </section>
                 <?php endif; ?>
+
+                <!-- Author Bio - E-E-A-T -->
+                <div class="author-box" style="display:flex;gap:18px;align-items:flex-start;background:var(--bg-white);border:1px solid var(--border);border-radius:10px;padding:22px 26px;margin-top:40px;">
+                    <img src="<?php echo SITE_URL; ?>img/author-davinder.svg" alt="Davinder Singh - ToonMela Founder" style="width:70px;height:70px;border-radius:50%;object-fit:cover;flex-shrink:0;border:2px solid var(--gold);" loading="lazy">
+                    <div>
+                        <div style="font-family:var(--font-h);font-size:16px;font-weight:700;color:var(--heading);margin-bottom:4px;">Written & Reviewed by Davinder Singh</div>
+                        <div style="font-family:var(--font-ui);font-size:11px;color:var(--accent);text-transform:uppercase;letter-spacing:1px;margin-bottom:8px;">Founder & Editor-in-Chief, ToonMela</div>
+                        <p style="font-family:var(--font-ui);font-size:13px;color:var(--text-light);line-height:1.6;margin:0;">Davinder is a storyteller and content creator with 5+ years of experience in Hindi entertainment and children's content. Every story on ToonMela is personally reviewed for moral accuracy, age-appropriateness, and engagement quality before publishing.</p>
+                        <div style="display:flex;gap:10px;margin-top:10px;">
+                            <a href="https://instagram.com/toonmelatv" target="_blank" rel="noopener" style="font-family:var(--font-ui);font-size:12px;color:var(--accent);">Instagram</a>
+                            <a href="https://x.com/toonmelatv" target="_blank" rel="noopener" style="font-family:var(--font-ui);font-size:12px;color:var(--accent);">Twitter</a>
+                            <a href="<?php echo SITE_URL; ?>about.php" style="font-family:var(--font-ui);font-size:12px;color:var(--accent);">About</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Content Transparency - E-E-A-T -->
+                <div style="font-family:var(--font-ui);font-size:11.5px;color:var(--text-muted);margin-top:16px;padding:12px 16px;background:var(--bg);border-radius:6px;line-height:1.6;">
+                    <strong style="color:var(--text-light);">Content Note:</strong> This story is crafted with AI assistance and personally reviewed by our editorial team for accuracy, cultural sensitivity, and age-appropriateness. Last reviewed: <?php echo format_date($date); ?>.
+                    <a href="<?php echo SITE_URL; ?>editorial-policy.php" style="color:var(--accent);margin-left:4px;">Read our Editorial Policy</a>
+                </div>
 
                 <div class="share">
                     <div class="share-title">Share This Story</div>
