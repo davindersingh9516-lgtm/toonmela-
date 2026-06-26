@@ -150,8 +150,8 @@ window.addEventListener('scroll',function(){var h=document.documentElement,b=doc
                 </header>
 
                 <?php
-                $audio_file = __DIR__ . '/../audio/' . $slug . '.mp3';
-                if (file_exists($audio_file)) : ?>
+                $audio_slugs = ['ek-cup-chai'];
+                if (in_array($slug, $audio_slugs)) : ?>
                 <div class="audio-player" style="background:linear-gradient(135deg,#1A1A2E,#16213E);border-radius:12px;padding:20px 24px;margin-bottom:28px;display:flex;align-items:center;gap:16px;flex-wrap:wrap;">
                     <div style="display:flex;align-items:center;gap:10px;flex:1;min-width:200px;">
                         <button onclick="var a=document.getElementById('storyAudio');if(a.paused){a.play();this.innerHTML='<i data-lucide=&quot;pause&quot; style=&quot;width:20px;height:20px&quot;></i>';lucide.createIcons();}else{a.pause();this.innerHTML='<i data-lucide=&quot;play&quot; style=&quot;width:20px;height:20px&quot;></i>';lucide.createIcons();}" style="background:var(--gold);border:none;width:44px;height:44px;border-radius:50%;display:flex;align-items:center;justify-content:center;cursor:pointer;color:#fff;flex-shrink:0;"><i data-lucide="play" style="width:20px;height:20px"></i></button>
