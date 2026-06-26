@@ -191,8 +191,9 @@ ul { list-style: none; }
     transition: transform 0.2s, box-shadow 0.2s;
 }
 .card:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); }
-.card-img { position: relative; overflow: hidden; aspect-ratio: 16/10; }
+.card-img { position: relative; overflow: hidden; aspect-ratio: 16/10; max-height: 220px; }
 .card-img img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s; }
+.card-body { min-height: 140px; }
 .card:hover .card-img img { transform: scale(1.03); }
 .card-age {
     position: absolute; top: 10px; left: 10px;
