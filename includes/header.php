@@ -9,8 +9,8 @@
     <?php if (!empty($keywords)) : ?><meta name="keywords" content="<?php echo e($keywords); ?>"><?php endif; ?>
     <link rel="canonical" href="<?php echo e($page_url ?? SITE_URL); ?>">
 
-    <!-- Google Search Console - REPLACE with your verification code -->
-    <!-- <meta name="google-site-verification" content="YOUR_GSC_CODE_HERE"> -->
+    <!-- Google Search Console -->
+    <meta name="google-site-verification" content="gu489OJqGCTVCcfbkdOX57gCkrsbx1mHFBcn1w_cPqc">
 
     <!-- Bing Webmaster - REPLACE with your verification code -->
     <!-- <meta name="msvalidate.01" content="YOUR_BING_CODE_HERE"> -->
