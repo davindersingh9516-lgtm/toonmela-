@@ -15,9 +15,8 @@
     <!-- Bing Webmaster - REPLACE with your verification code -->
     <!-- <meta name="msvalidate.01" content="YOUR_BING_CODE_HERE"> -->
 
-    <!-- Google Analytics GA4 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VZSGJTSK3Q"></script>
-    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-VZSGJTSK3Q');</script>
+    <!-- Google Analytics GA4 - deferred for performance -->
+    <script>window.addEventListener('load',function(){var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=G-VZSGJTSK3Q';document.head.appendChild(s);window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-VZSGJTSK3Q');});</script>
 
     <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href="<?php echo SITE_URL; ?>favicon.svg">
@@ -53,9 +52,11 @@
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Source+Sans+3:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="<?php echo SITE_URL; ?>css/style.css?v=3.0">
-    <script src="https://unpkg.com/lucide@latest"></script>
+    <link rel="preconnect" href="https://unpkg.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Lora:wght@400;500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Lora:wght@400;500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet"></noscript>
+    <link rel="stylesheet" href="<?php echo SITE_URL; ?>css/style.css?v=3.1">
+    <script defer src="https://unpkg.com/lucide@latest"></script>
     <style>
     .lang-bar{background:var(--heading-color,#1A1A2E);padding:5px 0}
     .lang-bar .container{display:flex;align-items:center;justify-content:flex-end;gap:8px}
@@ -109,7 +110,7 @@ document.addEventListener('DOMContentLoaded',function(){
     if(m&&document.getElementById('langSelect')){document.getElementById('langSelect').value=m[1];}
 });
 </script>
-<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script>window.addEventListener('load',function(){var s=document.createElement('script');s.src='https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';document.body.appendChild(s);});</script>
 
 <header class="header">
     <div class="container header-inner">

@@ -1,6 +1,6 @@
 <article class="card">
     <a href="<?php echo story_url($story['slug']); ?>" class="card-img">
-        <img src="<?php echo e($story['image']); ?>" alt="<?php echo e($story['title']); ?>" loading="lazy" width="400" height="250">
+        <img src="<?php echo e($story['image']); ?>" alt="<?php echo e($story['title']); ?>" loading="lazy" width="400" height="250" decoding="async">
         <span class="card-age"><?php echo e($story['ageLabel']); ?></span>
     </a>
     <div class="card-body">

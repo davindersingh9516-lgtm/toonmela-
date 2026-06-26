@@ -89,7 +89,7 @@ $age_groups = get_age_groups();
     <div class="container">
         <div class="featured-card">
             <a href="<?php echo story_url($featured['slug']); ?>" class="featured-img">
-                <img src="<?php echo e($featured['image']); ?>" alt="<?php echo e($featured['title']); ?>">
+                <img src="<?php echo e($featured['image']); ?>" alt="<?php echo e($featured['title']); ?>" width="600" height="400" fetchpriority="high">
             </a>
             <div class="featured-body">
                 <span class="badge"><i data-lucide="bookmark" style="width:11px;height:11px;display:inline;vertical-align:-1px"></i> Featured Story</span>
