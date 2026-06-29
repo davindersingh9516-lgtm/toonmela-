@@ -86,6 +86,8 @@ ob_start();
 
 <p>Lekin pehle — paani nikaalna padega. Kyunki potli talle mein hai — paani kam hoga toh potli dikhegi.</p>
 
+<img src="<?php echo SITE_URL; ?>img/tenali-raman-well.webp" alt="Chor kuen se paani nikalta hua raat mein - cartoon" style="border-radius:8px; margin: 2em auto;">
+
 <p>Mangal ne balti se paani nikalna shuru kiya. Ek balti. Do balti. Das balti. Bees balti. <strong>Paani nikal nikal ke baagh mein daal raha tha.</strong></p>
 
 <img src="<?php echo SITE_URL; ?>img/tenali-raman-hero.webp" alt="Chor kuen se paani nikalta hua - Tenali dekhta hua - cartoon" style="border-radius:8px; margin: 2em auto;">

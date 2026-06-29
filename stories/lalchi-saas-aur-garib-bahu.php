@@ -136,6 +136,8 @@ ob_start();
 
 <p>Kamla Devi ki aankhein bhar aayin. Kyunki sach tha — <strong>bilkul sach.</strong> 35 saal pehle woh bhi aise hi sataayi gayi thin. Woh bhi roti thin. Woh bhi thaki hui thin.</p>
 
+<img src="<?php echo SITE_URL; ?>img/lalchi-saas-teacher.webp" alt="Teacher sahab saas ko samjhate hue - emotional scene - cartoon" style="border-radius:8px; margin: 2em auto;">
+
 <p>"Toh behen ji — <strong>aap wahi dard apni bahu ko kyun de rahi hain?</strong>"</p>
 
 <p>Silence. Poore kamre mein silence.</p>
