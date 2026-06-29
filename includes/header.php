@@ -19,8 +19,9 @@
     <script>window.addEventListener('load',function(){var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=G-VZSGJTSK3Q';document.head.appendChild(s);window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-VZSGJTSK3Q');});</script>
 
     <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="512x512" href="<?php echo SITE_URL; ?>favicon.png">
     <link rel="icon" type="image/svg+xml" href="<?php echo SITE_URL; ?>favicon.svg">
-    <link rel="apple-touch-icon" href="<?php echo SITE_URL; ?>apple-touch-icon.png">
+    <link rel="apple-touch-icon" href="<?php echo SITE_URL; ?>favicon.png">
     <link rel="manifest" href="<?php echo SITE_URL; ?>manifest.json">
     <meta name="theme-color" content="#1A1A2E">
 
