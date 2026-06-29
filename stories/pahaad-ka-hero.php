@@ -23,7 +23,7 @@ ob_start();
 
 <p>Mandakini shaant nadi thi — jaise ek budhi naani jo dheere-dheere chalti hai. Bachche usmein khelti the, aurataein kapde dhoti thin, kisan paani lete the kheti ke liye. <strong>Mandakini gaon ki jaan thi.</strong></p>
 
-<p>Is gaon mein ek ladka rehta tha — <strong>Veer.</strong> 11 saal ka. Naam bada tha — Veer — lekin dikhne mein bilkul normal bachcha tha. Patla, saawich rang, baal ulajhe hue, aur school ki purani uniform jo thodi chhoti ho gayi thi.</p>
+<p>Is gaon mein ek ladka rehta tha — <strong>Veer.</strong> 11 saal ka. Naam bada tha — Veer — lekin dikhne mein bilkul normal bachcha tha. Patla, saanwla rang, baal ulajhe hue, aur school ki purani uniform jo thodi chhoti ho gayi thi.</p>
 
 <p>Lekin Veer mein ek baat khaas thi jo kisi aur bachche mein nahi thi — <strong>Veer nature ki boli samajhta tha.</strong></p>
 

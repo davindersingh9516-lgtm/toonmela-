@@ -45,7 +45,7 @@ ob_start();
 
 <h2>Jungle Ke Andar</h2>
 
-<p>Jungle ka darwaaza — yaani woh jagah jahan gaon ki pakki sadak khatam hoti hai aur kachchi patgaddi shuru hoti hai — yahan se aage ped ghane ho jaate hain. Upar se suraj ki roshni mushkil se aa rahi thi — jaise kisi ne chhaan laga di ho.</p>
+<p>Jungle ka darwaaza — yaani woh jagah jahan gaon ki pakki sadak khatam hoti hai aur kachchi pagdandi shuru hoti hai — yahan se aage ped ghane ho jaate hain. Upar se suraj ki roshni mushkil se aa rahi thi — jaise kisi ne chhaan laga di ho.</p>
 
 <p>Chidion ki awaazein thi — lekin shehar wali chidion jaisi nahi. Yeh alag thi — tez, chhoti, jaise koi warning de raha ho: <strong>"Aage mat aao."</strong></p>
 

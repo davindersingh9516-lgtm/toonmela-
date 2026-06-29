@@ -30,7 +30,7 @@ ob_start();
 
 <p>Aur woh match — <strong>haar gaye.</strong> Ek goal se. Sirf ek.</p>
 
-<p>Aryan midfield mein ghutno ke bal baitha tha. Jersey paseene se bheegi thi. Saans bhaari thi — itni bhaari jaise phephddon mein hawa nahi, pathar bhare hon. Aankhein jal rahi thin — lekin aansoo nahi nikal rahe the. Kyunki aansoo se bhi zyada kuch aur jal raha tha — <strong>andar. Dil mein. Us jagah jahan sapne rehte hain.</strong></p>
+<p>Aryan midfield mein ghutno ke bal baitha tha. Jersey paseene se bheegi thi. Saans bhaari thi — itni bhaari jaise phephdon mein hawa nahi, pathar bhare hon. Aankhein jal rahi thin — lekin aansoo nahi nikal rahe the. Kyunki aansoo se bhi zyada kuch aur jal raha tha — <strong>andar. Dil mein. Us jagah jahan sapne rehte hain.</strong></p>
 
 <img src="<?php echo SITE_URL; ?>img/haar-baad-ground.webp" alt="Aryan ground par baitha hua - haar ke baad - football - cartoon" style="border-radius:8px; margin: 2em auto;">
 
@@ -168,7 +168,7 @@ ob_start();
 
 <p>Lekin Aryan ko sach mein khushi tab hui jab Coach Verma sir aaye, uska kandha pakda, aur kaha:</p>
 
-<p><strong>"Aryan, trophy toh bahut log jeette hain. Lekin haar ke baad uthna — yeh bahut kam log karte hain. Aaj ki jeet teri nahi — <strong>teri haar ki hai.</strong> Agar tu pichle saal nahi haarta, toh aaj ka tu nahi banta."</strong></p>
+<p><strong>"Aryan, trophy toh bahut log jeette hain. Lekin haar ke baad uthna — yeh bahut kam log karte hain. Aaj ki jeet teri nahi — teri haar ki hai. Agar tu pichle saal nahi haarta, toh aaj ka tu nahi banta."</strong></p>
 
 <p>Aryan ne trophy uthaayi — lekin uski aankhon mein woh raat thi. Chole bhature wali raat. Coach ka message wali raat. Woh raat jab usne decide kiya tha — <strong>"Main uthhunga."</strong></p>
 

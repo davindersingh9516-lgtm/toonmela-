@@ -118,7 +118,7 @@ ob_start();
 
 <p>"Pehle namak bana deta hun — namak bahut mehenga bik raha hai bazaar mein! Maalamaal ho jaunga!"</p>
 
-<p>Chakki ghuraayi — <strong>"Chakki, namak bana do!"</strong></p>
+<p>Chakki ghumayi — <strong>"Chakki, namak bana do!"</strong></p>
 
 <p>Chakki ghoomne lagi. Namak aane laga — safed, mota, dhaar ki tarah. Naav mein namak bhar raha tha.</p>
 
@@ -140,7 +140,7 @@ ob_start();
 
 <p>Nahi ruki.</p>
 
-<p>Kyunki Sohan ko <strong>rokne ka sahi tareeqa nahi pata tha.</strong> Mohan ko budhe ne bataya tha — <strong>"Bas karo chakki"</strong> — yeh exact words the. Lekin Sohan ne woh nahi suna tha — usne sirf chakki ghuraaana dekha tha, rokna nahi.</p>
+<p>Kyunki Sohan ko <strong>rokne ka sahi tareeqa nahi pata tha.</strong> Mohan ko budhe ne bataya tha — <strong>"Bas karo chakki"</strong> — yeh exact words the. Lekin Sohan ne woh nahi suna tha — usne sirf chakki ghumaana dekha tha, rokna nahi.</p>
 
 <p>Namak aata raha. Aata raha. Aata raha.</p>
 

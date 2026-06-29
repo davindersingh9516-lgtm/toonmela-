@@ -130,7 +130,7 @@ ob_start();
 
 <p>Birbal ne kaha — woh line jo Akbar zindagi bhar nahi bhoole:</p>
 
-<blockquote>"Jahanpanah, <strong>duniya ki sabse badi cheez ZAROORAT hai.</strong> Jab zaroorat hoti hai — tab paani sone se zyada keemti ho jaata hai. Tab ek roti Kohinoor heere se zyada important ho jaati hai. Tab ek chhota sa sahara duniya ki sabse badi taaqat ban jaata hai.<br><br>Cheezoin ki value fixed nahi hoti Jahanpanah — <strong>zaroorat decide karti hai ki kya badi hai aur kya chhoti.</strong> Registan mein paani raja hai. Bhookhe ke liye roti Bhagwaan hai. Akele insaan ke liye ek dost duniya hai.<br><br><strong>Isliye na taaqat sabse badi hai, na paisa, na pyaar — sabse badi hai ZAROORAT. Kyunki zaroorat hi cheezoin ko unki asli value deti hai.</strong>"</blockquote>
+<blockquote>"Jahanpanah, <strong>duniya ki sabse badi cheez ZAROORAT hai.</strong> Jab zaroorat hoti hai — tab paani sone se zyada keemti ho jaata hai. Tab ek roti Kohinoor heere se zyada important ho jaati hai. Tab ek chhota sa sahara duniya ki sabse badi taaqat ban jaata hai.<br><br>Cheezoin ki value fixed nahi hoti Jahanpanah — <strong>zaroorat decide karti hai ki kya badi hai aur kya chhoti.</strong> Registan mein paani raja hai. Bhookhe ke liye roti Bhagwaan hai. Akele insaan ke liye ek dost duniya hai.<br><br><strong>Isliye na taaqat sabse badi hai, na paisa, na pyaar — sabse badi hai ZAROORAT. Kyunki zaroorat hi cheezon ko unki asli value deti hai.</strong>"</blockquote>
 
 <p>Akbar kuch der tak chup rahe. Registan ki hawa chal rahi thi — garmi thi lekin Birbal ke shabd thande the.</p>
 
@@ -152,7 +152,7 @@ ob_start();
 
 <p>"Suno sab — <strong>duniya ki sabse badi cheez zaroorat hai.</strong> Main Badshah hun — mere paas sab hai. Lekin jab registan mein pyaas lagi — tab mera sona, meri taaqat, mera takht — sab bekaar tha. Sirf ek ghoontt paani chahiye tha."</p>
 
-<p>"Kabhi kisi garib ko chhota mat samjho — kyunki uske paas jo hai woh uski zaroorat poori karta hai. Aur kabhi apni doullat par ghamand mat karo — kyunki ek din ek ghoontt paani ke liye sab chhod doge."</p>
+<p>"Kabhi kisi garib ko chhota mat samjho — kyunki uske paas jo hai woh uski zaroorat poori karta hai. Aur kabhi apni daulat par ghamand mat karo — kyunki ek din ek ghoontt paani ke liye sab chhod doge."</p>
 
 <p>Darbaar mein taaliyan bajin — lekin asli taali Akbar ke dil mein baji thi. <strong>Ek Badshah ne aaj ek mantri se zindagi ki sabse badi seekh seekhi thi.</strong></p>
 
@@ -162,7 +162,7 @@ ob_start();
     <h3>Kahani Ki Seekh</h3>
     <p><strong>Duniya ki sabse badi cheez zaroorat hai.</strong></p>
     <p>Jab zaroorat hoti hai — tab paani sone se zyada keemti ho jaata hai. Roti heere se zyada important ho jaati hai. Ek dost duniya se zyada bada ho jaata hai.</p>
-    <p>Isliye — kabhi kisi cheez ko chhota mat samjho. Aur kabhi apni doullat par ghamand mat karo. <strong>Kyunki cheezoin ki value fixed nahi hoti — zaroorat decide karti hai.</strong></p>
+    <p>Isliye — kabhi kisi cheez ko chhota mat samjho. Aur kabhi apni daulat par ghamand mat karo. <strong>Kyunki cheezon ki value fixed nahi hoti — zaroorat decide karti hai.</strong></p>
     <p>Aur haan — <strong>Birbal jaisa dost rakhna. Jo sach bole, sahi waqt par bole, aur muskura kar bole.</strong></p>
 </div>
 

@@ -20,7 +20,7 @@ $faq = [
 ob_start();
 ?>
 
-<p>Raat ka andhera tha. Vijayanagar shehar so raha tha — woh shehar jo duniya ka sabse ameer shehar maana jaata tha. Sone ke mandir, heeron ki dukaaanein, aur resham ki sadkein — <strong>lekin raat mein andhera sabko barabar kar deta hai.</strong></p>
+<p>Raat ka andhera tha. Vijayanagar shehar so raha tha — woh shehar jo duniya ka sabse ameer shehar maana jaata tha. Sone ke mandir, heeron ki dukaanein, aur resham ki sadkein — <strong>lekin raat mein andhera sabko barabar kar deta hai.</strong></p>
 
 <p>Aur us andhere mein — ek saaya — <strong>Mangal Chor</strong> — Tenali Raman ke ghar ki taraf badh raha tha.</p>
 

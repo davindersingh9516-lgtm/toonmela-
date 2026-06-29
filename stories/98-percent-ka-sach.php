@@ -151,7 +151,7 @@ ob_start();
 
 <p>"Nahi yaar. Padhai jaari hai. Lekin zindagi bhi jaari karni hai."</p>
 
-<p>Dono gayin. Ice cream khayi. Puri gully mein ghoome. <strong>2 saalon mein pehli baar Riya ne bina guilt ke 3 ghante spend kiye — bina yeh sochhe ki "yeh waqt padhai mein lagta toh aur acche marks aate."</strong></p>
+<p>Dono gayin. Ice cream khayi. Puri gully mein ghoome. <strong>2 saalon mein pehli baar Riya ne bina guilt ke 3 ghante spend kiye — bina yeh soche ki "yeh waqt padhai mein lagta toh aur acche marks aate."</strong></p>
 
 <p>Riya ne painting phir se shuru ki — jo usne 3 saal pehle chhod di thi. Pehle din itna achcha nahi bana — lekin <strong>banane mein mazaa aaya.</strong> Aur woh mazaa — woh feeling ki "main yeh isliye kar rahi hun kyunki mujhe accha lagta hai, na ki koi marks milenge" — yeh Riya ke liye nayi thi.</p>
 

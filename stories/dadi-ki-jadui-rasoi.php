@@ -89,7 +89,7 @@ ob_start();
 
 <p>Woh har cheez dhyan se karti thin — kyunki unke liye khaana banana ek kaam nahi, <strong>ek ibaadat thi.</strong> Har roti mein pyaar belti thin. Har sabzi mein dua dalti thin. Har plate mein apna dil rakhti thin.</p>
 
-<p>Mummy bhi accha banaati thin — lekin woh jaldi mein hoti thin. Office jaana hai, bacchon ko school bhejhna hai, 10 kaam hain — khaana bhi ek kaam tha. <strong>Lekin Dadi ke liye khaana kaam nahi tha — khaana pyaar tha.</strong></p>
+<p>Mummy bhi accha banaati thin — lekin woh jaldi mein hoti thin. Office jaana hai, bacchon ko school bhejna hai, 10 kaam hain — khaana bhi ek kaam tha. <strong>Lekin Dadi ke liye khaana kaam nahi tha — khaana pyaar tha.</strong></p>
 
 <p>Aur pyaar ka swaad — <strong>woh kisi masale se nahi aata.</strong></p>
 

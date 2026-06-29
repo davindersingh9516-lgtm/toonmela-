@@ -75,7 +75,7 @@ ob_start();
 
 <p><strong>"Mujhe duniya ka saara paisa chahiye!"</strong></p>
 
-<p>Jinn ne aankhein ghumayin — <em>"Hamesha pehli wish yahi hoti hai"</em> — phir ungliyan chadkaayin.</p>
+<p>Jinn ne aankhein ghumayin — <em>"Hamesha pehli wish yahi hoti hai"</em> — phir ungliyan chadkayin.</p>
 
 <p><strong>SNAP!</strong></p>
 
@@ -97,7 +97,7 @@ ob_start();
 
 <p>"Jinn! Problem yeh hai ki log mere paison ke peeche hain aur main rok nahi paa raha. <strong>Mujhe itni taaqat do ki koi mera kuch na ukhaad sake!</strong>"</p>
 
-<p>Jinn ne phir ungliyan chadkaayin — is baar thoda udasee se.</p>
+<p>Jinn ne phir ungliyan chadkayin — is baar thoda udasee se.</p>
 
 <p><strong>SNAP!</strong></p>
 
@@ -163,7 +163,7 @@ ob_start();
 
 <p><strong>"Ki asli khushi paison mein nahi — sukoon mein hai. Taaqat mein nahi — pyaar mein hai. Aur yeh dono cheezein wish se nahi — mehnat se milti hain."</strong></p>
 
-<p>Jinn ne ungliyan chadkaayin — <strong>SNAP!</strong></p>
+<p>Jinn ne ungliyan chadkayin — <strong>SNAP!</strong></p>
 
 <p>Sab kuch gayab ho gaya. Sona. Heere. Notes. Taaqat. Sab.</p>
 

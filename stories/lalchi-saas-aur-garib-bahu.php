@@ -82,7 +82,7 @@ ob_start();
 
 <p>6 mahine ho gaye the shaadi ko. Suman ka weight 8 kg gir gaya tha. Aankhon ke neeche dark circles the. Haath kaam karte-karte rough ho gaye the. <strong>Woh ladki jo shaadi ke din muskuraa rahi thi — ab kabhi nahi muskuraati thi.</strong></p>
 
-<p>Ek din Suman ke Papa aaye — Teacher sahab. Purana sa kurta, chappal, ek thheli mein aam laaye the — "Beta, tere favourite Dussehri aam hain. Ped se toode hain."</p>
+<p>Ek din Suman ke Papa aaye — Teacher sahab. Purana sa kurta, chappal, ek theli mein aam laaye the — "Beta, tere favourite Dussehri aam hain. Ped se toode hain."</p>
 
 <p>Kamla Devi ne darwaaze par dekha — "Arre, samdhiji! Aaiye aaiye. <strong>Bus se aaye? Car nahi hai na.</strong> Koi baat nahi."</p>
 
@@ -144,7 +144,7 @@ ob_start();
 
 <p>"Aapne woh dard jhela. Aapko pata hai kaisa lagta hai. <strong>Toh aap wahi dard doosri ladki ko kyun de rahi hain?</strong> Kya aapki saas ne jo galat kiya — woh aapke liye example ban gaya? Kya 'saas aise hi hoti hai' — yeh rule hai?"</p>
 
-<p>Teacher sahab ne aage kaha — <strong>"Meri beti garib ghar ki hai. Sahi hai. Mere paas car nahi hai, bada ghar nahi hai, sona nahi hai. Lekin maine apni beti ko ek cheez di hai — <strong>acche sanskar.</strong> Woh kabhi kisi ka dil nahi dukhayegi. Kabhi kisi ka mazaak nahi udaayegi. Aur kabhi kisi ko paison se nahi taulegi."</strong></p>
+<p>Teacher sahab ne aage kaha — <strong>"Meri beti garib ghar ki hai. Sahi hai. Mere paas car nahi hai, bada ghar nahi hai, sona nahi hai. Lekin maine apni beti ko ek cheez di hai — acche sanskar. Woh kabhi kisi ka dil nahi dukhayegi. Kabhi kisi ka mazaak nahi udaayegi. Aur kabhi kisi ko paison se nahi taulegi."</strong></p>
 
 <p><strong>"Aap poochti hain dahej mein kya layi. Main bataata hun — woh pyaar laayi hai. Seva laayi hai. Sabr laayi hai. 6 mahine mein usne aapka ghar sambhala — bina ek shikayat ke. Yeh kisi dahej se kam hai?"</strong></p>
 
@@ -187,7 +187,7 @@ ob_start();
 <div class="moral-box">
     <h3>Kahani Ki Seekh</h3>
     <p><strong>Insaan ki pehchaan paison se nahi, dil se hoti hai.</strong></p>
-    <p>Dahej mein car aaye ya cycle — rishta dil se banta hai, cheezoin se nahi. Jo dard tumne jhela hai — woh dard doosron ko mat do. <strong>Cycle todne ka nahi, cycle badalne ka kaam karo.</strong></p>
+    <p>Dahej mein car aaye ya cycle — rishta dil se banta hai, cheezon se nahi. Jo dard tumne jhela hai — woh dard doosron ko mat do. <strong>Cycle todne ka nahi, cycle badalne ka kaam karo.</strong></p>
     <p>Aur yaad rakhna — garib ka matlab kamzor nahi hota. Kabhi-kabhi sabse garib insaan sabse ameer dil waala hota hai.</p>
     <p><strong>Saas bhi kabhi bahu thi. Yeh mat bhoolo.</strong></p>
 </div>

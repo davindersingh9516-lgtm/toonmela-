@@ -35,7 +35,7 @@ ob_start();
 
 <p>Lekin duniya ko Savitri ka sapna nahi dikhta tha. Duniya ko dikhta tha — ek garib ladki, ek kamre ka ghar, kaamwaali ki beti.</p>
 
-<p>School mein Priya — class ki ameer ladki — kehti thi: "Meera, tu doctor bannna chahti hai? <strong>Tere ghar mein dawai ke paise nahi, tu doctor banegi?</strong> Hahaha!"</p>
+<p>School mein Priya — class ki ameer ladki — kehti thi: "Meera, tu doctor banna chahti hai? <strong>Tere ghar mein dawai ke paise nahi, tu doctor banegi?</strong> Hahaha!"</p>
 
 <p>Padosi aunty kehti thi: "Savitri, Meera ko padha ke kya karogi? <strong>Ladki hai — shaadi kar do. Garib ghar mein padhai luxury hai.</strong>"</p>
 
