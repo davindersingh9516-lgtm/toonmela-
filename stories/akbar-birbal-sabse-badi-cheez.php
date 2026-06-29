@@ -90,6 +90,8 @@ ob_start();
 
 <p>Dopahar tak — Akbar thak gaye. Gala sookh gaya. Honth phat rahe the. Paseena sukh chuka tha — kyunki shareer mein paani hi nahi bacha tha.</p>
 
+<img src="<?php echo SITE_URL; ?>img/akbar-birbal-desert.webp" alt="Akbar aur Birbal registan mein - pyaas - cartoon" style="border-radius:8px; margin: 2em auto;">
+
 <p>"Birbal... <strong>paani hai?</strong>"</p>
 
 <p>"Nahi Jahanpanah. Paani nahi hai."</p>
@@ -137,6 +139,8 @@ ob_start();
 <p><strong>"Birbal, tum sirf mere navratno mein se ek nahi ho. Tum meri sabse badi zaroorat ho."</strong></p>
 
 <p>Birbal muskuraye. "Shukriya Jahanpanah. Aur aapki zaroorat — is waqt — ek aur ghoontt paani hai. Lijiye."</p>
+
+<img src="<?php echo SITE_URL; ?>img/akbar-birbal-chai.webp" alt="Akbar Birbal saath mein hanste hue - dosti - cartoon" style="border-radius:8px; margin: 2em auto;">
 
 <p>Dono hanse. Registan mein — dhoop mein — do aadmi — ek Badshah, ek mantri — hass rahe the. Kyunki <strong>dosti bhi tab sabse badi lagti hai jab zaroorat ho — aur Birbal hamesha zaroorat par hote the.</strong></p>
 

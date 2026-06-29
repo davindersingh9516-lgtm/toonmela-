@@ -84,6 +84,8 @@ ob_start();
 
 <p>"Ab daal bana do chakki!" — Daal aayi. "Sabzi!" — Sabzi aayi. "Ghee!" — Ghee aaya. "Mithai!" — Gulab jamun aaye — garam, taze, <strong>duniya ke sabse acche gulab jamun.</strong></p>
 
+<img src="<?php echo SITE_URL; ?>img/jadui-chakki-food.webp" alt="Jadui chakki se khaana nikalta hua - magical scene - cartoon" style="border-radius:8px; margin: 2em auto;">
+
 <p>Us raat Mohan ke ghar mein — <strong>6 mahine baad — poora khaana bana.</strong> Bachche pet bhar ke khaaye. Radha hansi. Mohan ki aankhein bhari thin — lekin yeh khushi ke aansoo the.</p>
 
 <p>Agley dino mein Mohan ne chakki se aur cheezein maangin — kapde, anaaj, bartan, ghar ka saamaan. Lekin <strong>kabhi zaroorat se zyada nahi maanga.</strong> Jitna chahiye — utna. Bas.</p>
@@ -145,6 +147,8 @@ ob_start();
 <p>Naav bhaari ho gayi. Pani andar aane laga. Sohan chillaya — <strong>"BACHAAO! KOI BACHAAO!"</strong></p>
 
 <p>Lekin beech samundar mein kaun sunega?</p>
+
+<img src="<?php echo SITE_URL; ?>img/jadui-chakki-sea.webp" alt="Sohan ki naav namak se doobti hui - samundar - cartoon" style="border-radius:8px; margin: 2em auto;">
 
 <p>Naav doobi. Sohan paani mein — haath-pair maarta. Chakki haath se chhoot gayi — <strong>seedhi samundar ke talle mein chali gayi.</strong></p>
 

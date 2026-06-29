@@ -88,6 +88,8 @@ ob_start();
 
 <p>Mangal ne balti se paani nikalna shuru kiya. Ek balti. Do balti. Das balti. Bees balti. <strong>Paani nikal nikal ke baagh mein daal raha tha.</strong></p>
 
+<img src="<?php echo SITE_URL; ?>img/tenali-raman-hero.webp" alt="Chor kuen se paani nikalta hua - Tenali dekhta hua - cartoon" style="border-radius:8px; margin: 2em auto;">
+
 <p>1 ghanta ho gaya. 2 ghante. Mangal thak raha tha — lekin 500 ashrafiyaan ka sapna energy de raha tha. <strong>"Bas thoda aur! Thoda aur paani nikalun — potli dikhegi!"</strong></p>
 
 <p>50 balti. 100 balti. <strong>Paani khatam hi nahi ho raha tha</strong> — kyunki yeh asli kua tha, spring-fed, paani wapas aa raha tha.</p>
@@ -129,6 +131,8 @@ ob_start();
 <p>"Chai. Tu poori raat jaaga hai — thaka hoga. <strong>Chor hai toh kya — insaan toh hai.</strong> Chai pee."</p>
 
 <p>Mangal hairaan tha. <strong>Jis aadmi ko usne lootne ki koshish ki — woh chai de raha hai?</strong></p>
+
+<img src="<?php echo SITE_URL; ?>img/tenali-raman-chai.webp" alt="Tenali aur chor saath mein chai peete hue - subah - cartoon" style="border-radius:8px; margin: 2em auto;">
 
 <p>Baitha. Chai piyi. Tenali ne bhi piyi. Dono — chor aur darbaari — <strong>subah ki dhoop mein chai pee rahe the.</strong></p>
 

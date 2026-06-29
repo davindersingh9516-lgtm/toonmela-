@@ -90,6 +90,8 @@ ob_start();
 
 <p>"Haan behen ji, bus se aaya. Car ki zaroorat nahi — <strong>achi soch le jaati hai jahan car nahi le jaati.</strong>"</p>
 
+<img src="<?php echo SITE_URL; ?>img/lalchi-saas-hero.webp" alt="Lalchi Saas aur Garib Bahu - Teacher sahab baat karte hue - cartoon" style="border-radius:8px; margin: 2em auto;">
+
 <p>Kamla Devi ka chehra tight ho gaya.</p>
 
 <p>Teacher sahab ne Suman ko dekha. <strong>Pehchaan nahi paaye.</strong> 6 mahine mein unki beti badal gayi thi — woh chamak gayi thi, woh hansi gayi thi, woh zinda ladki gayi thi. Saamne ek thaki hui, kamzor, udaas aurat khadi thi.</p>
@@ -171,6 +173,8 @@ ob_start();
 <p>Aur Kamla Devi? Unhone Suman ko naukri karne di. Suman ne nearby school mein teacher ki naukri li — <strong>bilkul apne Papa jaisi.</strong> Pehli salary se Kamla Devi ke liye ek saree laayi — acchi waali.</p>
 
 <p>Kamla Devi ne saree dekhi. Phir Suman ko dekha. Phir gale lagaya — <strong>pehli baar. Sachchi waala hug.</strong></p>
+
+<img src="<?php echo SITE_URL; ?>img/lalchi-saas-hug.webp" alt="Saas bahu gale milte hue - maafi ka lamha - cartoon" style="border-radius:8px; margin: 2em auto;">
 
 <p>"Mujhe maaf kar de beta. Maine bahut galat kiya."</p>
 

@@ -55,6 +55,8 @@ ob_start();
 
 <p>Maa ke paas 2000 nahi the. Monthly income 6000 thi — rent 2000, ration 2500, bijli-paani 500, Guddi ki school fees 800. <strong>Bacha kya? 200 rupaye.</strong></p>
 
+<img src="<?php echo SITE_URL; ?>img/garib-ladki-maa.webp" alt="Savitri Maa kaam karti hui - beti ka sapna - cartoon" style="border-radius:8px; margin: 2em auto;">
+
 <p>Maa ne kuch nahi kaha. Agley din — Meera ko pata chala — Maa ek aur ghar mein kaam karne lagi thi. <strong>Ab 5 ghar. Subah 4:30 se raat 8 baje tak.</strong></p>
 
 <p>"Maa, aap itna kaam—"</p>
@@ -106,6 +108,8 @@ ob_start();
 <p>Convocation pe — stage par — degree haath mein — <strong>Meera ne sirf ek jagah dekha: audience mein peeche wali row mein ek aunty baithi thi. Purani saree, safed baal, haath rough. Ro rahi thi.</strong></p>
 
 <p>Maa.</p>
+
+<img src="<?php echo SITE_URL; ?>img/garib-ladki-doctor.webp" alt="Dr Meera convocation pe - Maa ro rahi hain khushi se - cartoon" style="border-radius:8px; margin: 2em auto;">
 
 <p>Degree Meera ke naam thi — lekin woh degree Maa ki thi. <strong>Un haathon ki thi jinmein crack the lekin hosla nahi toota tha. Un paairon ki thi jo 5 gharon mein thake nahi the. Us dil ki thi jisne kabhi nahi kaha "nahi ho payega."</strong></p>
 
