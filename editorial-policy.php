@@ -1,8 +1,30 @@
 <?php
 require_once __DIR__ . '/includes/functions.php';
-$page_title = 'Editorial Policy - Content Standards & AI Transparency | ToonMela';
-$page_desc = 'ToonMela editorial policy: how we create content, our use of AI tools, human review process, and content quality standards.';
-$page_url = SITE_URL . 'editorial-policy.php';
+$page_title = 'Editorial Policy - AI Transparency, Human Review & Content Standards | ToonMela';
+$page_desc = 'ToonMela editorial policy: how every Hindi moral story is AI-assisted and human-reviewed by Davinder Singh. Full transparency about our content creation, age-appropriateness standards, and correction process.';
+$page_url = 'https://toonmela.com/editorial-policy.php';
+$keywords = 'toonmela editorial policy, ai content transparency, hindi story editorial process, moral story quality standards, human reviewed content';
+$page_schema = [
+    '@context' => 'https://schema.org',
+    '@type' => 'WebPage',
+    'name' => 'Editorial Policy | ToonMela',
+    'description' => 'Full editorial policy of ToonMela - AI usage transparency, human review process, content standards for all age groups.',
+    'url' => 'https://toonmela.com/editorial-policy.php',
+    'publisher' => [
+        '@type' => 'Organization',
+        'name' => 'ToonMela',
+        'url' => 'https://toonmela.com/',
+        'logo' => ['@type' => 'ImageObject', 'url' => 'https://toonmela.com/favicon.png'],
+    ],
+    'author' => [
+        '@type' => 'Person',
+        'name' => 'Davinder Singh',
+        'url' => 'https://toonmela.com/about.php',
+        'jobTitle' => 'Founder & Editor-in-Chief',
+    ],
+    'dateModified' => '2026-06-01',
+    'inLanguage' => 'en',
+];
 require_once __DIR__ . '/includes/header.php';
 ?>
 

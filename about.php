@@ -1,19 +1,34 @@
 <?php
 require_once __DIR__ . '/includes/functions.php';
 $active_page = 'about';
-$page_title = 'About ToonMela - Our Story, Team & Editorial Process';
-$page_desc = 'ToonMela is founded by Davinder Singh - a storyteller with 5+ years in Hindi content creation. Learn about our editorial process, team, and mission.';
-$page_url = SITE_URL . 'about.php';
+$page_title = 'About ToonMela - Davinder Singh, Founder & Hindi Storyteller | ToonMela';
+$page_desc = 'ToonMela founded by Davinder Singh - Hindi storyteller with 5+ years in content creation. Learn how we create 2000+ word moral stories for all ages with full editorial transparency.';
+$page_url = 'https://toonmela.com/about.php';
+$keywords = 'toonmela founder, davinder singh storyteller, about toonmela, hindi moral stories platform, hindi kahani website, toonmela editorial process';
 $page_schema = [
     '@context' => 'https://schema.org',
     '@type' => 'AboutPage',
-    'name' => 'About ToonMela',
+    'name' => 'About ToonMela - Davinder Singh, Founder',
     'url' => 'https://toonmela.com/about.php',
+    'description' => 'ToonMela is India\'s moral stories platform founded by Davinder Singh. Every story is 2000+ words, age-categorized, and personally reviewed.',
     'mainEntity' => [
-        '@type' => 'Organization',
-        'name' => 'ToonMela',
-        'founder' => ['@type' => 'Person', 'name' => 'Davinder Singh', 'jobTitle' => 'Founder & Editor-in-Chief'],
-        'foundingDate' => '2024',
+        '@type' => 'Person',
+        'name' => 'Davinder Singh',
+        'url' => 'https://toonmela.com/about.php',
+        'jobTitle' => 'Founder & Editor-in-Chief',
+        'description' => 'Hindi storyteller and content creator with 5+ years experience in Hindi entertainment and children\'s content. Founder of ToonMela, previously created YouTube channels Nightbook (horror stories) and La La TV (moral stories) with lakhs of views.',
+        'knowsAbout' => ['Hindi Moral Stories', 'Children\'s Literature', 'Indian Folklore', 'Panchtantra', 'Akbar Birbal Stories', 'Hindi Content Creation', 'Animated Storytelling'],
+        'worksFor' => [
+            '@type' => 'Organization',
+            'name' => 'ToonMela',
+            'url' => 'https://toonmela.com/',
+            'foundingDate' => '2024',
+        ],
+        'sameAs' => [
+            'https://instagram.com/toonmelatv',
+            'https://x.com/toonmelatv',
+            'https://youtube.com/@softtoonacademy',
+        ],
     ],
 ];
 require_once __DIR__ . '/includes/header.php';
@@ -77,7 +92,7 @@ require_once __DIR__ . '/includes/header.php';
                 <p><strong>Transparency:</strong> We clearly disclose AI usage. See our <a href="<?php echo SITE_URL; ?>editorial-policy.php">Editorial Policy</a>.</p>
             </div>
             <div class="about-img">
-                <img src="https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&q=80" alt="Books and Quality Content" loading="lazy">
+                <img src="<?php echo SITE_URL; ?>img/about-content-standards.webp" alt="ToonMela Content Standards - Books and Quality Stories" loading="lazy" onerror="this.src='<?php echo SITE_URL; ?>img/story1-hero.webp'">
             </div>
         </div>
 

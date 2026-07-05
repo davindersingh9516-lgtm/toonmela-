@@ -32,14 +32,20 @@ $page_schema = [
         'height' => 1024,
     ],
     'datePublished' => $date,
-    'dateModified' => $date,
+    'dateModified' => (isset($dateModified) ? $dateModified : $date),
     'author' => [
         '@type' => 'Person',
         'name' => 'Davinder Singh',
         'url' => $base_url . 'about.php',
         'jobTitle' => 'Founder & Editor-in-Chief',
-        'worksFor' => ['@type' => 'Organization', 'name' => 'ToonMela'],
-        'sameAs' => ['https://instagram.com/toonmelatv', 'https://x.com/toonmelatv'],
+        'description' => 'Hindi storyteller and content creator with 5+ years experience. Founder of ToonMela - India\'s moral stories platform. Previously ran YouTube channels Nightbook and La La TV with lakhs of views.',
+        'knowsAbout' => ['Hindi Moral Stories', 'Children\'s Literature', 'Indian Folklore', 'Panchtantra', 'Akbar Birbal Stories', 'Hindi Content Creation'],
+        'worksFor' => ['@type' => 'Organization', 'name' => 'ToonMela', 'url' => $base_url],
+        'sameAs' => [
+            'https://instagram.com/toonmelatv',
+            'https://x.com/toonmelatv',
+            'https://youtube.com/@softtoonacademy',
+        ],
     ],
     'publisher' => [
         '@type' => 'Organization',
@@ -47,7 +53,9 @@ $page_schema = [
         'url' => $base_url,
         'logo' => [
             '@type' => 'ImageObject',
-            'url' => $base_url . 'img/logo.png',
+            'url' => $base_url . 'favicon.png',
+            'width' => 512,
+            'height' => 512,
         ],
     ],
     'mainEntityOfPage' => [
