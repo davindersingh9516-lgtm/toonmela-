@@ -1,5 +1,22 @@
 RewriteEngine On
 
+# 301 Redirects - Old WordPress URLs to new site
+# Old story URLs -> homepage
+RewriteRule ^sachai-aur-imaandari-ki-jeet/?$ https://toonmela.com/ [R=301,L]
+RewriteRule ^chalak-lomdi/?$ https://toonmela.com/ [R=301,L]
+
+# Old WordPress feed URLs -> new RSS feed
+RewriteRule ^(.+)/feed/?$ https://toonmela.com/feed.xml [R=301,L]
+RewriteRule ^feed/?$ https://toonmela.com/feed.xml [R=301,L]
+
+# Old WordPress tag/category/author pages -> stories page
+RewriteRule ^tag/(.+)/?$ https://toonmela.com/stories.php [R=301,L]
+RewriteRule ^category/(.+)/?$ https://toonmela.com/stories.php [R=301,L]
+RewriteRule ^author/(.+)/?$ https://toonmela.com/about.php [R=301,L]
+
+# Old WordPress page URLs (clean URLs without .php) -> homepage
+RewriteRule ^page/([0-9]+)/?$ https://toonmela.com/ [R=301,L]
+
 # Remove .php extension
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
