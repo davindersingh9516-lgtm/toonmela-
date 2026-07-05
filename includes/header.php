@@ -7,7 +7,7 @@
     <title><?php echo e($page_title ?? SITE_NAME . ' - ' . SITE_TAGLINE); ?></title>
     <meta name="description" content="<?php echo e($page_desc ?? SITE_DESC); ?>">
     <?php if (!empty($keywords)) : ?><meta name="keywords" content="<?php echo e($keywords); ?>"><?php endif; ?>
-    <link rel="canonical" href="<?php echo e($page_url ?? SITE_URL); ?>">
+    <link rel="canonical" href="<?php echo e($page_url ?? SITE_CANONICAL); ?>">
 
     <!-- Google Search Console -->
     <meta name="google-site-verification" content="gu489OJqGCTVCcfbkdOX57gCkrsbx1mHFBcn1w_cPqc">

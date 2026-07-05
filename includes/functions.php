@@ -2,7 +2,9 @@
 
 define('SITE_NAME', 'ToonMela');
 define('SITE_TAGLINE', 'Kahaniyon Ka Mela');
-define('SITE_URL', '/');
+$_host = $_SERVER['HTTP_HOST'] ?? 'localhost';
+define('SITE_URL', (str_contains($_host, 'localhost') || str_contains($_host, '127.0.0.1')) ? '/' : 'https://toonmela.com/');
+define('SITE_CANONICAL', 'https://toonmela.com/');
 define('SITE_DESC', 'Moral stories for all ages in Hindi & English. Panchtantra, Fairy Tales, Life Lessons aur bahut kuch.');
 
 function get_stories() {
