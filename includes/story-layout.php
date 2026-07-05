@@ -1,6 +1,8 @@
 <?php
 require_once __DIR__ . '/functions.php';
 
+track_click($slug);
+
 $story_data = get_story_by_slug($slug);
 $related = get_related_stories($slug, $age, 3);
 $latest = array_slice(get_stories(), 0, 5);

@@ -38,12 +38,42 @@ function get_stories_by_category($cat, $limit = 0) {
     return array_values($filtered);
 }
 
+function track_click($slug) {
+    $file = __DIR__ . '/../data/clicks.json';
+    $fp = @fopen($file, 'c+');
+    if (!$fp) return;
+    flock($fp, LOCK_EX);
+    $content = '';
+    while (!feof($fp)) $content .= fread($fp, 8192);
+    $clicks = json_decode($content, true) ?: [];
+    $clicks[$slug] = ($clicks[$slug] ?? 0) + 1;
+    ftruncate($fp, 0);
+    rewind($fp);
+    fwrite($fp, json_encode($clicks));
+    flock($fp, LOCK_UN);
+    fclose($fp);
+}
+
 function get_featured_story() {
     $stories = get_stories();
+    if (empty($stories)) return null;
+
+    $file = __DIR__ . '/../data/clicks.json';
+    if (file_exists($file)) {
+        $clicks = json_decode(file_get_contents($file), true) ?: [];
+        if (!empty($clicks)) {
+            arsort($clicks);
+            foreach (array_keys($clicks) as $top_slug) {
+                $story = get_story_by_slug($top_slug);
+                if ($story) return $story;
+            }
+        }
+    }
+
     foreach ($stories as $s) {
         if (!empty($s['featured'])) return $s;
     }
-    return !empty($stories) ? $stories[0] : null;
+    return $stories[0];
 }
 
 function get_related_stories($current_slug, $age, $limit = 3) {
