@@ -47,7 +47,7 @@ ob_start();
 
 <p><strong>"Beta, din kaisa raha?"</strong></p>
 
-<p>Rahul ne ek earbud nikala।礼貌ki wajah se। "Theek tha Chacha।"</p>
+<p>Rahul ne ek earbud nikala। Politeness ki wajah se। "Theek tha Chacha।"</p>
 
 <p>"Theek matlab?" Chacha ne sheeshay mein dekha। "Chehra toh kuch aur bol raha hai।"</p>
 
@@ -67,7 +67,7 @@ ob_start();
 
 <p>Rahul ne phone rakha। <strong>Teen bacche। Teen alag careers। Sab settle।</strong></p>
 
-<p>"Sab padhe-likhe hain?" Rahul ne poocha — curiosity se,礼貌 se nahi।</p>
+<p>"Sab padhe-likhe hain?" Rahul ne poocha — curiosity se, formality se nahi।</p>
 
 <p>"Haan beta।" Chacha ki awaaz mein kuch tha — fakhr? Sukoon? Dono? "Teeno graduate hain। Badi ne MBBS kiya — 5.5 saal। Bade ne B.Tech। Chote ne B.Ed।"</p>
 

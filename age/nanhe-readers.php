@@ -5,6 +5,7 @@ $info = get_age_groups()[$age_slug];
 $stories = get_stories_by_age($age_slug);
 $page_title = $info['label'] . ' (' . $info['range'] . ') - Moral Stories | ToonMela';
 $page_desc = $info['desc'] . '. ToonMela par ' . $info['label'] . ' ke liye best moral stories padhein.';
+$page_url = 'https://toonmela.com/age/' . $age_slug . '.php';
 require_once __DIR__ . '/../includes/header.php';
 ?>
 

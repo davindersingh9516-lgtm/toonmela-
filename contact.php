@@ -3,6 +3,7 @@ require_once __DIR__ . '/includes/functions.php';
 $active_page = 'contact';
 $page_title = 'Contact Us | ToonMela';
 $page_desc = 'ToonMela se contact karein. Sawaal, suggestion ya feedback - hum sunna chahte hain aapki baat.';
+$page_url = 'https://toonmela.com/contact.php';
 require_once __DIR__ . '/includes/header.php';
 ?>
 
