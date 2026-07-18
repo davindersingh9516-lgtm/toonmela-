@@ -9,8 +9,8 @@ $latest = array_slice(get_stories(), 0, 5);
 $age_info = get_age_groups()[$age] ?? [];
 $base_url = 'https://toonmela.com/';
 
-$page_title = $title . ' | ' . ($category ?? 'Moral Story') . ' in Hindi | ToonMela';
-$page_desc = $desc . ' Padhein yeh ' . $category . ' kahani ToonMela par. Moral story for ' . $ageLabel . '.';
+$page_title = $seo_title ?? ($title . ' | ' . ($category ?? 'Moral Story') . ' in Hindi | ToonMela');
+$page_desc = $seo_desc ?? ($desc . ' Padhein yeh ' . $category . ' kahani ToonMela par. Moral story for ' . $ageLabel . '.');
 $page_url = $base_url . 'stories/' . $slug . '.php';
 $page_image = $base_url . ltrim($heroImage, '/');
 $page_type = 'article';
