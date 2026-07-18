@@ -15,6 +15,11 @@ $page_url = $base_url . 'stories/' . $slug . '.php';
 $page_image = $base_url . ltrim($heroImage, '/');
 $page_type = 'article';
 
+$hero_path = __DIR__ . '/../' . ltrim($heroImage, '/');
+$hero_dims = file_exists($hero_path) ? getimagesize($hero_path) : false;
+$hero_w = $hero_dims[0] ?? 1536;
+$hero_h = $hero_dims[1] ?? 1024;
+
 $keywords = $keywords ?? '';
 $faq = $faq ?? [];
 
@@ -28,8 +33,8 @@ $page_schema = [
     'image' => [
         '@type' => 'ImageObject',
         'url' => $page_image,
-        'width' => 1536,
-        'height' => 1024,
+        'width' => $hero_w,
+        'height' => $hero_h,
     ],
     'datePublished' => $date,
     'dateModified' => (isset($dateModified) ? $dateModified : $date),
@@ -175,7 +180,7 @@ window.addEventListener('scroll',function(){var h=document.documentElement,b=doc
                 <?php endif; ?>
 
                 <div class="single-img">
-                    <img itemprop="image" src="<?php echo SITE_URL . ltrim($heroImage, '/'); ?>" alt="<?php echo e($title); ?> - cartoon illustration" width="1536" height="1024" loading="eager">
+                    <img itemprop="image" src="<?php echo SITE_URL . ltrim($heroImage, '/'); ?>" alt="<?php echo e($title); ?> - cartoon illustration" width="<?php echo $hero_w; ?>" height="<?php echo $hero_h; ?>" loading="eager">
                 </div>
 
                 <div class="story-body" itemprop="articleBody" lang="hi-Latn">

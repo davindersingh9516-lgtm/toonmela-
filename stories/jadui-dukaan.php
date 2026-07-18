@@ -85,7 +85,7 @@ ob_start();
 
 <p>"Yahan wahi aate hain jinki koi cheez khoyi hoti hai।" Buzurg muskuraye। "Aur tumhari toh bahut khaas cheez khoyi hai। Hai na?"</p>
 
-<img src="<?php echo SITE_URL; ?>img/jadui-dukaan-shelf.webp" alt="Jadui dukaan ke andar shelf pe rakhi khoyi hui cheezein - patang, kanche, jar mein awaazein - jadui kahani hindi" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/jadui-dukaan-shelf.webp" alt="Jadui dukaan ke andar shelf pe rakhi khoyi hui cheezein - patang, kanche, jar mein awaazein - jadui kahani hindi" width="1024" height="572" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Keemat</h2>
 
@@ -171,7 +171,7 @@ ob_start();
 
 <p><em>"Kyunki log cheezein dhoondhte hue aate hain — aur kabhi kabhi samajh ke jaate hain ki dhoondhna kya chahiye tha।"</em></p>
 
-<img src="<?php echo SITE_URL; ?>img/jadui-dukaan-ball.webp" alt="Veer aur Dadaji shaam ko aangan mein cricket khelte hue - dadaji ki kahani - moral story for kids in hindi" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/jadui-dukaan-ball.webp" alt="Veer aur Dadaji shaam ko aangan mein cricket khelte hue - dadaji ki kahani - moral story for kids in hindi" width="1024" height="572" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Us Shaam</h2>
 

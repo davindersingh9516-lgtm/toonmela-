@@ -11,6 +11,9 @@ $ageLabel = 'Teen Readers (13-17)';
 $category = 'Life Lessons';
 $heroImage = '/img/ek-jhooth-hero.webp';
 $keywords = 'jhooth ki saza hindi kahani, moral story for teens hindi, ek jhooth ki kahani, school moral story hindi, sach bolne ki kahani, lie story for students hindi, teen moral story hindi, honesty story';
+$focus_keyphrase = 'teen moral story hindi';
+$seo_title = 'Ek Jhooth Ka Bojh - Teen Moral Story Hindi | ToonMela';
+$seo_desc = 'Aryan ne ek chhota jhooth bola homework ke liye - phir aur, aur aur. Jhooth ka bojh kaise bada hua? Padhein yeh best teen moral story hindi mein.';
 $faq = [
     'Is kahani ka moral kya hai?' => 'Ek jhooth sirf shuru hota hai — khatam karna padta hai sach se. Jhooth bolne mein mehnat zyada lagti hai — kyunki ek ke baad ek bolna padta hai. Sach ek baar dard deta hai. Jhooth roz dard deta hai.',
     'Kya chote jhooth bhi galat hote hain?' => 'Haan — isliye nahi ki jhooth "paap" hai. Isliye ki chota jhooth sirf akela nahi rehta. Jab pakde jaane ka dar hota hai toh doosra jhooth aata hai. Phir teesra. Ek chhota jhooth poori zindagi ki problem ban sakta hai.',
@@ -51,7 +54,7 @@ ob_start();
 
 <p>Woh nahi jaanta tha ki उसने problem solve nahi ki thi — <strong>sirf delayed ki thi।</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/ek-jhooth-hero.webp" alt="Aryan class mein jhooth bolta hua teacher se - cartoon illustration" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/ek-jhooth-hero.webp" alt="Aryan class mein jhooth bolta hua teacher se - cartoon illustration" width="1024" height="559" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Doosra Jhooth — Kyunki Pehla Cover Karna Tha</h2>
 
@@ -97,7 +100,7 @@ ob_start();
 
 <p>Aryan ne rahat mahsoos ki। Par yeh rahat jhoothi thi — <strong>kyunki unhone abhi ek aur insaan ko bojh mein shamil kar liya था।</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/ek-jhooth-web.webp" alt="Jhooth ka jaal failta hua - Aryan Rohan school mein - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/ek-jhooth-web.webp" alt="Jhooth ka jaal failta hua - Aryan Rohan school mein - cartoon" width="1024" height="559" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Jab Jhooth Snowball Bana</h2>
 
@@ -169,7 +172,7 @@ ob_start();
 
 <p>Dad ne ruk ke ek aur baat kahi — <strong>"Beta, jhooth bolne mein mehnat bahut zyada lagti hai। Kyunki ek ke baad ek bolna padta hai। Track rakhna padta hai। Sach ek baar dard deta hai — khud ko। Jhooth roz dard deta hai — aur doosron ko bhi।"</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/ek-jhooth-truth.webp" alt="Aryan aur Dad ghar mein baat karte hue - serious moment - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/ek-jhooth-truth.webp" alt="Aryan aur Dad ghar mein baat karte hue - serious moment - cartoon" width="1024" height="559" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Sach Ka Waqt</h2>
 

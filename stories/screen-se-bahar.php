@@ -11,6 +11,9 @@ $ageLabel = 'Teen Readers (13-17)';
 $category = 'Life Lessons';
 $heroImage = '/img/screen-bahar-hero.webp';
 $keywords = 'phone addiction story hindi, screen time story, mobile phone moral story, digital detox hindi, teenager phone story, social media addiction kahani';
+$focus_keyphrase = 'phone addiction story hindi';
+$seo_title = 'Screen Se Bahar - Phone Addiction Story Hindi | ToonMela';
+$seo_desc = 'Aditya ka poora din phone mein jaata tha - reels, games, chat. Phone toota aur 7 din badal gaye. Padhein yeh phone addiction story hindi teenagers ke liye.';
 $faq = [
     'Phone addiction se kaise bachein?' => 'Din mein screen time limit set karo (1-2 ghante max), raat ko phone bedroom se bahar rakho, notifications off karo, aur outdoor activities shuru karo jaise sports ya music.',
     'Kya phone use karna galat hai?' => 'Phone use karna galat nahi hai - phone ek tool hai. Galat tab hai jab phone tumhara maalik ban jaaye aur tum real life jeena bhool jaao.',
@@ -44,7 +47,7 @@ ob_start();
 
 <p>Yeh tha Aditya. 15 saal ka. Class 10. Aur <strong>din ke 7 ghante phone pe.</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/screen-bahar-phone.webp" alt="Aditya phone mein ghusa hua - andhere kamre mein screen ki roshni - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/screen-bahar-phone.webp" alt="Aditya phone mein ghusa hua - andhere kamre mein screen ki roshni - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Ek Normal Din</h2>
 
@@ -158,7 +161,7 @@ ob_start();
 
 <p><strong>2 saal baad Aditya ne bat pakda.</strong> Pehla shot — miss. Doosra — edge. Teesra — <strong>DHAAANG!</strong> Boundary. Bacche chillaye, "Bhaiya six maarega ab!"</p>
 
-<img src="<?php echo SITE_URL; ?>img/screen-bahar-outside.webp" alt="Aditya bahar bacchon ke saath cricket khelta hua - sunshine - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/screen-bahar-outside.webp" alt="Aditya bahar bacchon ke saath cricket khelta hua - sunshine - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p>5 over khele. Haath dukh rahe the. Paseena aa raha tha. Saans phool rahi thi. Lekin — <strong>itna mazaa. ITNA mazaa.</strong> Instagram ki kisi reel ne kabhi itna mazaa nahi diya tha jitna us ek boundary ne diya.</p>
 

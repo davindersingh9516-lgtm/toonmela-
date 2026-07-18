@@ -11,6 +11,9 @@ $ageLabel = 'Junior Readers (7-12)';
 $category = 'Adventure';
 $heroImage = '/img/jungle-rahasya-hero.webp';
 $keywords = 'adventure story hindi, jungle story for kids, treasure hunt story hindi, friendship adventure kahani, moral story for children, best kids story hindi';
+$focus_keyphrase = 'adventure story for kids hindi';
+$seo_title = 'Jungle Ka Rahasya - Adventure Story Hindi | ToonMela';
+$seo_desc = 'Teen dost jungle gaye aur unhe mila ek raaz jisne unki zindagi badal di. Kya tha woh raaz? Padhein yeh rochak adventure story for kids hindi mein.';
 $faq = [
     'Is kahani ka moral kya hai?' => 'Asli khazaana sona-chaandi nahi, acche dost aur sundar yaadein hain. Dar ke maare peeche mat hato - aage badho kyunki zindagi ke sabse sundar pal unhe milte hain jo dhundhne ki himmat rakhte hain.',
     'Yeh kahani kis age ke liye hai?' => 'Yeh kahani 7-12 saal ke bacchon ke liye likhi gayi hai. Adventure, friendship aur moral sab ek saath.',
@@ -41,7 +44,7 @@ ob_start();
 
 <p>Aaj teeno ko woh sach dhundhna tha.</p>
 
-<img src="<?php echo SITE_URL; ?>img/jungle-rahasya-friends.webp" alt="Teen dost jungle mein jaate hue - adventure - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/jungle-rahasya-friends.webp" alt="Teen dost jungle mein jaate hue - adventure - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Jungle Ke Andar</h2>
 
@@ -87,7 +90,7 @@ ob_start();
 
 <p>Jharne ke paas phool the — rang-birange — laal, peele, neele, gulaabi. Aisi variety jo teeno ne kabhi nahi dekhi thi. Titliyaan ud rahi thin — 10-15 ek saath — jaise koi dance ho raha ho. Ek chhota sa talaab tha jharne ke neeche — jismein tiny machhliyaan tairti dikhai de rahi thin — orange aur silver.</p>
 
-<img src="<?php echo SITE_URL; ?>img/jungle-rahasya-waterfall.webp" alt="Khoyi hui jagah - sundar jharna aur rang-birange phool - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/jungle-rahasya-waterfall.webp" alt="Khoyi hui jagah - sundar jharna aur rang-birange phool - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p>"Yeh... yeh toh..." Rohan bol nahi paa raha tha.</p>
 

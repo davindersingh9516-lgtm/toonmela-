@@ -11,6 +11,9 @@ $ageLabel = 'Sabke Liye';
 $category = 'Life Lessons';
 $heroImage = '/img/rickshaw-chacha-hero.webp';
 $keywords = 'rickshaw wale ki kahani, motivational story hindi, life lesson story hindi, inspirational story in hindi, emotional story hindi, software engineer story, real life moral story hindi, best hindi kahani';
+$focus_keyphrase = 'life lesson story hindi';
+$seo_title = 'Rickshaw Wale Chacha - Life Lesson Story Hindi | ToonMela';
+$seo_desc = 'Software engineer Rahul rickshaw mein apni duniya mein tha. Chacha ne aisi baat kahi jo woh kabhi nahi bhoolega. Padhein yeh life lesson story hindi mein.';
 $faq = [
     'Is kahani ka moral kya hai?' => 'Kisi insaan ko uske kaam se mat aankho. Har insaan ki zindagi mein ek poori duniya hoti hai — khwab, mehnat, pyaar, takleef. Jo simple dikhe, woh aksar sabse gehri zindagi jeeta hai.',
     'Kya rickshaw chalana izzat ka kaam hai?' => 'Bilkul. Koi bhi kaam jo imandari se kiya jaaye, izzat ka hai. Ramesh Chacha ne rickshaw chalake 3 bachchon ko padha-likh kar doctor, engineer aur teacher banaya — yeh baat kisi bhi "bade" insaan ke liye example hai.',
@@ -61,7 +64,7 @@ ob_start();
 
 <p>Rahul ne politely "accha" kaha aur wapas phone dekhne laga। Lekin Chacha ruke nahi।</p>
 
-<img src="<?php echo SITE_URL; ?>img/rickshaw-chacha-hero.webp" alt="Rickshaw wale Chacha Bangalore traffic mein - cartoon illustration" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/rickshaw-chacha-hero.webp" alt="Rickshaw wale Chacha Bangalore traffic mein - cartoon illustration" width="1024" height="559" style="border-radius:8px; margin: 2em auto;">
 
 <p>"Teen bacche hain mere। Bada — Suresh — software mein hai। Beech wali — Kavita — doctor ban gayi, Mysore mein posting hai। Aur chota — Rajan — abhi teacher hai, government school mein।"</p>
 
@@ -103,7 +106,7 @@ ob_start();
 
 <p>"Beta, aaram baad mein। Abhi bhi chota ka shaadi ka sapna hai। Aur ghar hai shared mein — apna ghar chahiye। Chhota sa। Bas।"</p>
 
-<img src="<?php echo SITE_URL; ?>img/rickshaw-chacha-talk.webp" alt="Rahul aur Rickshaw Chacha baat karte hue - raat ka traffic - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/rickshaw-chacha-talk.webp" alt="Rahul aur Rickshaw Chacha baat karte hue - raat ka traffic - cartoon" width="1024" height="559" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Woh Sawaal</h2>
 
@@ -155,7 +158,7 @@ ob_start();
 
 <p><strong>"Uss din pata chala ki 26 saal ki mehnat ka kya return hai।"</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/rickshaw-chacha-family.webp" alt="Rickshaw Chacha apne bachchon ki photo dikhate hue - proud father - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/rickshaw-chacha-family.webp" alt="Rickshaw Chacha apne bachchon ki photo dikhate hue - proud father - cartoon" width="1024" height="559" style="border-radius:8px; margin: 2em auto;">
 
 <p>Rickshaw ruka। Rahul ka building aa gaya tha।</p>
 

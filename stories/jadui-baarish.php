@@ -10,6 +10,9 @@ $age = 'nanhe-readers';
 $ageLabel = 'Nanhe Readers (3-6)';
 $category = 'Fairy Tales';
 $heroImage = '/img/jadui-baarish-hero.webp';
+$focus_keyphrase = 'jadui kahani bacchon ke liye';
+$seo_title = 'Jadui Baarish - Hindi Fairy Tale for Kids | ToonMela';
+$seo_desc = 'Jungle mein aasmaan se toffees barsi! Sab jaanwar khush the, lekin ek ullu ne bataya asli jadoo kya hai. Padhein yeh pyaari jadui kahani bacchon ke liye.';
 
 ob_start();
 ?>
@@ -26,7 +29,7 @@ ob_start();
 
 <p>"Hahaha!" Bhalu Bholu pet bhar bhar ke kha raha tha.</p>
 
-<img src="<?php echo SITE_URL; ?>img/jadui-baarish-candy.webp" alt="Aasmaan se toffees aur chocolates barsti hui - jadui cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/jadui-baarish-candy.webp" alt="Aasmaan se toffees aur chocolates barsti hui - jadui cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p>Poora jungle khush tha. Sab naach rahe the, kha rahe the, mazze kar rahe the!</p>
 
@@ -48,7 +51,7 @@ ob_start();
 
 <p>"Ullu Uncle, aapne kyun nahi khayi?" Bablu ne poocha.</p>
 
-<img src="<?php echo SITE_URL; ?>img/jadui-baarish-owl.webp" alt="Buddhimaan Ullu Uncle sabko samjhata hua - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/jadui-baarish-owl.webp" alt="Buddhimaan Ullu Uncle sabko samjhata hua - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p>Ullu Uncle ne kaha, <strong>"Bacchon, jo cheez bina mehnat ke mile, woh zyada der khushi nahi deti."</strong></p>
 

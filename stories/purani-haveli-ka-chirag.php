@@ -11,6 +11,9 @@ $ageLabel = 'Sabke Liye (18+)';
 $category = 'Wisdom Tales';
 $heroImage = '/img/purani-haveli-hero.webp';
 $keywords = 'NRI story hindi, purani haveli kahani, family legacy story, virasat ki kahani, emotional hindi story, grandparents story hindi, Indian family values';
+$focus_keyphrase = 'emotional nri story hindi';
+$seo_title = 'Purani Haveli Ka Chirag - Emotional NRI Kahani | ToonMela';
+$seo_desc = 'NRI apni haveli bechne aaya - 4 crore ka offer tha. Band kamre mein mila purana chirag jisne asli virasat dikha di. Padhein yeh emotional nri story hindi.';
 $faq = [
     'Is kahani ka moral kya hai?' => 'Virasat sirf property nahi hoti - virasat yaadein, values aur rishte hote hain. Kuch cheezein paise se nahi miltin - Dadaji ki kursi, Dadi ki kheer, bachpan ki yaadein.',
     'Kya yeh kahani NRI logon ke liye hai?' => 'Yeh kahani har us insaan ke liye hai jo apne ghar se door hai aur apni jadon ko bhool raha hai. NRI ho ya shehar mein rehne wale - sabke liye relevant hai.',
@@ -47,7 +50,7 @@ ob_start();
 
 <p>Lekin woh jaanta tha — yeh business transaction nahi hai. Yeh uski zindagi ka sabse mushkil safar hai.</p>
 
-<img src="<?php echo SITE_URL; ?>img/purani-haveli-outside.webp" alt="Purani haveli - sunheri dhoop mein - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/purani-haveli-outside.webp" alt="Purani haveli - sunheri dhoop mein - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Haveli Ka Darwaaza</h2>
 
@@ -89,7 +92,7 @@ ob_start();
 
 <p>Chirag ke neeche ek diary thi. Purani. Peeli. Kinare se tooti hui. Cover par kuch likha tha — halka sa, mushkil se padh aata tha — <strong>"Meri Haveli, Meri Duniya."</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/purani-haveli-chirag.webp" alt="Purana peetal ka chirag aur diary - dhool mein - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/purani-haveli-chirag.webp" alt="Purana peetal ka chirag aur diary - dhool mein - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p>Anand ne diary kholi. Haath kaamp rahe the. Dadaji ki handwriting — woh purane zamane ki, saaf, sundar handwriting jo aaj kal koi nahi likhta. Pehla page:</p>
 

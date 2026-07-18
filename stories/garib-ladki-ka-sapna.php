@@ -11,6 +11,9 @@ $ageLabel = 'Teen Readers (13-17)';
 $category = 'Life Lessons';
 $heroImage = '/img/garib-ladki-hero.webp';
 $keywords = 'garib ladki ki kahani, inspirational story hindi, motivational kahani, poor girl success story, garib ki kahani hindi, mehnat ki kahani, sapne ki kahani, rags to riches hindi story';
+$focus_keyphrase = 'motivational kahani for girls';
+$seo_title = 'Garib Ladki Ka Sapna - Motivational Kahani | ToonMela';
+$seo_desc = 'Ladki jise sab kehte the "kuch nahi ban sakti". Usne saabit kiya sapne nahi, hausle chhote hote hain. Padhein yeh inspiring garib ladki ka sapna kahani.';
 $faq = [
     'Is kahani ka moral kya hai?' => 'Sapne chhote nahi hote - hausle chhote hote hain. Gareebi ek haalat hai, kismat nahi. Mehnat karo toh duniya ka koi bhi sapna poora ho sakta hai.',
     'Yeh kahani kis ke liye hai?' => 'Har us insaan ke liye jise kabhi kisi ne kaha ho "tu kuch nahi ban sakta." Yeh kahani saabit karti hai ki background se nahi, mehnat se future banta hai.',
@@ -29,7 +32,7 @@ ob_start();
 
 <p>Kyunki un haathon ka ek hi sapna tha — <strong>"Meri Meera padh-likh ke badi aadmi banegi."</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/garib-ladki-hero.webp" alt="Garib Ladki Ka Sapna - Meera padhti hui - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/garib-ladki-hero.webp" alt="Garib Ladki Ka Sapna - Meera padhti hui - cartoon" width="1024" height="572" style="border-radius:8px; margin: 2em auto;">
 
 <h2>"Tu Kuch Nahi Ban Sakti"</h2>
 
@@ -55,7 +58,7 @@ ob_start();
 
 <p>Maa ke paas 2000 nahi the. Monthly income 6000 thi — rent 2000, ration 2500, bijli-paani 500, Guddi ki school fees 800. <strong>Bacha kya? 200 rupaye.</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/garib-ladki-maa.webp" alt="Savitri Maa kaam karti hui - beti ka sapna - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/garib-ladki-maa.webp" alt="Savitri Maa kaam karti hui - beti ka sapna - cartoon" width="1024" height="572" style="border-radius:8px; margin: 2em auto;">
 
 <p>Maa ne kuch nahi kaha. Agley din — Meera ko pata chala — Maa ek aur ghar mein kaam karne lagi thi. <strong>Ab 5 ghar. Subah 4:30 se raat 8 baje tak.</strong></p>
 
@@ -109,7 +112,7 @@ ob_start();
 
 <p>Maa.</p>
 
-<img src="<?php echo SITE_URL; ?>img/garib-ladki-doctor.webp" alt="Dr Meera convocation pe - Maa ro rahi hain khushi se - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/garib-ladki-doctor.webp" alt="Dr Meera convocation pe - Maa ro rahi hain khushi se - cartoon" width="1024" height="572" style="border-radius:8px; margin: 2em auto;">
 
 <p>Degree Meera ke naam thi — lekin woh degree Maa ki thi. <strong>Un haathon ki thi jinmein crack the lekin hosla nahi toota tha. Un paairon ki thi jo 5 gharon mein thake nahi the. Us dil ki thi jisne kabhi nahi kaha "nahi ho payega."</strong></p>
 

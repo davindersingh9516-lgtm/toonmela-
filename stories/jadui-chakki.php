@@ -11,6 +11,9 @@ $ageLabel = 'Junior Readers (7-12)';
 $category = 'Fairy Tales';
 $heroImage = '/img/jadui-chakki-hero.webp';
 $keywords = 'jadui chakki, jadui chakki ki kahani, magic mill story hindi, do bhai ki kahani, lalchi bhai story, fairy tale hindi, jadui kahani, moral story for kids hindi, panchtantra ki kahani';
+$focus_keyphrase = 'jadui chakki ki kahani';
+$seo_title = 'Jadui Chakki Ki Kahani - Magic Mill Story | ToonMela';
+$seo_desc = 'Do bhai - mehnati aur lalchi. Mehnati ko mili jadui chakki. Lalchi ne churayi toh kya hua? Padhein yeh classic jadui chakki ki kahani hindi mein.';
 $faq = [
     'Jadui Chakki ki kahani ka moral kya hai?' => 'Is kahani ka moral hai ki lalach buri bala hai. Jo cheez mehnat se milti hai woh barkat deti hai, lekin jo chori ya lalach se milti hai woh tabahi laati hai.',
     'Samundar ka paani namkeen kyun hai?' => 'Is lok katha ke anusaar, jadui chakki samundar mein girne ke baad ruk nahi paayi aur namak banati rahi - isliye samundar ka paani namkeen hai! Yeh ek folk tale explanation hai.',
@@ -28,7 +31,7 @@ ob_start();
 
 <p>Mohan gareeb tha lekin khush tha. Sohan ameer tha lekin <strong>hamesha aur chahta tha.</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/jadui-chakki-hero.webp" alt="Jadui Chakki Ki Kahani - do bhai - cartoon illustration" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/jadui-chakki-hero.webp" alt="Jadui Chakki Ki Kahani - do bhai - cartoon illustration" width="1024" height="572" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Jangal Mein Budha</h2>
 
@@ -84,7 +87,7 @@ ob_start();
 
 <p>"Ab daal bana do chakki!" — Daal aayi. "Sabzi!" — Sabzi aayi. "Ghee!" — Ghee aaya. "Mithai!" — Gulab jamun aaye — garam, taze, <strong>duniya ke sabse acche gulab jamun.</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/jadui-chakki-food.webp" alt="Jadui chakki se khaana nikalta hua - magical scene - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/jadui-chakki-food.webp" alt="Jadui chakki se khaana nikalta hua - magical scene - cartoon" width="1024" height="572" style="border-radius:8px; margin: 2em auto;">
 
 <p>Us raat Mohan ke ghar mein — <strong>6 mahine baad — poora khaana bana.</strong> Bachche pet bhar ke khaaye. Radha hansi. Mohan ki aankhein bhari thin — lekin yeh khushi ke aansoo the.</p>
 
@@ -148,7 +151,7 @@ ob_start();
 
 <p>Lekin beech samundar mein kaun sunega?</p>
 
-<img src="<?php echo SITE_URL; ?>img/jadui-chakki-sea.webp" alt="Sohan ki naav namak se doobti hui - samundar - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/jadui-chakki-sea.webp" alt="Sohan ki naav namak se doobti hui - samundar - cartoon" width="1024" height="572" style="border-radius:8px; margin: 2em auto;">
 
 <p>Naav doobi. Sohan paani mein — haath-pair maarta. Chakki haath se chhoot gayi — <strong>seedhi samundar ke talle mein chali gayi.</strong></p>
 

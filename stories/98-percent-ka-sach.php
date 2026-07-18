@@ -11,6 +11,9 @@ $ageLabel = 'Teen Readers (13-17)';
 $category = 'Life Lessons';
 $heroImage = '/img/98-percent-hero.webp';
 $keywords = 'student life story hindi, 98 percent marks story, exam pressure story hindi, mental health students, topper story hindi, marks vs happiness, best moral story for students, padhai ka pressure';
+$focus_keyphrase = 'student life story hindi';
+$seo_title = '98 Percent Ka Sach - Student Life Story Hindi | ToonMela';
+$seo_desc = 'Riya 98.4% laayi - school topper thi. Lekin kya woh khush thi? Padhein yeh student life story hindi mein jo har parent-child ko padhni chahiye.';
 $faq = [
     'Kya marks hi sab kuch hai zindagi mein?' => 'Nahi. Marks important hain lekin zindagi mein health, relationships, hobbies aur khushi bhi utni hi important hai. Sirf marks ke peechhe bhaagna mental health ke liye dangerous ho sakta hai.',
     'Students exam pressure se kaise deal karein?' => 'Regular breaks lein, doston se milein, hobbies continue rakhein, parents se khul kar baat karein, aur yaad rakhein ki ek exam life decide nahi karta.',
@@ -31,7 +34,7 @@ ob_start();
 
 <p>Papa ka call aaya — "Beta! Mummy ro rahi hai khushi se! Bahut proud hain hum!" Relatives ke WhatsApp messages aa rahe the — "Sharma khandan ka naam roshan kar diya!", "Beta, MIT jaayegi ab toh!", "Party kab de rahi hai?"</p>
 
-<img src="<?php echo SITE_URL; ?>img/98-percent-result.webp" alt="Riya result board ke saamne khadi - 98 percent - cartoon illustration" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/98-percent-result.webp" alt="Riya result board ke saamne khadi - 98 percent - cartoon illustration" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p>Riya muskura rahi thi. Haath jod kar shukriya bol rahi thi. Photo ke liye pose de rahi thi.</p>
 
@@ -73,7 +76,7 @@ ob_start();
 
 <p>Lekin normal nahi tha. Bilkul bhi normal nahi tha.</p>
 
-<img src="<?php echo SITE_URL; ?>img/98-percent-alone.webp" alt="Riya akeli kamre mein thaki hui - books ke beech mein - cartoon illustration" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/98-percent-alone.webp" alt="Riya akeli kamre mein thaki hui - books ke beech mein - cartoon illustration" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p>Riya ne kisi ko nahi bataya. Na Mummy ko, na Papa ko, na kisi dost ko. Kyunki <strong>"Riya toh strong hai. Riya toh topper hai. Riya ko kya ho sakta hai?"</strong></p>
 

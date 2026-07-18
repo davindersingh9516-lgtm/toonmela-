@@ -11,6 +11,9 @@ $ageLabel = 'Junior Readers (7-12)';
 $category = 'Wisdom Tales';
 $heroImage = '/img/akbar-birbal-hero.webp';
 $keywords = 'akbar birbal ki kahani, akbar birbal story hindi, akbar birbal moral story, birbal ki chaturai, mughal story hindi, wisdom tale hindi, best akbar birbal kahani, panchtantra ki kahani';
+$focus_keyphrase = 'akbar birbal ki kahani';
+$seo_title = 'Akbar Birbal Ki Kahani - Sabse Badi Cheez | ToonMela';
+$seo_desc = 'Akbar ne Birbal se poocha - duniya ki sabse badi cheez kya hai? Uska jawab sunke sabha chup ho gayi. Padhein yeh classic akbar birbal ki kahani hindi mein.';
 $faq = [
     'Akbar Birbal ki kahani ka moral kya hai?' => 'Is kahani ka moral hai ki duniya ki sabse badi cheez "zaroorat" hai. Jab zaroorat hoti hai tab paani bhi sone se zyada keemti ho jaata hai. Cheezoin ki value fixed nahi hoti - circumstances decide karti hain.',
     'Birbal kaun tha?' => 'Birbal Mughal Badshah Akbar ke navratno (9 gems) mein se ek the. Unka asli naam Mahesh Das tha. Woh apni buddhimani aur hazir-jawabi ke liye mashoor the.',
@@ -32,7 +35,7 @@ ob_start();
 
 <p>"Birbal, aaj ek sawaal hai — <strong>duniya ki sabse badi cheez kya hai?</strong>"</p>
 
-<img src="<?php echo SITE_URL; ?>img/akbar-birbal-hero.webp" alt="Akbar Birbal ki kahani - Mughal darbaar - cartoon illustration" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/akbar-birbal-hero.webp" alt="Akbar Birbal ki kahani - Mughal darbaar - cartoon illustration" width="1024" height="572" style="border-radius:8px; margin: 2em auto;">
 
 <p>Darbaar mein sannata chha gaya. Sab darbaari ek doosre ko dekhne lage. Sawaal simple lag raha tha — lekin Akbar ke sawaal kabhi simple nahi hote the. Unke peeche hamesha ek puzzle chhupa hota tha.</p>
 
@@ -90,7 +93,7 @@ ob_start();
 
 <p>Dopahar tak — Akbar thak gaye. Gala sookh gaya. Honth phat rahe the. Paseena sukh chuka tha — kyunki shareer mein paani hi nahi bacha tha.</p>
 
-<img src="<?php echo SITE_URL; ?>img/akbar-birbal-desert.webp" alt="Akbar aur Birbal registan mein - pyaas - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/akbar-birbal-desert.webp" alt="Akbar aur Birbal registan mein - pyaas - cartoon" width="1024" height="572" style="border-radius:8px; margin: 2em auto;">
 
 <p>"Birbal... <strong>paani hai?</strong>"</p>
 
@@ -140,7 +143,7 @@ ob_start();
 
 <p>Birbal muskuraye. "Shukriya Jahanpanah. Aur aapki zaroorat — is waqt — ek aur ghoontt paani hai. Lijiye."</p>
 
-<img src="<?php echo SITE_URL; ?>img/akbar-birbal-chai.webp" alt="Akbar Birbal saath mein hanste hue - dosti - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/akbar-birbal-chai.webp" alt="Akbar Birbal saath mein hanste hue - dosti - cartoon" width="1024" height="572" style="border-radius:8px; margin: 2em auto;">
 
 <p>Dono hanse. Registan mein — dhoop mein — do aadmi — ek Badshah, ek mantri — hass rahe the. Kyunki <strong>dosti bhi tab sabse badi lagti hai jab zaroorat ho — aur Birbal hamesha zaroorat par hote the.</strong></p>
 

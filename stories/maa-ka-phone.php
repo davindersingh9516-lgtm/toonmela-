@@ -11,6 +11,9 @@ $ageLabel = 'Sabke Liye';
 $category = 'Family Stories';
 $heroImage = '/img/maa-ka-phone-hero.webp';
 $keywords = 'maa ki kahani hindi, emotional mother story hindi, ghar se door kahani, maa ka pyaar story, family emotional story hindi, mother son story hindi, dil choo lene wali kahani, best hindi emotional story';
+$focus_keyphrase = 'emotional mother story hindi';
+$seo_title = 'Maa Ka Phone - Emotional Mother Story Hindi | ToonMela';
+$seo_desc = 'Maa roz call karti, forwards bhejti - Vikram irritated rehta. Phir 47 missed calls aaye. Padhein yeh emotional mother story hindi mein jo rula degi.';
 $faq = [
     'Is kahani ka moral kya hai?' => 'Maa ke calls kabhi spam nahi hote — woh pyaar hote hain. Jab woh roz call karti hain toh iska matlab yeh nahi ki unhe kuch kaam hai. Matlab yeh hai ki unhe tum yaad aate ho. Uthao unka phone — hamesha.',
     'Ghar se door rehne waale bacche kya karen?' => 'Hafte mein kam se kam ek baar ghar video call karo — sirf 15 minute. Batao kaise ho, kya kha rahe ho, kya chal raha hai. Maa-baap ko khaas nahi chahiye — bas tumhari awaaz chahiye.',
@@ -49,7 +52,7 @@ ob_start();
 
 <p>Savitri ke liye yeh spam nahi tha। Yeh <strong>ek tarika tha apne bete ke paas rehne ka</strong> — jab beta 1,200 kilometre door tha।</p>
 
-<img src="<?php echo SITE_URL; ?>img/maa-ka-phone-hero.webp" alt="Maa smartphone se Vikram ko video call karti hui - cartoon illustration" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/maa-ka-phone-hero.webp" alt="Maa smartphone se Vikram ko video call karti hui - cartoon illustration" width="1024" height="559" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Vikram Ki Duniya</h2>
 
@@ -107,7 +110,7 @@ ob_start();
 
 <p>"Arrey woh toh — pata nahi beta, Maine dekha tha woh kuch dera hua darwaze pe baithke phone kar rahi thi। Shayad tum nahi uthaye।"</p>
 
-<img src="<?php echo SITE_URL; ?>img/maa-ka-phone-city.webp" alt="Vikram office mein phone dekh raha hai - 47 missed calls Maa - panic - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/maa-ka-phone-city.webp" alt="Vikram office mein phone dekh raha hai - 47 missed calls Maa - panic - cartoon" width="1024" height="559" style="border-radius:8px; margin: 2em auto;">
 
 <p>Vikram ne rahat ki saans li। Lekin andar kuch aur bhi tha — kuch jo rahat nahi tha।</p>
 
@@ -161,7 +164,7 @@ ob_start();
 
 <p>Vikram hansa। Aankhein geeli thin। "Pata tha।"</p>
 
-<img src="<?php echo SITE_URL; ?>img/maa-ka-phone-home.webp" alt="Vikram ghar aaya, Maa khush hokar khana parosta hai - warm family scene - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/maa-ka-phone-home.webp" alt="Vikram ghar aaya, Maa khush hokar khana parosta hai - warm family scene - cartoon" width="1024" height="559" style="border-radius:8px; margin: 2em auto;">
 
 <p>Teen din Rampur mein rahe। Koi khas plan nahi tha। Maa ke saath subah chai pi। Ghar ke kaam mein haath bataya। Sharma Uncle se mila। Gaon mein ghuma।</p>
 

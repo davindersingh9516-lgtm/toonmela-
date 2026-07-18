@@ -11,6 +11,9 @@ $ageLabel = 'Sabke Liye (18+)';
 $category = 'Life Lessons';
 $heroImage = '/img/ek-cup-chai-hero.webp';
 $keywords = 'moral story hindi, life lessons hindi, chai wala story, CEO story hindi, inspirational kahani, motivational story hindi, best hindi moral story, zindagi ki seekh';
+$focus_keyphrase = 'motivational story hindi';
+$seo_title = 'Ek Cup Chai - CEO Aur Chaiwale Ki Kahani | ToonMela';
+$seo_desc = 'Billionaire CEO ka driver nahi aaya. Chai wale ne usse zindagi ki sabse badi seekh de di. Padhein yeh motivational story hindi jo soch badal degi.';
 $faq = [
     'Ek Cup Chai kahani ka moral kya hai?' => 'Is kahani ka moral yeh hai ki asli amiri paison mein nahi balki waqt mein hai. Jo insaan apne pyaron ke liye waqt nikal sake, woh duniya ka sabse ameer insaan hai.',
     'Yeh kahani kis age group ke liye hai?' => 'Yeh kahani sabke liye hai, khaas taur par 18+ readers ke liye jo professional life mein busy hain aur work-life balance seekhna chahte hain.',
@@ -42,7 +45,7 @@ ob_start();
 
 <p>Aaj bhi subah se phone bajj raha tha. Secretary Priya ka call — "Sir, 8:30 pe board meeting hai, Mehta ji naraz hain kisi baat pe." CFO ka message — "Quarterly numbers discuss karne hain urgently." Wife Anjali ka missed call — 3 baar. Vikram ne ek baar bhi pick nahi kiya. <strong>"Baad mein kar lunga,"</strong> usne socha — jaise har roz sochta tha.</p>
 
-<img src="<?php echo SITE_URL; ?>img/ek-cup-chai-auto.webp" alt="Vikram CEO auto mein baitha hua - pehli baar - cartoon illustration" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/ek-cup-chai-auto.webp" alt="Vikram CEO auto mein baitha hua - pehli baar - cartoon illustration" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Woh Subah Jo Sab Badal Gayi</h2>
 
@@ -108,7 +111,7 @@ ob_start();
 
 <p>Vikram ke liye yeh samajh se bahar tha — koi insaan 42 saal ek hi jagah, ek hi kaam, ek hi thela — kaise kar sakta hai? Usse toh ek company 2 saal se zyada chalaana bore kar deta tha.</p>
 
-<img src="<?php echo SITE_URL; ?>img/ek-cup-chai-talk.webp" alt="Ramdin chaiwala aur Vikram CEO - chai ki dukaan par baat karte hue - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/ek-cup-chai-talk.webp" alt="Ramdin chaiwala aur Vikram CEO - chai ki dukaan par baat karte hue - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Woh Sawaal Jo Sab Badal Gaye</h2>
 

@@ -11,6 +11,9 @@ $ageLabel = 'Junior Readers (7-12)';
 $category = 'Wisdom Tales';
 $heroImage = '/img/chor-chirag-hero.webp';
 $keywords = 'jadui chirag kahani, magic lamp story hindi, 3 wishes story, chor ki kahani, genie story hindi, moral story about greed, best wisdom tale hindi';
+$focus_keyphrase = 'jadui chirag ki kahani';
+$seo_title = 'Chor Aur Jadui Chirag - Jadui Kahani Hindi | ToonMela';
+$seo_desc = 'Chor ko mila jadui chirag, 3 wishes ke saath. Paisa aur taaqat maangne se dukhi hua. Teesri wish mein kya maanga? Padhein yeh jadui chirag ki kahani.';
 $faq = [
     'Is kahani ka moral kya hai?' => 'Na zyada paisa khushi deta hai na zyada taaqat. Asli khushi seedhi-saadhi zindagi mein hai - jahan log tumse pyaar karein aur tum apni mehnat se kamaao.',
     'Teesri wish mein Billu ne kya maanga?' => 'Billu ne maanga ki sab kuch pehle jaisa kar do - paisa bhi le jaao, taaqat bhi le jaao, bas mujhe ek normal insaan bana do aur chori karna bhulwa do.',
@@ -47,7 +50,7 @@ ob_start();
 
 <p>Almost khaali. Sandook mein sirf ek cheez thi — <strong>ek purana, dhuein se kaala, peetal ka chirag.</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/chor-chirag-lamp.webp" alt="Billu chor sandook mein purana chirag dhundhta hua - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/chor-chirag-lamp.webp" alt="Billu chor sandook mein purana chirag dhundhta hua - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p>"Yeh kya bekar cheez hai!" Billu nirash tha. "Itni mushkil se aaya — aur mila ek purana chirag? Isse toh kabaadi bhi nahi lega!"</p>
 
@@ -115,7 +118,7 @@ ob_start();
 
 <p>Ramu ne kaha — <strong>"Billu bhai, main darta hun tujhse. Pehle tu chor tha — phir bhi dost the. Ab toh tu... tu kuch aur hi ban gaya hai."</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/chor-chirag-alone.webp" alt="Billu akela baitha hua - paisa aur taaqat hai par khushi nahi - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/chor-chirag-alone.webp" alt="Billu akela baitha hua - paisa aur taaqat hai par khushi nahi - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p>Billu us raat akela baitha tha. Charon taraf sona tha. Taaqat thi. Duniya mein koi usse haath nahi laga sakta tha. Lekin —</p>
 

@@ -11,6 +11,9 @@ $ageLabel = 'Teen Readers (13-17)';
 $category = 'Life Lessons';
 $heroImage = '/img/haar-baad-hero.webp';
 $keywords = 'sports story hindi, losing story motivation, football story hindi, haar ke baad jeet, comeback story hindi, never give up kahani, sports moral story';
+$focus_keyphrase = 'never give up story hindi';
+$seo_title = 'Haar Ke Baad - Never Give Up Story Hindi | ToonMela';
+$seo_desc = 'Aryan state level final haar gaya - trophy nahi mili. Lekin haar ke baad jo mila, woh kisi trophy se bada tha. Padhein yeh motivational sports kahani.';
 $faq = [
     'Haar ke baad kaise motivate rahen?' => 'Haar ko end mat samjho - seekh samjho. Apni galtiyan note karo, practice double karo, aur yaad rakho ki har champion pehle haar chuka hai.',
     'Kya haar zaroori hai zindagi mein?' => 'Haan. Haar ke bina jeet ki value nahi samajh aati. Haar humein humble banati hai, seekh deti hai, aur do guna mehnat karne ki taaqat deti hai.',
@@ -32,7 +35,7 @@ ob_start();
 
 <p>Aryan midfield mein ghutno ke bal baitha tha. Jersey paseene se bheegi thi. Saans bhaari thi — itni bhaari jaise phephdon mein hawa nahi, pathar bhare hon. Aankhein jal rahi thin — lekin aansoo nahi nikal rahe the. Kyunki aansoo se bhi zyada kuch aur jal raha tha — <strong>andar. Dil mein. Us jagah jahan sapne rehte hain.</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/haar-baad-ground.webp" alt="Aryan ground par baitha hua - haar ke baad - football - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/haar-baad-ground.webp" alt="Aryan ground par baitha hua - haar ke baad - football - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p>Doosri team celebrate kar rahi thi. Trophy uthaa rahi thi — woh golden trophy jo Aryan ne sapno mein 100 baar uthaayi thi. Taaliyan bajj rahi thin — lekin woh taaliyan kisi aur ke liye thin. Confetti ud raha tha — lekin woh Aryan ke upar nahi gir raha tha.</p>
 
@@ -118,7 +121,7 @@ ob_start();
 
 <p>Kisi ne nahi kaha "kyun aaye ho." Kisi ne nahi kaha "match toh haar gaye." Sab jaante the — <strong>haar ke baad uthna, wahi asli match hai.</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/haar-baad-practice.webp" alt="Aryan subah practice karta hua - sunrise - comeback - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/haar-baad-practice.webp" alt="Aryan subah practice karta hua - sunrise - comeback - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <h2>175 Din</h2>
 

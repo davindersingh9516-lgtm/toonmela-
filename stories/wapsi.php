@@ -11,6 +11,9 @@ $ageLabel = 'Sabke Liye (18+)';
 $category = 'Life Lessons';
 $heroImage = '/img/wapsi-hero.webp';
 $keywords = 'ghar wapsi kahani, maa baap ki kahani hindi, emotional story hindi, gaon ki kahani, NRI story hindi, family moral story, best emotional hindi story, parents love story';
+$focus_keyphrase = 'ghar wapsi ki kahani';
+$seo_title = 'Wapsi - Ghar Wapsi Ki Emotional Kahani | ToonMela';
+$seo_desc = 'Manoj 20 saal baad apne gaon lautta hai. Sab badal gaya hai, ek cheez ke alawa. Padhein yeh dil choo lene wali wapsi ki kahani jo rula degi.';
 $faq = [
     'Wapsi kahani ka moral kya hai?' => 'Is kahani ka moral hai ki apne maa-baap ko kabhi mat bhoolo. Ego, gussa, busy schedule sab bahane hain. Ghar wapas jaao jab tak waqt hai kyunki waqt kisike liye nahi rukta.',
     'Yeh kahani kaun padhein?' => 'Yeh kahani har us insaan ke liye hai jisne ghar choda hai, jo apne parents se door rehta hai, ya jo busy schedule ki wajah se family se connect nahi ho paa raha.',
@@ -26,7 +29,7 @@ ob_start();
 
 <p>Bus se utra. Ek jhola tha kandhe par — ek chhota sa bag jo ek ameer aadmi ke paas hona chahiye. Lekin aaj Manoj ameer nahi tha. Aaj woh sirf ek beta tha — <strong>jo bahut der se ghar lautta hai.</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/wapsi-village.webp" alt="Manoj apne gaon Rampur mein wapas - bus stand par - cartoon illustration" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/wapsi-village.webp" alt="Manoj apne gaon Rampur mein wapas - bus stand par - cartoon illustration" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Pehchaan</h2>
 
@@ -136,7 +139,7 @@ ob_start();
 
 <p>Jaise 20 saal ki doori ek pal mein pighal gayi — <strong>Maa ro padin.</strong> Woh rona — woh rona jo 20 saal se rok ke rakha tha. Har Diwali ka akela rona. Har birthday ka intezaar waala rona. Har raat ka "mera beta kab aayega" waala rona.</p>
 
-<img src="<?php echo SITE_URL; ?>img/wapsi-maa.webp" alt="Manoj apni Maa se milta hua - 20 saal baad - emotional cartoon illustration" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/wapsi-maa.webp" alt="Manoj apni Maa se milta hua - 20 saal baad - emotional cartoon illustration" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p>"Aa gaya mera beta. Aa gaya. Maine kaha tha na tere Papa se — aayega woh. Zaroor aayega."</p>
 

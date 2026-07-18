@@ -11,6 +11,9 @@ $ageLabel = 'Junior Readers (7-12)';
 $category = 'Family Stories';
 $heroImage = '/img/dadi-rasoi-hero.webp';
 $keywords = 'dadi ki kahani hindi, grandmother story hindi, family values story, cooking with love story, best moral story for kids, Indian family kahani';
+$focus_keyphrase = 'dadi ki kahani';
+$seo_title = 'Dadi Ki Jadui Rasoi - Grandmother Story Hindi | ToonMela';
+$seo_desc = 'Dadi ka khaana restaurant se bhi tasty kyun tha? Ek pote ne spy banke dhoonda asli raaz. Padhein yeh pyaari dadi ki kahani jo dil choo legi.';
 $faq = [
     'Dadi ka khaana itna accha kyun hota hai?' => 'Kyunki Dadi pyaar se banaati hain. Pyaar se bani cheez ka swaad hi alag hota hai - chahe ingredients same hon.',
     'Is kahani se bacche kya seekh sakte hain?' => 'Bacche seekh sakte hain ki apne ghar ke badon ki value karein. Unka har kaam - khaana banana, kapde dhona, ghar saaf karna - sab pyaar se bhara hota hai.',
@@ -39,7 +42,7 @@ ob_start();
 
 <p>Aman ne faisla kiya — <strong>"Sunday ko main spy banunga. Chhup kar dekhunga Dadi kya dalti hain khaane mein!"</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/dadi-rasoi-cooking.webp" alt="Dadi rasoi mein pyaar se khaana banati hui - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/dadi-rasoi-cooking.webp" alt="Dadi rasoi mein pyaar se khaana banati hui - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Secret Agent Aman - Mission Rasoi</h2>
 
@@ -83,7 +86,7 @@ ob_start();
 
 <p>Aman ki notebook zameen par gir gayi. Uski aankhein bhar aayin. <strong>Woh samajh gaya.</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/dadi-rasoi-love.webp" alt="Dadi pyaar se plate mein khaana sajati hui - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/dadi-rasoi-love.webp" alt="Dadi pyaar se plate mein khaana sajati hui - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p>Dadi ke khaane mein koi jadui masala nahi tha. Koi secret ingredient nahi tha. <strong>Dadi ka jaadu tha — pyaar.</strong></p>
 

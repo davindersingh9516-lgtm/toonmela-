@@ -11,6 +11,9 @@ $ageLabel = 'Junior Readers (7-12)';
 $category = 'Adventure';
 $heroImage = '/img/pahaad-hero-main.webp';
 $keywords = 'hero story hindi, brave boy story, flood story kids, nature story hindi, adventure moral story, courage story for children';
+$focus_keyphrase = 'brave boy story hindi';
+$seo_title = 'Pahaad Ka Hero - Brave Boy Story Hindi | ToonMela';
+$seo_desc = 'Baadh aane wali thi, koi nahi maan raha tha. 11 saal ke ladke ne akele poora gaon bachaya. Padhein Veer ki yeh brave boy story hindi - asli hero ki kahani.';
 $faq = [
     'Is kahani ka moral kya hai?' => 'Sahi baat kehne mein umar nahi dekhte. Chahe tumhari koi na sune - agar tum sahi ho toh himmat se bolo. Asli hero woh hai jo sahi waqt par sahi kaam kare.',
     'Bacche nature se kya seekh sakte hain?' => 'Nature hamesha signals deti hai - pakshiyon ka udna, paani ka rang badalna, hawa ki direction. In signals ko samajhna har bacche ko seekhna chahiye.',
@@ -55,7 +58,7 @@ ob_start();
 
 <p>Normally Mandakini ka paani saaf hota tha — halka neela-green. Aaj — <strong>brown.</strong> Mitti jaisa. Gadla. Aur paani ka level bhi — normally nadi gaon se 4 feet neeche behti thi. Aaj <strong>sirf 2 feet neeche thi.</strong> Aadha gap kam ho gaya tha.</p>
 
-<img src="<?php echo SITE_URL; ?>img/pahaad-hero-warning.webp" alt="Veer nadi ka paani dekhta hua - brown paani - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/pahaad-hero-warning.webp" alt="Veer nadi ka paani dekhta hua - brown paani - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p>Veer ka dil tez dhakne laga. Yeh dono nishaniyan Dadaji ne sikhaayi thin:</p>
 
@@ -155,7 +158,7 @@ ob_start();
 
 <p>Paani neeche wale gharon mein ghus gaya. Pehle aangan mein. Phir kamron mein. Phir chhaton tak. <strong>Neeche wale 50-60 gharon mein paani tha — 5-6 feet.</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/pahaad-hero-saved.webp" alt="Gaon ke log safe upar pahaad par - Veer hero - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/pahaad-hero-saved.webp" alt="Gaon ke log safe upar pahaad par - Veer hero - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p>Jo log upar chale gaye the — <strong>woh safe the.</strong></p>
 

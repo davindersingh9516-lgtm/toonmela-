@@ -11,6 +11,9 @@ $ageLabel = 'Sabke Liye';
 $category = 'Family Stories';
 $heroImage = '/img/lalchi-saas-hero.webp';
 $keywords = 'lalchi saas, garib bahu, saas bahu ki kahani, saas bahu story hindi, lalchi saas ki kahani, moral story hindi, hindi kahani, saas vs bahu, family story hindi, emotional kahani';
+$focus_keyphrase = 'saas bahu ki kahani';
+$seo_title = 'Lalchi Saas Aur Garib Bahu - Saas Bahu Kahani | ToonMela';
+$seo_desc = 'Lalchi saas ne garib bahu ko bahut sataya. Jab sachai saamne aayi, poore ghar ki aankhein khul gayin. Padhein yeh best saas bahu ki kahani hindi mein.';
 $faq = [
     'Lalchi Saas Aur Garib Bahu kahani ka moral kya hai?' => 'Is kahani ka moral hai ki insaan ki pehchaan uske paison se nahi, uske dil se hoti hai. Lalach insaan ko andha kar deta hai aur sachai hamesha saamne aati hai.',
     'Yeh kahani kis ke liye hai?' => 'Yeh kahani sabke liye hai - khaas taur par un logon ke liye jo rishton mein paisa aur status dekhte hain. Yeh sikhaati hai ki pyaar aur respect paise se nahi milte.',
@@ -36,7 +39,7 @@ ob_start();
 
 <p>Suman ek chhote se gaon se aayi thi. Papa teacher the — sarkari school mein — 28,000 ki naukri. Maa ghar sambhaalti thi. Ghar mein paisa kam tha lekin <strong>pyaar bahut tha.</strong> Suman padhi-likhi thi — B.Ed. ki thi — lekin shaadi ke baad naukri nahi kar paayi kyunki saas ne mana kar diya tha: <strong>"Hamare ghar ki bahuen naukri nahi karti. Ghar sambhalo."</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/lalchi-saas-hero.webp" alt="Lalchi Saas Aur Garib Bahu - saas bahu ki kahani - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/lalchi-saas-hero.webp" alt="Lalchi Saas Aur Garib Bahu - saas bahu ki kahani - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Ghar Mein Aake</h2>
 
@@ -90,7 +93,7 @@ ob_start();
 
 <p>"Haan behen ji, bus se aaya. Car ki zaroorat nahi — <strong>achi soch le jaati hai jahan car nahi le jaati.</strong>"</p>
 
-<img src="<?php echo SITE_URL; ?>img/lalchi-saas-hero.webp" alt="Lalchi Saas aur Garib Bahu - Teacher sahab baat karte hue - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/lalchi-saas-hero.webp" alt="Lalchi Saas aur Garib Bahu - Teacher sahab baat karte hue - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p>Kamla Devi ka chehra tight ho gaya.</p>
 
@@ -136,7 +139,7 @@ ob_start();
 
 <p>Kamla Devi ki aankhein bhar aayin. Kyunki sach tha — <strong>bilkul sach.</strong> 35 saal pehle woh bhi aise hi sataayi gayi thin. Woh bhi roti thin. Woh bhi thaki hui thin.</p>
 
-<img src="<?php echo SITE_URL; ?>img/lalchi-saas-teacher.webp" alt="Teacher sahab saas ko samjhate hue - emotional scene - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/lalchi-saas-teacher.webp" alt="Teacher sahab saas ko samjhate hue - emotional scene - cartoon" width="2752" height="1536" style="border-radius:8px; margin: 2em auto;">
 
 <p>"Toh behen ji — <strong>aap wahi dard apni bahu ko kyun de rahi hain?</strong>"</p>
 
@@ -176,7 +179,7 @@ ob_start();
 
 <p>Kamla Devi ne saree dekhi. Phir Suman ko dekha. Phir gale lagaya — <strong>pehli baar. Sachchi waala hug.</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/lalchi-saas-hug.webp" alt="Saas bahu gale milte hue - maafi ka lamha - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/lalchi-saas-hug.webp" alt="Saas bahu gale milte hue - maafi ka lamha - cartoon" width="1024" height="572" style="border-radius:8px; margin: 2em auto;">
 
 <p>"Mujhe maaf kar de beta. Maine bahut galat kiya."</p>
 

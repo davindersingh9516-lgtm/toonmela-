@@ -11,6 +11,9 @@ $ageLabel = 'Sabke Liye';
 $category = 'Family Stories';
 $heroImage = '/img/nani-chitthi-hero.webp';
 $keywords = 'nani ki kahani hindi, emotional family story hindi, grandmother story hindi, unsent letters story, mother daughter story hindi, family values story hindi, dil choo lene wali kahani, pyaar ki kahani hindi';
+$focus_keyphrase = 'emotional family story hindi';
+$seo_title = 'Nani Ki Chitthi - Emotional Family Story Hindi | ToonMela';
+$seo_desc = 'Rahul ko Nani ke sandook mein 40 saal purane letters mile - kabhi bheje nahi gaye. Har letter mein ek raaz tha. Padhein yeh nani ki chitthi kahani.';
 $faq = [
     'Is kahani ka moral kya hai?' => 'Jo pyaar dil mein hai, usse bol do. Abhi. Kyunki kuch log chale jaate hain bina sune. Nani ke letters kabhi nahi bheje gaye - par Rahul ko mil gaye. Kisi ke liye intezaar mat karo.',
     'Bacche apne dadaji-nanaji se kaise zyada judge kar sakte hain?' => 'Unse seedha baat karo. Unki purani cheezein dekho - photos, dairies, letters. Woh cheezein batati hain jo woh kabhi bolte nahi. Bade logon ki zindagi hamaari soch se kahin zyada gehri hoti hai.',
@@ -47,7 +50,7 @@ ob_start();
 
 <p>Meera — Rahul ki mom का naam।</p>
 
-<img src="<?php echo SITE_URL; ?>img/nani-chitthi-trunk.webp" alt="Purana lal sandook aur andar se letters ka bundle - cartoon illustration" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/nani-chitthi-trunk.webp" alt="Purana lal sandook aur andar se letters ka bundle - cartoon illustration" width="1024" height="559" style="border-radius:8px; margin: 2em auto;">
 
 <p>Rahul ne bundle uthaya। Dhage khola। Letters the — 20? 30? Zyada। Sab sealed। Sab addressed — "Meera Ko।" Aur sab pe dates thi — 1985 se lekar 2019 tak।</p>
 
@@ -87,7 +90,7 @@ ob_start();
 
 <p><em>"...Aaj tera beta aaya। Ek chhota, gurraata hua, lal chehra wala — bilkul waise jaisa tu thi। Jab tune usse mujhe pakdaya — aur usne meri ungli pakdi — I swear Meera, mujhe laga 40 saal peeche chali gayi। Waisi hi soft ungliyaan। Waisa hi zor se pakadna। Beta, is bachche ko woh dena jo main tujhe de nahi payi — khulke bolna। Pyaar bol do — roz। Woh jaane..."</em></p>
 
-<img src="<?php echo SITE_URL; ?>img/nani-chitthi-letters.webp" alt="Rahul letters padhta hua - aankhon mein aansoo - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/nani-chitthi-letters.webp" alt="Rahul letters padhta hua - aankhon mein aansoo - cartoon" width="1024" height="559" style="border-radius:8px; margin: 2em auto;">
 
 <p>Rahul ka haath kaanpa। <em>Usne meri ungliyaan pakdi thi। Nani ko।</em></p>
 
@@ -141,7 +144,7 @@ ob_start();
 
 <p>Rahul wahan nahi ruka। Andar chala gaya। Kuch cheezein private hoti hain।</p>
 
-<img src="<?php echo SITE_URL; ?>img/nani-chitthi-mom.webp" alt="Mom letters padhti hui - bahut emotional - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/nani-chitthi-mom.webp" alt="Mom letters padhti hui - bahut emotional - cartoon" width="1024" height="559" style="border-radius:8px; margin: 2em auto;">
 
 <p>Ek ghante baad Mom aayi — aankhein suji hui, haath mein saare letters। Rahul se lipat gayi — bina kuch bole।</p>
 

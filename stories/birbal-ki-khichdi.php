@@ -11,6 +11,9 @@ $ageLabel = 'Junior Readers (7-12)';
 $category = 'Wisdom Tales';
 $heroImage = '/img/birbal-khichdi-hero.webp';
 $keywords = 'birbal ki khichdi, akbar birbal ki kahani, akbar birbal story hindi, birbal ki chaturai, akbar birbal moral story, mazedar kahani hindi, wisdom story for kids hindi, classic hindi kahani';
+$focus_keyphrase = 'birbal ki khichdi kahani';
+$seo_title = 'Birbal Ki Khichdi - Akbar Birbal Kahani Hindi | ToonMela';
+$seo_desc = 'Akbar ne garib brahmin ko nadi mein raat bhar khada rakha inam ke liye. Phir Birbal ne kya tarkeeb nikali? Padhein yeh mazedar birbal ki khichdi kahani.';
 $faq = [
     'Birbal Ki Khichdi kahani ka moral kya hai?' => 'Insaaf sabke liye barabar hona chahiye - ameer ya garib, chote ya bade. Agar ek cheez ek insaan ke liye sach hai toh doosre ke liye bhi sach honi chahiye. Birbal ne yeh usi ke andaaz mein saabit kiya.',
     'Birbal ne khichdi kyun banayi thi?' => 'Birbal ne dikhaya ki agar Akbar ka logic sach tha (door ki lamp se garib brahmin ko garmi mili) toh usi logic se door ki aag se khichdi bhi pak sakti thi. Jab khichdi nahi paki - tab Akbar samajh gaye ki unka logic galat tha.',
@@ -50,7 +53,7 @@ ob_start();
 
 <p>Birbal — jo ab tak chup the — muskuraa rahe the. Unhe kuch zyada batana nahi tha. <strong>Birbal jaante the ki jab zaroorat hoti hai, insaan kya kuch kar sakta hai.</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/birbal-khichdi-hero.webp" alt="Akbar darbaar mein challenge dete hue - Akbar Birbal cartoon illustration" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/birbal-khichdi-hero.webp" alt="Akbar darbaar mein challenge dete hue - Akbar Birbal cartoon illustration" width="1024" height="559" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Shambhu Pandit Ki Zaroorat</h2>
 
@@ -96,7 +99,7 @@ ob_start();
 
 <p>Raat guzarti gayi।</p>
 
-<img src="<?php echo SITE_URL; ?>img/birbal-khichdi-river.webp" alt="Shambhu brahmin sardi mein Yamuna nadi mein raat bhar khada raha - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/birbal-khichdi-river.webp" alt="Shambhu brahmin sardi mein Yamuna nadi mein raat bhar khada raha - cartoon" width="1024" height="559" style="border-radius:8px; margin: 2em auto;">
 
 <p>Aur phir — aasmaan mein halki narangi roshni aayi। Suraj — aa raha tha।</p>
 
@@ -166,7 +169,7 @@ ob_start();
 
 <p>"Jahanpanah, khichdi ban rahi hai।"</p>
 
-<img src="<?php echo SITE_URL; ?>img/birbal-khichdi-cook.webp" alt="Birbal ki haandi 10 feet oopar aag se door - Akbar hairaan - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/birbal-khichdi-cook.webp" alt="Birbal ki haandi 10 feet oopar aag se door - Akbar hairaan - cartoon" width="1024" height="559" style="border-radius:8px; margin: 2em auto;">
 
 <p>"<strong>Khichdi BAN rahi hai?!</strong>" Akbar ne haandi ki taraf dekha — woh aag se 10 foot door thi। "Yeh kaisi baat hai Birbal? Aag itni door hai — haandi mein heat kahan se aayegi? Khichdi kaise pakegi?"</p>
 
@@ -226,7 +229,7 @@ ob_start();
 
 <p>Akbar ne haath uthaya। "Kuch bolne ki zaroorat nahi। Birbal ne aaj mujhe seekh di — <strong>insaaf sirf taaqatwaaron ke liye nahi hota। Agar koi rule ek ke liye sach hai — toh sab ke liye sach hona chahiye।</strong>"</p>
 
-<img src="<?php echo SITE_URL; ?>img/birbal-khichdi-justice.webp" alt="Akbar Shambhu brahmin ko inam dete hue - Birbal muskurate hue - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/birbal-khichdi-justice.webp" alt="Akbar Shambhu brahmin ko inam dete hue - Birbal muskurate hue - cartoon" width="1024" height="559" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Birbal Ki Khichdi Ka Matlab</h2>
 

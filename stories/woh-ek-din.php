@@ -11,6 +11,9 @@ $ageLabel = 'Teen Readers (13-17)';
 $category = 'Life Lessons';
 $heroImage = '/img/woh-ek-din-hero.webp';
 $keywords = 'bullying story hindi, school bullying kahani, anti bullying story, stand up for yourself story, brave student story hindi, moral story for teens';
+$focus_keyphrase = 'school bullying story hindi';
+$seo_title = 'Woh Ek Din - School Bullying Story Hindi | ToonMela';
+$seo_desc = 'Sahil ko roz school mein bully kiya jaata tha. Ek din stage par usne kuch aisa kiya jisne bully ko bhi rula diya. Padhein yeh bullying story hindi mein.';
 $faq = [
     'Agar mujhe school mein bully kiya jaaye toh kya karun?' => 'Chup mat raho. Apne parents, teacher, ya kisi trusted adult ko batao. Akele mat jhelo. Apni baat kehna kamzori nahi, sabse badi taaqat hai.',
     'Bully karne wale ko kaise samjhaayein?' => 'Aksar bully karne wale ko pata nahi hota ki saamne wale par kya asar ho raha hai. Unhe batao ki unke words aur actions kitna dard dete hain. Empathy develop karna zaroori hai.',
@@ -62,7 +65,7 @@ ob_start();
 
 <p>"Sahil ki Mummy aaj class ka floor poch rahi thi — Sahil, ghar jaake Mummy se bol floor acche se nahi pocha, daag reh gaya hai!"</p>
 
-<img src="<?php echo SITE_URL; ?>img/woh-ek-din-bully.webp" alt="Sahil school mein akela corridor mein - udaas - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/woh-ek-din-bully.webp" alt="Sahil school mein akela corridor mein - udaas - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p>Sab hanse. Sahil chup. Lekin andar — <strong>andar kuch toota.</strong></p>
 
@@ -160,7 +163,7 @@ ob_start();
 
 <blockquote>"Main yeh nahi keh raha ki mujhse mazaak mat udaao. Main sirf yeh keh raha hun — <strong>mazaak udaane se pehle ek baar socho ki saamne wale ki zindagi kaisi hai.</strong> Tumhe nahi pata uski kahani kya hai. Tumhe nahi pata woh raat ko rota hai ya nahi. Tumhe nahi pata uski Mummy kitni mehnat karti hai. <strong>Tumhe kuch nahi pata — lekin judge karne mein ek second nahi lagate.</strong>"</blockquote>
 
-<img src="<?php echo SITE_URL; ?>img/woh-ek-din-stage.webp" alt="Sahil stage par mic ke saamne - spotlight mein - brave - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/woh-ek-din-stage.webp" alt="Sahil stage par mic ke saamne - spotlight mein - brave - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p>Sahil ne mic rakha. Sir jhukaya. Stage se utarne laga.</p>
 

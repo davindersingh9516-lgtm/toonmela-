@@ -11,6 +11,9 @@ $ageLabel = 'Sabke Liye';
 $category = 'Life Lessons';
 $heroImage = '/img/sir-akhri-din-hero.webp';
 $keywords = 'teacher story hindi, emotional teacher story, best teacher kahani hindi, sir ki kahani, village teacher story, retirement story hindi, inspirational teacher story, dil choo lene wali kahani hindi';
+$focus_keyphrase = 'emotional teacher story hindi';
+$seo_title = 'Sir Ka Akhri Din - Emotional Teacher Story | ToonMela';
+$seo_desc = 'Ram Prasad Sir 35 saal padhate the. Retirement ke akhri din akele aaye - lekin ek surprise unka intezaar kar raha tha. Padhein yeh emotional teacher story.';
 $faq = [
     'Is kahani ka moral kya hai?' => 'Ek accha teacher sirf subject nahi padhata — zindagi jeena sikhata hai. Unka kaam class mein nahi, bachchon ki zindagi mein dikhta hai. Aur yeh kaam kisi bhi salary se bada hota hai.',
     'Kya teachers ko unka haq milta hai India mein?' => 'Bahut baar nahi. Government school teachers kam salary, kam resources, aur kam recognition ke saath kaam karte hain. Lekin jo seedh woh dete hain woh priceless hai. Apne teachers ko aaj hi call karo — sirf shukriya kehne ke liye.',
@@ -47,7 +50,7 @@ ob_start();
 
 <p>Woh transfer nahi liya। <strong>Kabhi nahi लिया।</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/sir-akhri-din-hero.webp" alt="Ram Prasad Sir apne purane school ke bahar khade hain - retirement ka akhri din - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/sir-akhri-din-hero.webp" alt="Ram Prasad Sir apne purane school ke bahar khade hain - retirement ka akhri din - cartoon" width="1024" height="559" style="border-radius:8px; margin: 2em auto;">
 
 <h2>35 Saal Ki Class</h2>
 
@@ -91,7 +94,7 @@ ob_start();
 
 <p>Ram Prasad Sir ke paas words nahi the।</p>
 
-<img src="<?php echo SITE_URL; ?>img/sir-akhri-din-students.webp" alt="Former students Ram Prasad Sir se milne aaye hain - emotional reunion - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/sir-akhri-din-students.webp" alt="Former students Ram Prasad Sir se milne aaye hain - emotional reunion - cartoon" width="1024" height="559" style="border-radius:8px; margin: 2em auto;">
 
 <p><strong>Dr. Meena Verma</strong> — wahi Meena जिसने pehle din poocha tha "aaj kya padhoge?" 2002 batch। Ab gynaecologist thi, Lucknow mein। Teen ghante drive karke aayi thi।</p>
 
@@ -135,7 +138,7 @@ ob_start();
 
 <p>"Mera baap kehta tha padhai chhod — khet mein aaja। Sir aapne kaha — ek saal aur de। Uss ek saal mein IAS clear kiya। Uss ek saal ki wajah se aaj 5 lakh logon ka collector hun। <strong>5 lakh logon ki seva uss ek saal ki wajah se ho rahi hai jo aapne manga tha।</strong>"</p>
 
-<img src="<?php echo SITE_URL; ?>img/sir-akhri-din-class.webp" alt="Ram Prasad Sir apni purani class mein blackboard pe likhte hue - 35 saal ki yaadein - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/sir-akhri-din-class.webp" alt="Ram Prasad Sir apni purani class mein blackboard pe likhte hue - 35 saal ki yaadein - cartoon" width="1024" height="559" style="border-radius:8px; margin: 2em auto;">
 
 <p>Ram Prasad Sir roo pade। Chupke se। Woh aansoo jo andar bahut der se the — nikal gaye।</p>
 

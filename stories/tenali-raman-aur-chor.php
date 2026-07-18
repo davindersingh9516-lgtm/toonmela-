@@ -11,6 +11,9 @@ $ageLabel = 'Junior Readers (7-12)';
 $category = 'Wisdom Tales';
 $heroImage = '/img/tenali-raman-hero.webp';
 $keywords = 'tenali raman ki kahani, tenali raman story hindi, tenali raman aur chor, tenali raman chaturai, funny wisdom story hindi, south indian folk tale, vijayanagar story hindi';
+$focus_keyphrase = 'tenali raman ki kahani';
+$seo_title = 'Tenali Raman Aur Chor - Tenali Raman Kahani | ToonMela';
+$seo_desc = 'Tenali Raman ke ghar chor ghusa. Apni chaturai se usne chor ko aisa phansaya ki chor ne khud police bulaayi! Padhein yeh majedar tenali raman ki kahani.';
 $faq = [
     'Tenali Raman kaun the?' => 'Tenali Raman (Tenali Ramakrishna) 16th century mein Vijayanagar ke Raja Krishnadevaraya ke darbaar mein ek kavi aur buddhimaan darbaari the. Woh apni chaturai aur hazir-jawabi ke liye famous hain.',
     'Is kahani ka moral kya hai?' => 'Buddhi taaqat se badi hoti hai. Agar dimaag se kaam lo toh mushkil se mushkil situation se bhi nikla ja sakta hai - bina kisi se lade.',
@@ -34,7 +37,7 @@ ob_start();
 
 <p>Simple logic. <strong>Galat ghar.</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/tenali-raman-hero.webp" alt="Tenali Raman Aur Chor - wisdom story - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/tenali-raman-hero.webp" alt="Tenali Raman Aur Chor - wisdom story - cartoon" width="1024" height="572" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Chor Ka Plan</h2>
 
@@ -86,11 +89,11 @@ ob_start();
 
 <p>Lekin pehle — paani nikaalna padega. Kyunki potli talle mein hai — paani kam hoga toh potli dikhegi.</p>
 
-<img src="<?php echo SITE_URL; ?>img/tenali-raman-well.webp" alt="Chor kuen se paani nikalta hua raat mein - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/tenali-raman-well.webp" alt="Chor kuen se paani nikalta hua raat mein - cartoon" width="1024" height="572" style="border-radius:8px; margin: 2em auto;">
 
 <p>Mangal ne balti se paani nikalna shuru kiya. Ek balti. Do balti. Das balti. Bees balti. <strong>Paani nikal nikal ke baagh mein daal raha tha.</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/tenali-raman-hero.webp" alt="Chor kuen se paani nikalta hua - Tenali dekhta hua - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/tenali-raman-hero.webp" alt="Chor kuen se paani nikalta hua - Tenali dekhta hua - cartoon" width="1024" height="572" style="border-radius:8px; margin: 2em auto;">
 
 <p>1 ghanta ho gaya. 2 ghante. Mangal thak raha tha — lekin 500 ashrafiyaan ka sapna energy de raha tha. <strong>"Bas thoda aur! Thoda aur paani nikalun — potli dikhegi!"</strong></p>
 
@@ -134,7 +137,7 @@ ob_start();
 
 <p>Mangal hairaan tha. <strong>Jis aadmi ko usne lootne ki koshish ki — woh chai de raha hai?</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/tenali-raman-chai.webp" alt="Tenali aur chor saath mein chai peete hue - subah - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/tenali-raman-chai.webp" alt="Tenali aur chor saath mein chai peete hue - subah - cartoon" width="1024" height="572" style="border-radius:8px; margin: 2em auto;">
 
 <p>Baitha. Chai piyi. Tenali ne bhi piyi. Dono — chor aur darbaari — <strong>subah ki dhoop mein chai pee rahe the.</strong></p>
 

@@ -10,6 +10,9 @@ $age = 'nanhe-readers';
 $ageLabel = 'Nanhe Readers (3-6)';
 $category = 'Fairy Tales';
 $heroImage = '/img/rangbirangi-titli-hero.webp';
+$focus_keyphrase = 'moral story for kids hindi';
+$seo_title = 'Rangbirangi Titli - Moral Story for Kids Hindi | ToonMela';
+$seo_desc = 'Titli ko apne rang pasand nahi the. Jab usne jaana har rang ka kaam hai, uski duniya badal gayi! Padhein yeh pyaari moral story for kids hindi mein.';
 
 ob_start();
 ?>
@@ -28,7 +31,7 @@ ob_start();
 
 <p>Gulaab ne hansa. "Rinki, mera laal rang pyaar ka rang hai. <strong>Lekin tera laal rang bhi toh hai!</strong> Tu bhi pyaar de sakti hai. Aur tere paas toh aur bhi rang hain — jo main de hi nahi sakta!"</p>
 
-<img src="<?php echo SITE_URL; ?>img/rangbirangi-titli-flower.webp" alt="Rinki titli gulaab se baat karti hui - cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/rangbirangi-titli-flower.webp" alt="Rinki titli gulaab se baat karti hui - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Aasmaan Se Baat</h2>
 
@@ -42,7 +45,7 @@ ob_start();
 
 <p>Saare jaanwar, pakshi, phool — sab indradhanush dekh kar khush ho gaye. "Kitna sundar hai! Kitna pyara hai!"</p>
 
-<img src="<?php echo SITE_URL; ?>img/rangbirangi-titli-rainbow.webp" alt="Indradhanush aur Rinki titli - cartoon illustration" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/rangbirangi-titli-rainbow.webp" alt="Indradhanush aur Rinki titli - cartoon illustration" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p>Ek chhoti si chidiya Rinki ke paas aayi aur boli, "Rinki didi! Tum toh <strong>udta hua indradhanush</strong> ho! Tumhare pankhon mein bhi wahi rang hain! Tum toh indradhanush se bhi sundar ho — kyunki tum ud sakti ho!"</p>
 

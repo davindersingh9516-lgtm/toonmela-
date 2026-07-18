@@ -19,7 +19,10 @@ if ($cat) {
     $page_title = ($age_groups_data[$age]['label'] ?? 'Stories') . ' Hindi Moral Stories ' . ($age_groups_data[$age]['range'] ?? '') . ' - ' . ($age_groups_data[$age]['desc'] ?? '') . ' | ToonMela';
     $page_desc = 'ToonMela par ' . ($age_groups_data[$age]['label'] ?? '') . ' ke liye ' . count($stories) . ' best Hindi moral stories. ' . ($age_groups_data[$age]['desc'] ?? '') . '. Free, 12+ Indian languages mein padhein.';
     $keywords = strtolower($age_groups_data[$age]['label'] ?? '') . ' hindi stories, moral story for ' . ($age_groups_data[$age]['range'] ?? '') . ', hindi kahani ' . ($age_groups_data[$age]['range'] ?? '') . ', best hindi moral stories, panchtantra ki kahani';
-    $page_url = 'https://toonmela.com/stories.php?age=' . $age;
+    // Canonicalize to the dedicated /age/{slug}.php page - it covers the exact same
+    // story list and is the one listed in the sitemap, so this avoids splitting
+    // ranking signal across two near-identical URLs for the same content.
+    $page_url = isset($age_groups_data[$age]) ? 'https://toonmela.com/age/' . $age . '.php' : 'https://toonmela.com/stories.php?age=' . $age;
 } else {
     $stories = get_stories();
     $heading = 'Sabhi Kahaniyaan';

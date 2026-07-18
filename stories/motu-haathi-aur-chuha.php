@@ -10,6 +10,9 @@ $age = 'nanhe-readers';
 $ageLabel = 'Nanhe Readers (3-6)';
 $category = 'Friendship';
 $heroImage = '/img/motu-haathi-hero.webp';
+$focus_keyphrase = 'friendship story for kids hindi';
+$seo_title = 'Motu Haathi Aur Chuha - Friendship Story Hindi | ToonMela';
+$seo_desc = 'Jungle ka sabse bada haathi sabse chhote chuhe se darta tha! Unki dosti ne poora jungle bachaya. Padhein yeh cute friendship story for kids hindi mein.';
 
 ob_start();
 ?>
@@ -22,7 +25,7 @@ ob_start();
 
 <p><strong>Motu chuhe se darta tha!</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/motu-haathi-scared.webp" alt="Motu haathi chuhe se darta hua - funny cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/motu-haathi-scared.webp" alt="Motu haathi chuhe se darta hua - funny cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p>"Eeeeek!" Jab bhi koi chuha aata, Motu chillata aur bhaag jaata. Itna bada haathi — aur itna chhota chuha — sab haste the!</p>
 
@@ -48,7 +51,7 @@ ob_start();
 
 <p>"Main hun na!" Chhotu bola. Woh us chhote se ched mein ghus gaya aur andar se mitti aur patthi jamake ched band kar diya!</p>
 
-<img src="<?php echo SITE_URL; ?>img/motu-haathi-friends.webp" alt="Motu haathi aur Chhotu chuha saath mein - dosti cartoon" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/motu-haathi-friends.webp" alt="Motu haathi aur Chhotu chuha saath mein - dosti cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
 <p><strong>Paani ruk gaya! Jungle bach gaya!</strong></p>
 
