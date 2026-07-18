@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1024" role="img" aria-label="Jadui dukaan ke andar shelf pe khoyi hui cheezein - patang, kanche, jar mein band awaazein">
+  <defs>
+    <linearGradient id="inside" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#241D44"/>
+      <stop offset="1" stop-color="#3B2E5A"/>
+    </linearGradient>
+    <radialGradient id="lamplight" cx="0.5" cy="0.3" r="0.7">
+      <stop offset="0" stop-color="#FFC55C" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#FFC55C" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1536" height="1024" fill="url(#inside)"/>
+  <ellipse cx="768" cy="360" rx="700" ry="420" fill="url(#lamplight)"/>
+  <!-- hanging lantern -->
+  <line x1="768" y1="0" x2="768" y2="120" stroke="#141227" stroke-width="8"/>
+  <ellipse cx="768" cy="160" rx="34" ry="44" fill="#FFC55C"/>
+  <circle cx="768" cy="160" r="14" fill="#FFF3DC"/>
+  <!-- shelf unit left -->
+  <g>
+    <rect x="80" y="180" width="420" height="700" rx="12" fill="#1B1734"/>
+    <rect x="104" y="330" width="372" height="16" fill="#4A3A6E"/>
+    <rect x="104" y="510" width="372" height="16" fill="#4A3A6E"/>
+    <rect x="104" y="690" width="372" height="16" fill="#4A3A6E"/>
+    <!-- kites -->
+    <path d="M 200 220 L 250 270 L 200 320 L 150 270 Z" fill="#E85D5D"/>
+    <path d="M 200 320 q 12 22 -8 40" stroke="#E85D5D" stroke-width="5" fill="none"/>
+    <path d="M 330 230 L 375 275 L 330 320 L 285 275 Z" fill="#4FB0A5"/>
+    <path d="M 330 320 q -12 22 8 38" stroke="#4FB0A5" stroke-width="5" fill="none"/>
+    <!-- marble jar -->
+    <rect x="150" y="390 " width="110" height="120" rx="16" fill="#8FA8C9" opacity="0.35"/>
+    <rect x="168" y="378" width="74" height="20" rx="8" fill="#FFC55C"/>
+    <circle cx="180" cy="480" r="14" fill="#E85D5D"/><circle cx="212" cy="488" r="14" fill="#4FB0A5"/>
+    <circle cx="238" cy="474" r="14" fill="#FFC55C"/><circle cx="196" cy="456" r="14" fill="#B98FD4"/>
+    <!-- single sock -->
+    <path d="M 330 400 q 6 50 -14 66 q -26 22 -46 2 q -16 -18 4 -34 q 16 -12 18 -34 Z" fill="#F5E9D4"/>
+    <rect x="322" y="392" width="42" height="18" rx="8" fill="#E85D5D"/>
+    <!-- letters -->
+    <rect x="150" y="580" width="130" height="86" rx="8" fill="#F5E9D4" transform="rotate(-5 215 623)"/>
+    <path d="M 155 590 L 215 636 L 275 585" stroke="#C9B896" stroke-width="7" fill="none" transform="rotate(-5 215 623)"/>
+    <rect x="310" y="590" width="120" height="80" rx="8" fill="#EFE3CC" transform="rotate(6 370 630)"/>
+    <!-- old clock -->
+    <circle cx="220" cy="790" r="52" fill="#F5E9D4"/>
+    <circle cx="220" cy="790" r="52" fill="none" stroke="#8A5A20" stroke-width="10"/>
+    <line x1="220" y1="790" x2="220" y2="756" stroke="#2B2440" stroke-width="8" stroke-linecap="round"/>
+    <line x1="220" y1="790" x2="246" y2="800" stroke="#2B2440" stroke-width="8" stroke-linecap="round"/>
+    <!-- teddy -->
+    <circle cx="370" cy="800" r="34" fill="#B98A5A"/>
+    <circle cx="346" cy="772" r="13" fill="#B98A5A"/><circle cx="394" cy="772" r="13" fill="#B98A5A"/>
+    <circle cx="370" cy="758" r="26" fill="#B98A5A"/>
+  </g>
+  <!-- shelf unit right -->
+  <g>
+    <rect x="1036" y="180" width="420" height="700" rx="12" fill="#1B1734"/>
+    <rect x="1060" y="330" width="372" height="16" fill="#4A3A6E"/>
+    <rect x="1060" y="510" width="372" height="16" fill="#4A3A6E"/>
+    <rect x="1060" y="690" width="372" height="16" fill="#4A3A6E"/>
+    <!-- sound jars, glowing -->
+    <g>
+      <rect x="1100" y="230" width="96" height="96" rx="14" fill="#8FA8C9" opacity="0.3"/>
+      <rect x="1116" y="220" width="64" height="18" rx="8" fill="#FFC55C"/>
+      <path d="M 1122 290 q 12 -26 26 0 q 12 -26 26 0" stroke="#FFC55C" stroke-width="6" fill="none" stroke-linecap="round"/>
+      <rect x="1240" y="236" width="90" height="90" rx="14" fill="#8FA8C9" opacity="0.3"/>
+      <rect x="1254" y="226" width="60" height="18" rx="8" fill="#FFC55C"/>
+      <circle cx="1285" cy="286" r="7" fill="#FFF3DC"/><circle cx="1306" cy="270" r="5" fill="#FFF3DC"/>
+      <circle cx="1266" cy="266" r="4" fill="#FFF3DC"/>
+    </g>
+    <!-- cricket ball on cushion, spotlight -->
+    <ellipse cx="1246" cy="470" rx="120" ry="26" fill="#141227"/>
+    <rect x="1150" y="408" width="190" height="56" rx="22" fill="#6E2E5A"/>
+    <circle cx="1246" cy="392" r="44" fill="#D64545"/>
+    <path d="M 1210 372 Q 1246 392 1210 414" stroke="#FFF3DC" stroke-width="5" fill="none"/>
+    <path d="M 1282 372 Q 1246 392 1282 414" stroke="#FFF3DC" stroke-width="5" fill="none"/>
+    <path d="M 1246 330 l 6 14 14 6 -14 6 -6 14 -6 -14 -14 -6 14 -6 Z" fill="#FFC55C"/>
+    <!-- umbrella -->
+    <path d="M 1100 620 q 60 -60 120 0 Z" fill="#4FB0A5"/>
+    <line x1="1160" y1="620" x2="1160" y2="666" stroke="#2B2440" stroke-width="7"/>
+    <path d="M 1160 666 q 0 14 -14 12" stroke="#2B2440" stroke-width="7" fill="none"/>
+    <!-- spectacles -->
+    <g stroke="#FFC55C" stroke-width="8" fill="none">
+      <circle cx="1300" cy="640" r="30"/>
+      <circle cx="1380" cy="640" r="30"/>
+      <line x1="1330" y1="640" x2="1350" y2="640"/>
+    </g>
+    <!-- toy train -->
+    <rect x="1100" y="770" width="100" height="60" rx="10" fill="#E85D5D"/>
+    <rect x="1120" y="740" width="44" height="36" rx="8" fill="#E85D5D"/>
+    <circle cx="1126" cy="836" r="16" fill="#2B2440"/><circle cx="1176" cy="836" r="16" fill="#2B2440"/>
+    <rect x="1220" y="784" width="80" height="46" rx="10" fill="#4FB0A5"/>
+    <circle cx="1240" cy="836" r="14" fill="#2B2440"/><circle cx="1282" cy="836" r="14" fill="#2B2440"/>
+  </g>
+  <!-- counter with shopkeeper, center back -->
+  <g>
+    <rect x="560" y="640" width="420" height="240" rx="14" fill="#4A3A6E"/>
+    <rect x="560" y="620" width="420" height="34" rx="12" fill="#5A4A80"/>
+    <g fill="#0F0C1E">
+      <circle cx="770" cy="470" r="44"/>
+      <path d="M 690 640 Q 690 520 770 520 Q 850 520 850 640 Z"/>
+    </g>
+    <path d="M 748 500 Q 770 540 792 500 Q 792 560 770 566 Q 748 560 748 500 Z" fill="#F5E9D4"/>
+    <g stroke="#FFC55C" stroke-width="6" fill="none">
+      <circle cx="752" cy="462" r="17"/>
+      <circle cx="790" cy="462" r="17"/>
+      <line x1="769" y1="462" x2="773" y2="462"/>
+    </g>
+  </g>
+  <!-- floor -->
+  <rect x="0" y="880" width="1536" height="144" fill="#181430"/>
+</svg>

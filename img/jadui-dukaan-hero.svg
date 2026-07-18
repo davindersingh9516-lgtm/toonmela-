@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1024" role="img" aria-label="Raat ki galli mein chamakti hui jadui dukaan aur school bag ke saath khada Veer">
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141227"/>
+      <stop offset="0.6" stop-color="#241D44"/>
+      <stop offset="1" stop-color="#3B2E5A"/>
+    </linearGradient>
+    <radialGradient id="doorglow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFC55C" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FFC55C" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="warm" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE3A8"/>
+      <stop offset="1" stop-color="#FFAD5C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1536" height="1024" fill="url(#night)"/>
+  <!-- stars -->
+  <g fill="#F5E9D4">
+    <circle cx="120" cy="120" r="4"/><circle cx="300" cy="80" r="3"/><circle cx="480" cy="150" r="4"/>
+    <circle cx="660" cy="70" r="3"/><circle cx="840" cy="130" r="3"/><circle cx="1050" cy="90" r="4"/>
+    <circle cx="1240" cy="150" r="3"/><circle cx="1420" cy="100" r="4"/><circle cx="200" cy="260" r="3"/>
+    <circle cx="1350" cy="260" r="3"/><circle cx="90" cy="400" r="3"/><circle cx="1460" cy="380" r="3"/>
+    <path d="M 570 220 l 7 16 16 7 -16 7 -7 16 -7 -16 -16 -7 16 -7 Z" fill="#FFC55C"/>
+    <path d="M 1150 220 l 6 14 14 6 -14 6 -6 14 -6 -14 -14 -6 14 -6 Z" fill="#FFC55C" opacity="0.8"/>
+  </g>
+  <!-- moon -->
+  <circle cx="1290" cy="190" r="80" fill="#F5E9D4"/>
+  <circle cx="1322" cy="172" r="72" fill="#141227"/>
+  <!-- street silhouettes behind -->
+  <g fill="#1B1734">
+    <rect x="0" y="380" width="330" height="520"/>
+    <path d="M 0 380 L 165 300 L 330 380 Z"/>
+    <rect x="1220" y="360" width="316" height="540"/>
+    <path d="M 1220 360 L 1390 280 L 1536 360 Z"/>
+    <rect x="60" y="480" width="56" height="70" fill="#3B2E5A"/>
+    <rect x="190" y="480" width="56" height="70" fill="#3B2E5A"/>
+    <rect x="1300" y="460" width="60" height="76" fill="#3B2E5A"/>
+  </g>
+  <!-- glow behind shop -->
+  <ellipse cx="770" cy="640" rx="480" ry="330" fill="url(#doorglow)"/>
+  <!-- the shop -->
+  <g>
+    <rect x="480" y="430" width="580" height="470" rx="10" fill="#2B2440"/>
+    <path d="M 450 440 L 770 330 L 1090 440 L 1062 470 L 770 372 L 478 470 Z" fill="#4A3A6E"/>
+    <!-- signboard -->
+    <rect x="560" y="452" width="420" height="76" rx="14" fill="#FFC55C" transform="rotate(-2 770 490)"/>
+    <rect x="580" y="474" width="200" height="14" rx="7" fill="#8A5A20" transform="rotate(-2 770 490)"/>
+    <rect x="800" y="474" width="150" height="14" rx="7" fill="#8A5A20" transform="rotate(-2 770 490)"/>
+    <!-- door -->
+    <rect x="680" y="580" width="180" height="320" rx="14" fill="url(#warm)"/>
+    <rect x="700" y="600" width="140" height="280" rx="10" fill="#FFDf9E"/>
+    <circle cx="826" cy="750" r="10" fill="#8A5A20"/>
+    <!-- door light spill -->
+    <path d="M 680 900 L 620 990 L 920 990 L 860 900 Z" fill="#FFC55C" opacity="0.25"/>
+    <!-- round window -->
+    <circle cx="580" cy="680" r="58" fill="url(#warm)"/>
+    <circle cx="580" cy="680" r="58" fill="none" stroke="#1B1734" stroke-width="10"/>
+    <line x1="580" y1="626" x2="580" y2="734" stroke="#1B1734" stroke-width="8"/>
+    <line x1="526" y1="680" x2="634" y2="680" stroke="#1B1734" stroke-width="8"/>
+    <!-- square window -->
+    <rect x="900" y="628" width="110" height="104" rx="10" fill="url(#warm)"/>
+    <line x1="955" y1="628" x2="955" y2="732" stroke="#1B1734" stroke-width="8"/>
+    <!-- lantern -->
+    <line x1="1010" y1="528" x2="1010" y2="560" stroke="#141227" stroke-width="6"/>
+    <ellipse cx="1010" cy="584" rx="22" ry="28" fill="#FFC55C"/>
+    <circle cx="1010" cy="584" r="9" fill="#FFF3DC"/>
+  </g>
+  <!-- cobbled ground -->
+  <rect x="0" y="900" width="1536" height="124" fill="#181430"/>
+  <g fill="#241D44">
+    <ellipse cx="160" cy="930" rx="46" ry="12"/><ellipse cx="300" cy="960" rx="52" ry="13"/>
+    <ellipse cx="480" cy="935" rx="44" ry="12"/><ellipse cx="640" cy="968" rx="50" ry="13"/>
+    <ellipse cx="920" cy="962" rx="52" ry="13"/><ellipse cx="1080" cy="932" rx="46" ry="12"/>
+    <ellipse cx="1260" cy="964" rx="52" ry="13"/><ellipse cx="1420" cy="934" rx="44" ry="12"/>
+  </g>
+  <!-- Veer with school bag, silhouette facing shop -->
+  <g fill="#0F0C1E">
+    <circle cx="330" cy="700" r="34"/>
+    <rect x="302" y="738" width="58" height="138" rx="26"/>
+    <rect x="276" y="752" width="30" height="86" rx="14"/>
+    <path d="M 316 872 L 312 950" stroke="#0F0C1E" stroke-width="20" stroke-linecap="round"/>
+    <path d="M 348 872 L 356 950" stroke="#0F0C1E" stroke-width="20" stroke-linecap="round"/>
+    <path d="M 356 764 L 396 820" stroke="#0F0C1E" stroke-width="16" stroke-linecap="round"/>
+  </g>
+  <ellipse cx="335" cy="956" rx="90" ry="10" fill="#0F0C1E" opacity="0.7"/>
+</svg>
