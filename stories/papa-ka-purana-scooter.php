@@ -9,7 +9,7 @@ $readTime = 12;
 $age = 'sabke-liye';
 $ageLabel = 'Sabke Liye';
 $category = 'Family Stories';
-$heroImage = '/img/papa-scooter-hero.svg';
+$heroImage = '/img/papa-scooter-hero.webp';
 $keywords = 'papa ki kahani, father son story in hindi, emotional father story hindi, papa ka pyaar story, baap beta ki kahani, middle class family story hindi, sacrifice story in hindi, emotional story in hindi, dil choo lene wali kahani, best hindi kahani with moral, papa ka scooter story';
 $focus_keyphrase = 'emotional father story in hindi';
 $seo_title = 'Papa Ka Purana Scooter - Emotional Father Story | ToonMela';
@@ -77,7 +77,7 @@ ob_start();
 
 <p>Sharam aisi cheez hai — jab aani chahiye tab nahi aati।</p>
 
-<img src="<?php echo SITE_URL; ?>img/papa-scooter-file.svg" alt="Purani almirah mein mili file - cancelled car booking receipt aur Papa ki diary - emotional father story hindi" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/papa-scooter-file.webp" alt="Purani almirah mein mili file - cancelled car booking receipt aur Papa ki diary - emotional father story hindi" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Almirah Wali File</h2>
 
@@ -181,7 +181,7 @@ ob_start();
 
 <p><strong>"Car le lenge beta। Lekin ek shart hai। Scooter nahi bechenge। Kabhi nahi।"</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/papa-scooter-ride.svg" alt="Papa aur beta purane scooter pe chai ki tapri jaate hue, ghar ke bahar nayi car khadi hai - father son story in hindi" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/papa-scooter-ride.webp" alt="Papa aur beta purane scooter pe chai ki tapri jaate hue, ghar ke bahar nayi car khadi hai - father son story in hindi" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Aaj</h2>
 

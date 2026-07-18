@@ -360,7 +360,7 @@
         "ageLabel": "Sabke Liye",
         "date": "2026-07-18",
         "readTime": 12,
-        "image": "/img/papa-scooter-hero.svg",
+        "image": "/img/papa-scooter-hero.webp",
         "featured": false
     },
     {
@@ -373,7 +373,7 @@
         "ageLabel": "Junior Readers (7-12)",
         "date": "2026-07-18",
         "readTime": 12,
-        "image": "/img/jadui-dukaan-hero.svg",
+        "image": "/img/jadui-dukaan-hero.webp",
         "featured": false
     }
 ]
