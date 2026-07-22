@@ -4,6 +4,7 @@ RewriteEngine On
 # Old story URLs -> homepage
 RewriteRule ^sachai-aur-imaandari-ki-jeet/?$ https://toonmela.com/ [R=301,L]
 RewriteRule ^chalak-lomdi/?$ https://toonmela.com/ [R=301,L]
+RewriteRule ^chudel-ki-chudiyan/?$ https://toonmela.com/ [R=301,L]
 
 # Old WordPress feed URLs -> new RSS feed
 RewriteRule ^(.+)/feed/?$ https://toonmela.com/feed.xml [R=301,L]
