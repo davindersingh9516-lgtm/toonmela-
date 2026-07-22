@@ -1,6 +1,11 @@
 <?php
 require_once __DIR__ . '/functions.php';
 
+// header.php/footer.php reuse $slug as a foreach loop variable for the age-group
+// nav links, which overwrites it. Capture the real story slug now so reviews.php
+// (included further down, after header.php has already run) gets the right value.
+$review_slug = $slug;
+
 track_click($slug);
 
 $story_data = get_story_by_slug($slug);
@@ -238,6 +243,8 @@ window.addEventListener('scroll',function(){var h=document.documentElement,b=doc
                     </div>
                 </div>
                 <?php endif; ?>
+
+                <?php require __DIR__ . '/reviews.php'; ?>
             </div>
 
             <aside class="sidebar">

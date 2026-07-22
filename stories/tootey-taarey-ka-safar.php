@@ -2,6 +2,9 @@
 require_once __DIR__ . '/../includes/functions.php';
 
 $slug = 'tootey-taarey-ka-safar';
+// header.php reuses $slug as a foreach loop variable for the age-group nav
+// links, which overwrites it - capture the real slug now for reviews.php.
+$review_slug = $slug;
 $story_data = get_story_by_slug($slug);
 $related = get_related_stories($slug, 'sabke-liye');
 $latest = array_slice(get_stories(), 0, 5);
@@ -267,6 +270,8 @@ require_once __DIR__ . '/../includes/header.php';
                     </div>
                 </div>
                 <?php endif; ?>
+
+                <?php require __DIR__ . '/../includes/reviews.php'; ?>
             </div>
 
             <aside class="sidebar">

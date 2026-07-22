@@ -56,6 +56,56 @@ function track_click($slug) {
     fclose($fp);
 }
 
+function get_reviews($slug) {
+    $file = __DIR__ . '/../data/reviews.json';
+    if (!file_exists($file)) return [];
+    $all = json_decode(file_get_contents($file), true) ?: [];
+    $reviews = $all[$slug] ?? [];
+    usort($reviews, function ($a, $b) { return strtotime($b['date']) - strtotime($a['date']); });
+    return $reviews;
+}
+
+function get_rating_stats($slug) {
+    $reviews = get_reviews($slug);
+    $count = count($reviews);
+    if ($count === 0) return ['average' => 0, 'count' => 0];
+    $sum = array_sum(array_column($reviews, 'rating'));
+    return ['average' => round($sum / $count, 1), 'count' => $count];
+}
+
+function add_review($slug, $name, $rating, $comment) {
+    $file = __DIR__ . '/../data/reviews.json';
+    $fp = @fopen($file, 'c+');
+    if (!$fp) return false;
+    flock($fp, LOCK_EX);
+    $content = '';
+    while (!feof($fp)) $content .= fread($fp, 8192);
+    $all = json_decode($content, true) ?: [];
+    if (!isset($all[$slug])) $all[$slug] = [];
+    $review = [
+        'name' => $name,
+        'rating' => $rating,
+        'comment' => $comment,
+        'date' => date('Y-m-d H:i:s'),
+    ];
+    array_unshift($all[$slug], $review);
+    ftruncate($fp, 0);
+    rewind($fp);
+    fwrite($fp, json_encode($all, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+    flock($fp, LOCK_UN);
+    fclose($fp);
+    return $review;
+}
+
+function time_ago($datetime) {
+    $diff = time() - strtotime($datetime);
+    if ($diff < 60) return 'Abhi abhi';
+    if ($diff < 3600) return floor($diff / 60) . ' minute pehle';
+    if ($diff < 86400) return floor($diff / 3600) . ' ghante pehle';
+    if ($diff < 2592000) return floor($diff / 86400) . ' din pehle';
+    return format_date($datetime);
+}
+
 function get_featured_story() {
     $stories = get_stories();
     if (empty($stories)) return null;

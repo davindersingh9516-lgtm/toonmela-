@@ -39,7 +39,7 @@ RewriteRule ^feed\.xml$ feed.php [L]
 </IfModule>
 
 # Block access to sensitive data files
-<FilesMatch "^(stories|clicks)\.json$">
+<FilesMatch "^(stories|clicks|reviews)\.json$">
     <IfModule mod_authz_core.c>
         Require all denied
     </IfModule>
