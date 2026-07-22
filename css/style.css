@@ -412,8 +412,9 @@ ul { list-style: none; }
 
 .review-form-wrap {
     background: var(--bg-white); border: 1px solid var(--border);
-    border-radius: var(--r-lg); padding: 24px 28px; max-width: 520px;
+    border-radius: var(--r-lg); padding: 24px 28px;
 }
+.review-form-wrap .form-group textarea { min-height: 110px; }
 .review-form-wrap h3 { font-family: var(--font-h); font-size: 18px; font-weight: 700; color: var(--heading); margin-bottom: 18px; }
 
 .star-picker { display: inline-flex; gap: 4px; }
