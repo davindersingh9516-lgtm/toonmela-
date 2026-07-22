@@ -375,5 +375,18 @@
         "readTime": 12,
         "image": "/img/jadui-dukaan-hero.webp",
         "featured": false
+    },
+    {
+        "id": 30,
+        "slug": "fauji-bhai-ki-rakhi",
+        "title": "Fauji Bhai Ki Rakhi - Ek Vaade Ki Kahani",
+        "excerpt": "Rohan ne 12 saal ki Pihu se vaada kiya tha - \"Main hamesha aaunga.\" Phir woh Indian Army mein bharti ho gaya. Iss baar uski shaadi thi aur border pe tension - kya Rohan apna vaada nibha payega? Best Raksha Bandhan story in hindi.",
+        "category": "Family Stories",
+        "age": "sabke-liye",
+        "ageLabel": "Sabke Liye",
+        "date": "2026-07-22",
+        "readTime": 12,
+        "image": "/img/fauji-bhai-hero.webp",
+        "featured": false
     }
 ]
