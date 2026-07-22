@@ -262,6 +262,8 @@ require_once __DIR__ . '/../includes/header.php';
                     </div>
                 </div>
 
+                <?php require __DIR__ . '/../includes/reviews.php'; ?>
+
                 <?php if (!empty($related)) : ?>
                 <div class="related">
                     <h2>Aur Padhein</h2>
@@ -270,8 +272,6 @@ require_once __DIR__ . '/../includes/header.php';
                     </div>
                 </div>
                 <?php endif; ?>
-
-                <?php require __DIR__ . '/../includes/reviews.php'; ?>
             </div>
 
             <aside class="sidebar">

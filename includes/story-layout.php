@@ -235,6 +235,8 @@ window.addEventListener('scroll',function(){var h=document.documentElement,b=doc
                     </div>
                 </div>
 
+                <?php require __DIR__ . '/reviews.php'; ?>
+
                 <?php if (!empty($related)) : ?>
                 <div class="related">
                     <h2>Aur Padhein</h2>
@@ -243,8 +245,6 @@ window.addEventListener('scroll',function(){var h=document.documentElement,b=doc
                     </div>
                 </div>
                 <?php endif; ?>
-
-                <?php require __DIR__ . '/reviews.php'; ?>
             </div>
 
             <aside class="sidebar">

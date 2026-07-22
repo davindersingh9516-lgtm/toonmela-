@@ -56,7 +56,7 @@
     <link rel="preconnect" href="https://unpkg.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Lora:wght@400;500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
     <noscript><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Lora:wght@400;500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet"></noscript>
-    <link rel="stylesheet" href="<?php echo SITE_URL; ?>css/style.css?v=3.1">
+    <link rel="stylesheet" href="<?php echo SITE_URL; ?>css/style.css?v=3.2">
     <script defer src="https://unpkg.com/lucide@latest"></script>
     <style>
     .lang-bar{background:var(--heading-color,#1A1A2E);padding:5px 0}
