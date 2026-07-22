@@ -16,7 +16,7 @@
     <!-- <meta name="msvalidate.01" content="YOUR_BING_CODE_HERE"> -->
 
     <!-- Google Analytics GA4 - deferred for performance -->
-    <script>window.addEventListener('load',function(){var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=G-CY6W4EXZ0W';document.head.appendChild(s);window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-CY6W4EXZ0W');});</script>
+    <script>window.addEventListener('load',function(){var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=G-VZSGJTSK3Q';document.head.appendChild(s);window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-VZSGJTSK3Q');});</script>
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" sizes="512x512" href="<?php echo SITE_URL; ?>favicon.png">
