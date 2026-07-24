@@ -388,5 +388,31 @@
         "readTime": 12,
         "image": "/img/fauji-bhai-hero.webp",
         "featured": false
+    },
+    {
+        "id": 31,
+        "slug": "bachpan-ka-yaar",
+        "title": "Bachpan Ka Yaar - Dosti Ki Sacchi Kahani",
+        "excerpt": "Aditya aur Rahul bachpan ke sabse pakke dost the - ek hi cycle pe school jaate the. Phir Aditya ameer ban gaya aur Rahul ko bhool gaya. 10 saal baad ek raat, Aditya ko pata chala ki uske sabse bure waqt mein kaun uske saath khada tha. Best dosti ki kahani in hindi.",
+        "category": "Friendship",
+        "age": "sabke-liye",
+        "ageLabel": "Sabke Liye",
+        "date": "2026-07-23",
+        "readTime": 12,
+        "image": "/img/bachpan-yaar-hero.webp",
+        "featured": false
+    },
+    {
+        "id": 32,
+        "slug": "peepal-ka-raaz",
+        "title": "Peepal Wali Bhootni Ka Raaz - Suspense Kahani Hindi Mein",
+        "excerpt": "Gaanv mein sabko dar tha us purane peepal ke ped se - raat ko wahan se rone ki awaaz aati thi. Sab kehte the bhootni hai. Ek din 14 saal ke Veer ne raaz jaanne ki thaan li - jo usne dekha usne uski soch hamesha ke liye badal di. Best horror story in hindi with twist.",
+        "category": "Adventure",
+        "age": "teen-readers",
+        "ageLabel": "Teen Readers (13-17)",
+        "date": "2026-07-23",
+        "readTime": 12,
+        "image": "/img/peepal-raaz-hero.webp",
+        "featured": false
     }
 ]
