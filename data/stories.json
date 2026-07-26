@@ -414,5 +414,31 @@
         "readTime": 12,
         "image": "/img/peepal-raaz-hero.webp",
         "featured": false
+    },
+    {
+        "id": 33,
+        "slug": "nani-ki-kanha-wali-kahani",
+        "title": "Nani Ki Kanha Wali Kahani - Janmashtami Bedtime Story",
+        "excerpt": "Kabir apni chhoti behen ki chocolate chura raha tha, chup chup ke, aur bahut guilty feel kar raha tha. Nani ne use Kanha ki makhan chori ki kahani sunayi - aur Kabir ne seekha ki pyaar se ki gayi galti aur chupke se ki gayi galti mein kya farak hota hai. Best Krishna Janmashtami kahani hindi mein.",
+        "category": "Bedtime Stories",
+        "age": "junior-readers",
+        "ageLabel": "Junior Readers (7-12)",
+        "date": "2026-07-26",
+        "readTime": 12,
+        "image": "/img/nani-kanha-hero.webp",
+        "featured": false
+    },
+    {
+        "id": 34,
+        "slug": "azadi-ki-asli-keemat",
+        "title": "Azadi Ki Asli Keemat - Ek Dadaji Ki Kahani",
+        "excerpt": "Arjun ko Independence Day sirf ek chhutti wala din lagta tha - subah jaldi uthkar flag hoisting jaana usse bore karta tha. Phir uske 89 saal ke Dadaji ne pehli baar bataya ki unhone azadi kaise dekhi thi - 1947 mein, 9 saal ki umar mein. Best Independence Day story in hindi with real emotion.",
+        "category": "Life Lessons",
+        "age": "teen-readers",
+        "ageLabel": "Teen Readers (13-17)",
+        "date": "2026-07-26",
+        "readTime": 12,
+        "image": "/img/azadi-keemat-hero.webp",
+        "featured": false
     }
 ]
