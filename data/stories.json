@@ -440,5 +440,31 @@
         "readTime": 12,
         "image": "/img/azadi-keemat-hero.webp",
         "featured": false
+    },
+    {
+        "id": 35,
+        "slug": "chintu-khargosh-ka-ghar",
+        "title": "Chintu Khargosh Ka Ghar - Sharing Ki Pyaari Kahani",
+        "excerpt": "Chintu Khargosh ke paas jungle ka sabse sookha, sabse warm ghar tha. Jab zor ki baarish aayi aur sab doston ke ghar bheeg gaye, Chintu ne kya kiya? Ek pyaari kahani sharing aur dosti ke baare mein.",
+        "category": "Friendship",
+        "age": "nanhe-readers",
+        "ageLabel": "Nanhe Readers (3-6)",
+        "date": "2026-07-28",
+        "readTime": 4,
+        "image": "/img/khargosh-ghar-hero.webp",
+        "featured": false
+    },
+    {
+        "id": 36,
+        "slug": "jugnu-ki-roshni",
+        "title": "Jugnu Ki Roshni - Pyaari Bedtime Kahani",
+        "excerpt": "Chhotu Jugnu andhere se bahut darta tha. Woh apni roshni chupata rehta tha. Ek raat jungle ke doston ko uski madad ki zaroorat padi - tab Chhotu ne seekha ki uski apni roshni kitni khaas hai. Pyaari bedtime story bacchon ke liye.",
+        "category": "Bedtime Stories",
+        "age": "nanhe-readers",
+        "ageLabel": "Nanhe Readers (3-6)",
+        "date": "2026-07-28",
+        "readTime": 4,
+        "image": "/img/jugnu-roshni-hero.webp",
+        "featured": false
     }
 ]
