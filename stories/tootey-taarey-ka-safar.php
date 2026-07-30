@@ -11,7 +11,7 @@ $latest = array_slice(get_stories(), 0, 5);
 
 $page_title = 'Tootey Taarey Ka Safar - Inspirational Kahani | ToonMela';
 $page_desc = 'Arjun ko khet mein milta hai ek chamakta pathar jise woh "toota taara" maanta hai. Sab kehte pagal hai. Padhein yeh inspirational hindi kahani vishwaas ki.';
-$page_url = SITE_URL . 'stories/tootey-taarey-ka-safar.php';
+$page_url = 'https://toonmela.com/stories/tootey-taarey-ka-safar.php';
 $page_image = SITE_URL . 'img/story1-hero.webp';
 $page_type = 'article';
 $page_schema = [
