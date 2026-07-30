@@ -21,7 +21,7 @@ ob_start();
 
 <p>Ek din jungle mein baarish shuru hui. Lekin yeh koi aam baarish nahi thi.</p>
 
-<p>Aasmaan se paani nahi gir raha tha — <strong>toffees gir rahi thin!</strong> Laal toffees, peeli toffees, hari toffees! Chocolate bhi! Biscuit bhi!</p>
+<p>Aasmaan se paani nahi gir raha tha - <strong>toffees gir rahi thin!</strong> Laal toffees, peeli toffees, hari toffees! Chocolate bhi! Biscuit bhi!</p>
 
 <p>"Yayyy!" Bandar Bablu jhad par se kood kar toffees lootne laga.</p>
 
@@ -43,7 +43,7 @@ ob_start();
 
 <p>Bholu itna kha chuka tha ki chal bhi nahi pa raha tha. "Mujhse uthha nahi ja raha..."</p>
 
-<p>Sab udaas ho gaye. Woh baarish jo itni acchi lag rahi thi — ab musibat ban gayi thi!</p>
+<p>Sab udaas ho gaye. Woh baarish jo itni acchi lag rahi thi - ab musibat ban gayi thi!</p>
 
 <h2>Buddhimaan Ullu Ki Baat</h2>
 
@@ -55,19 +55,19 @@ ob_start();
 
 <p>Ullu Uncle ne kaha, <strong>"Bacchon, jo cheez bina mehnat ke mile, woh zyada der khushi nahi deti."</strong></p>
 
-<p>"Jab tum ek toffee khaate ho apni mehnat se — toh woh kitni acchi lagti hai! Lekin jab hazaaron toffees aasmaan se girein — toh woh bekar ho jaati hain."</p>
+<p>"Jab tum ek toffee khaate ho apni mehnat se - toh woh kitni acchi lagti hai! Lekin jab hazaaron toffees aasmaan se girein - toh woh bekar ho jaati hain."</p>
 
 <p>"Asli jadoo toffee baarish mein nahi hai. <strong>Asli jadoo us ek toffee mein hai jo tumne apni mehnat se kamayi ho!</strong>"</p>
 
 <h2>Baarish Ruk Gayi</h2>
 
-<p>Jaise hi sab jaanwaron ne yeh seekh samjhi — baarish ruk gayi! Aasmaan phir se saaf ho gaya. Phool phir se khilne lage.</p>
+<p>Jaise hi sab jaanwaron ne yeh seekh samjhi - baarish ruk gayi! Aasmaan phir se saaf ho gaya. Phool phir se khilne lage.</p>
 
 <p>Us din se jungle ke bachche jab bhi toffee khaate, toh woh apni pocket money se kharidte. Aur <strong>woh ek toffee hazaar toffees se zyada meethi lagti!</strong></p>
 
 <div class="moral-box">
     <h3>Kahani Ki Seekh</h3>
-    <p><strong>Mehnat se mili cheez sabse meethi hoti hai.</strong> Jo cheez bahut aasani se mil jaaye, uski koi value nahi rehti. Apni mehnat se ek toffee kharido — woh 100 free toffees se zyada acchi lagegi! Aur haan — zyada toffees khaana sehat ke liye accha nahi hai!</p>
+    <p><strong>Mehnat se mili cheez sabse meethi hoti hai.</strong> Jo cheez bahut aasani se mil jaaye, uski koi value nahi rehti. Apni mehnat se ek toffee kharido - woh 100 free toffees se zyada acchi lagegi! Aur haan - zyada toffees khaana sehat ke liye accha nahi hai!</p>
 </div>
 
 <?php

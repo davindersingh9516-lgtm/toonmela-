@@ -43,7 +43,7 @@ ob_start();
 
 <p>Arjun palta। <strong>Dadaji</strong> apne kamre ke darwaze pe khade the - 89 saal ke, kamzor lekin seedhi kamar ke saath। Unki aankhon mein kuch tha jo Arjun ne pehle kabhi nahi dekha tha।</p>
 
-<p>"Kuch nahi Dadaji, main bas keh raha tha ki—"</p>
+<p>"Kuch nahi Dadaji, main bas keh raha tha ki-"</p>
 
 <p>"Maine suna kya kaha।" Dadaji ki awaaz mein na gussa tha, na daant - sirf ek gehri udaasi। "Aao mere kamre mein। Aaj main tumhe kuch dikhata hun।"</p>
 

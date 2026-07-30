@@ -17,7 +17,7 @@ $seo_desc = 'Gudiya roz raat chanda mama se baat karti thi. Ek raat unhone diya 
 ob_start();
 ?>
 
-<p>Ek chhoti si ladki thi — <strong>Gudiya</strong>. Gudiya apni dadi ke saath rehti thi ek chhote se gaon mein.</p>
+<p>Ek chhoti si ladki thi - <strong>Gudiya</strong>. Gudiya apni dadi ke saath rehti thi ek chhote se gaon mein.</p>
 
 <p>Gudiya ke mummy-papa shehar mein kaam karte the aur bahut kam aate the. Gudiya unhe bahut miss karti thi.</p>
 
@@ -31,7 +31,7 @@ ob_start();
 
 <img src="<?php echo SITE_URL; ?>img/chanda-mama-talk.webp" alt="Gudiya chhat par chanda mama se baatein karti hui - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
-<p>Chanda mama hamesha chamakte rehte — jaise keh rahe hon, <strong>"Main sun raha hun, Gudiya. Tu akeli nahi hai."</strong></p>
+<p>Chanda mama hamesha chamakte rehte - jaise keh rahe hon, <strong>"Main sun raha hun, Gudiya. Tu akeli nahi hai."</strong></p>
 
 <h2>Ek Khaas Raat</h2>
 
@@ -43,13 +43,13 @@ ob_start();
 
 <p>Aur phir kuch ajeeb hua.</p>
 
-<p>Chaand ki roshni thodi tez ho gayi. Ek chamakti hui kiran seedhi Gudiya ke haath par aayi. Aur us kiran mein — <strong>ek chhota sa chamakta taara tha!</strong></p>
+<p>Chaand ki roshni thodi tez ho gayi. Ek chamakti hui kiran seedhi Gudiya ke haath par aayi. Aur us kiran mein - <strong>ek chhota sa chamakta taara tha!</strong></p>
 
-<p>Nahi nahi, yeh taara nahi tha. Yeh ek <strong>chamakti hui diary thi</strong> — chhoti si, chaandi jaisi.</p>
+<p>Nahi nahi, yeh taara nahi tha. Yeh ek <strong>chamakti hui diary thi</strong> - chhoti si, chaandi jaisi.</p>
 
 <p>Usmein likha tha:</p>
 
-<blockquote>"Pyaari Gudiya, yeh hai tera tohfa. Is diary mein har roz ek acchi baat likh. Chahe chhoti si ho. Jab bhi tu udaas ho, isse khol. Tujhe pata chalega ki teri duniya kitni sundar hai. — Tera Chanda Mama"</blockquote>
+<blockquote>"Pyaari Gudiya, yeh hai tera tohfa. Is diary mein har roz ek acchi baat likh. Chahe chhoti si ho. Jab bhi tu udaas ho, isse khol. Tujhe pata chalega ki teri duniya kitni sundar hai. - Tera Chanda Mama"</blockquote>
 
 <h2>Jadui Diary</h2>
 
@@ -61,15 +61,15 @@ ob_start();
 
 <p><em>"Aaj ek titli mere haath par baithi. Bahut sundar thi."</em></p>
 
-<p><em>"Aaj mummy ka phone aaya. Woh bol rahi thi — jaldi aayegi!"</em></p>
+<p><em>"Aaj mummy ka phone aaya. Woh bol rahi thi - jaldi aayegi!"</em></p>
 
 <img src="<?php echo SITE_URL; ?>img/chanda-mama-diary.webp" alt="Gudiya khush hoke diary mein likhti hui - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
-<p>Hafte bhar mein diary bhar gayi <strong>acchi baaton se!</strong> Aur Gudiya ko pata chala — uski zindagi mein kitni saari acchi cheezein hain jo usne kabhi notice hi nahi ki thi!</p>
+<p>Hafte bhar mein diary bhar gayi <strong>acchi baaton se!</strong> Aur Gudiya ko pata chala - uski zindagi mein kitni saari acchi cheezein hain jo usne kabhi notice hi nahi ki thi!</p>
 
 <p>Dadi ka pyaar, Meera ki dosti, school ki drawing class, baarish ki boondon ki awaaz...</p>
 
-<p>Gudiya ab akela mehsoos nahi karti thi. Kyunki uski diary ne usse dikhaya ki <strong>uski duniya pyaar se bhari hui thi — bas usse dekhna seekhna tha!</strong></p>
+<p>Gudiya ab akela mehsoos nahi karti thi. Kyunki uski diary ne usse dikhaya ki <strong>uski duniya pyaar se bhari hui thi - bas usse dekhna seekhna tha!</strong></p>
 
 <p>Aur har raat woh chhat par jaati aur kehti, "Shukriya Chanda Mama. Aapka tohfa sabse accha hai!"</p>
 
@@ -77,7 +77,7 @@ ob_start();
 
 <div class="moral-box">
     <h3>Kahani Ki Seekh</h3>
-    <p><strong>Khushi doosron ke paas nahi, tumhare apne paas hai — bas dhundhna seekho.</strong> Har din mein kuch na kuch accha hota hai. Agar tum roz ek acchi baat yaad karo, toh tumhe pata chalega ki tumhari zindagi kitni sundar hai. Kabhi akela mat mehsoos karo — tumhare aas-paas bahut pyaar hai!</p>
+    <p><strong>Khushi doosron ke paas nahi, tumhare apne paas hai - bas dhundhna seekho.</strong> Har din mein kuch na kuch accha hota hai. Agar tum roz ek acchi baat yaad karo, toh tumhe pata chalega ki tumhari zindagi kitni sundar hai. Kabhi akela mat mehsoos karo - tumhare aas-paas bahut pyaar hai!</p>
 </div>
 
 <?php

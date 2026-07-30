@@ -58,13 +58,13 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p>Us raat Arjun ko neend nahi aa rahi thi.</p>
 
-<p>Nahi, koi bura sapna nahi tha. Na koi dar tha. Bas ek ajeeb si bechainee thi — jaisi koi awaaz de raha ho door se, lekin awaaz sunaai nahi de rahi thi. Bas <strong>mehsoos</strong> ho rahi thi.</p>
+<p>Nahi, koi bura sapna nahi tha. Na koi dar tha. Bas ek ajeeb si bechainee thi - jaisi koi awaaz de raha ho door se, lekin awaaz sunaai nahi de rahi thi. Bas <strong>mehsoos</strong> ho rahi thi.</p>
 
-<p>Arjun apni khatiya se uthha aur jhopdi ka darwaaza khola. Bahar andheraa tha — woh ghanaa, gehra andheraa jo sirf chhote gaon mein milta hai jahan bijli shaam saat baje chali jaati hai.</p>
+<p>Arjun apni khatiya se uthha aur jhopdi ka darwaaza khola. Bahar andheraa tha - woh ghanaa, gehra andheraa jo sirf chhote gaon mein milta hai jahan bijli shaam saat baje chali jaati hai.</p>
 
 <p>Lekin aasmaan... aasmaan aaj alag tha.</p>
 
-<p>Hazaron taarey chamak rahe the — jaise kisi ne kaale kapde par heere bikher diye hon. Arjun ne sar utha kar dekha. Tabhi ek taara — ek chamakta hua taara — aasmaan se katakar <strong>seedha uske khet ki taraf gira.</strong></p>
+<p>Hazaron taarey chamak rahe the - jaise kisi ne kaale kapde par heere bikher diye hon. Arjun ne sar utha kar dekha. Tabhi ek taara - ek chamakta hua taara - aasmaan se katakar <strong>seedha uske khet ki taraf gira.</strong></p>
 
 <p>Arjun ka dil ek dhak se hua.</p>
 
@@ -74,13 +74,13 @@ require_once __DIR__ . '/../includes/header.php';
 
 <h2>Khet Mein Chamak</h2>
 
-<p>Khet mein pahunchte hi Arjun ko dikha — mitti ke beech mein kuch chamak raha tha. Halki si neeli roshni, jaise koi jugnu phas gaya ho zameen ke andar.</p>
+<p>Khet mein pahunchte hi Arjun ko dikha - mitti ke beech mein kuch chamak raha tha. Halki si neeli roshni, jaise koi jugnu phas gaya ho zameen ke andar.</p>
 
-<p>Arjun ne haath se mitti hataai. Aur wahan — ek pathar tha. Lekin yeh koi aam pathar nahi tha.</p>
+<p>Arjun ne haath se mitti hataai. Aur wahan - ek pathar tha. Lekin yeh koi aam pathar nahi tha.</p>
 
 <img src="<?php echo SITE_URL; ?>img/story1-crystal.webp" alt="Arjun ke haath mein chamakta jadui pathar - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
-<p>Pathar hatheli mein aata tha. Uska rang neela-safed tha, aur usmein se ek halki si garmi nikal rahi thi — jaise kisi ne abhi-abhi isse aag se nikala ho. Lekin jalata nahi tha. Bas... <strong>zinda lagta tha.</strong></p>
+<p>Pathar hatheli mein aata tha. Uska rang neela-safed tha, aur usmein se ek halki si garmi nikal rahi thi - jaise kisi ne abhi-abhi isse aag se nikala ho. Lekin jalata nahi tha. Bas... <strong>zinda lagta tha.</strong></p>
 
 <p>Arjun ne pathar ko apni chhaati se lagaya aur muskuraya.</p>
 
@@ -96,9 +96,9 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p>Sarpanch ne kaha, <strong>"Arjun, yeh taara nahi hai. Yeh bas ek chamakta hua pathar hai. Shayad koi khanij hai. Isse bech de, 200-300 rupaye mil jayenge."</strong></p>
 
-<p>Dukandaar Chaudhary ne kaha, "Arre paagal ladke! Taarey aasmaan mein rehte hain, zameen par nahi girte. Aur gir bhi jayein toh poora shehar jal jaaye — tu toh khada hai bilkul theek-thaak!"</p>
+<p>Dukandaar Chaudhary ne kaha, "Arre paagal ladke! Taarey aasmaan mein rehte hain, zameen par nahi girte. Aur gir bhi jayein toh poora shehar jal jaaye - tu toh khada hai bilkul theek-thaak!"</p>
 
-<p>School master ne kaha, "Arjun beta, science padho. Meteorite hota hai, taara nahi. Aur yeh meteorite bhi nahi lagta — bas ek geode hai, volcanic rock."</p>
+<p>School master ne kaha, "Arjun beta, science padho. Meteorite hota hai, taara nahi. Aur yeh meteorite bhi nahi lagta - bas ek geode hai, volcanic rock."</p>
 
 <p>Sabke paas apna logic tha. Sabke paas apna explanation tha.</p>
 
@@ -108,11 +108,11 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p>Arjun ne kaha, <strong>"Maa, sab kehte hain yeh taara nahi hai. Lekin jab main isse chhoota hun, toh mujhe lagta hai jaise poori duniya meri hai. Kya main galat hun?"</strong></p>
 
-<p>Maa ne Arjun ke sar par haath rakha aur boli, "Beta, duniya mein do tarah ke log hote hain — jo sirf woh dekhte hain jo dikhta hai, aur jo woh bhi dekhte hain jo <strong>mehsoos</strong> hota hai. Tu doosri tarah ka hai. Yeh teri kamzori nahi, <strong>yeh teri taaqat hai.</strong>"</p>
+<p>Maa ne Arjun ke sar par haath rakha aur boli, "Beta, duniya mein do tarah ke log hote hain - jo sirf woh dekhte hain jo dikhta hai, aur jo woh bhi dekhte hain jo <strong>mehsoos</strong> hota hai. Tu doosri tarah ka hai. Yeh teri kamzori nahi, <strong>yeh teri taaqat hai.</strong>"</p>
 
 <h2>Parakh</h2>
 
-<p>Din beette gaye. Hafte beete. Arjun rozana raat ko woh pathar haath mein lekar aasmaan dekhta tha. Kuch nahi hota tha — na chamak, na jaadu, na koi chamatkar. Bas woh neeli si garmi thi jo use sukoon deti thi.</p>
+<p>Din beette gaye. Hafte beete. Arjun rozana raat ko woh pathar haath mein lekar aasmaan dekhta tha. Kuch nahi hota tha - na chamak, na jaadu, na koi chamatkar. Bas woh neeli si garmi thi jo use sukoon deti thi.</p>
 
 <img src="<?php echo SITE_URL; ?>img/story1-crystal.webp" alt="Arjun raat mein pathar ko dekhta hua - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
@@ -122,9 +122,9 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p><em>"Din bhar us pathar se baatein karta hai."</em></p>
 
-<p><em>"Uske baap bhi aise hi the — sapne dekhte the, kuch ukhaad nahi paaye."</em></p>
+<p><em>"Uske baap bhi aise hi the - sapne dekhte the, kuch ukhaad nahi paaye."</em></p>
 
-<p>Yeh aakhri baat Arjun ke kaan mein padi. Uske papa — jo 5 saal pehle guzar gaye the — unke baare mein aisa sunna...</p>
+<p>Yeh aakhri baat Arjun ke kaan mein padi. Uske papa - jo 5 saal pehle guzar gaye the - unke baare mein aisa sunna...</p>
 
 <p>Arjun ka dil toot gaya.</p>
 
@@ -132,7 +132,7 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p><strong>"Tum taarey ho hi nahi. Sab sahi kehte hain. Main paagal hun."</strong></p>
 
-<p>Haath upar tha. Pathar phenkne hi wala tha. Tabhi —</p>
+<p>Haath upar tha. Pathar phenkne hi wala tha. Tabhi -</p>
 
 <p>Pathar chamka.</p>
 
@@ -140,7 +140,7 @@ require_once __DIR__ . '/../includes/header.php';
 
 <h2>Woh Raat Jo Sab Badal Gayi</h2>
 
-<p>Arjun khud ko ek alag jagah mein paaya. Nahi, woh khet mein hi tha — lekin ab khet nahi tha. Charon taraf <strong>roshni thi</strong> — halki, naram, jaise subah ki pehli kiran.</p>
+<p>Arjun khud ko ek alag jagah mein paaya. Nahi, woh khet mein hi tha - lekin ab khet nahi tha. Charon taraf <strong>roshni thi</strong> - halki, naram, jaise subah ki pehli kiran.</p>
 
 <p>Saamne ek budha aadmi baitha tha. Safed daadhi, chamakti aankhein, aur ek muskurahat jo jaani pehchani lagti thi.</p>
 
@@ -152,11 +152,11 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p>"Kya matlab?"</p>
 
-<p>"Beta, yeh pathar — jo tumne apni jeb mein rakha hai — yeh na taara hai, na pathar, na meteorite. <strong>Yeh ek sawal hai.</strong>"</p>
+<p>"Beta, yeh pathar - jo tumne apni jeb mein rakha hai - yeh na taara hai, na pathar, na meteorite. <strong>Yeh ek sawal hai.</strong>"</p>
 
 <p>Arjun samjha nahi.</p>
 
-<p>Budhe ne aage kaha, "Zindagi mein har insaan ko ek waqt par ek cheez milti hai jisse duniya samajh nahi paati. Koi kehta hai 'bekaar hai', koi kehta hai 'pagal hai'. Lekin woh cheez asal mein ek <strong>kasauti</strong> hai — yeh dekhne ke liye ki tum <strong>duniya ki sunte ho ya apne dil ki.</strong>"</p>
+<p>Budhe ne aage kaha, "Zindagi mein har insaan ko ek waqt par ek cheez milti hai jisse duniya samajh nahi paati. Koi kehta hai 'bekaar hai', koi kehta hai 'pagal hai'. Lekin woh cheez asal mein ek <strong>kasauti</strong> hai - yeh dekhne ke liye ki tum <strong>duniya ki sunte ho ya apne dil ki.</strong>"</p>
 
 <p>"Lekin mere papa..." Arjun ki awaaz bhari thi.</p>
 
@@ -166,7 +166,7 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p><strong>"Kya?!"</strong></p>
 
-<p>"Haan. 25 saal pehle, isi khet mein. Unhe bhi sab ne paagal kaha tha. Lekin unhone pathar nahi phenka. Unhone usse sambhaal kar rakha — poori zindagi. Aur jaante ho unhone kya paaya?"</p>
+<p>"Haan. 25 saal pehle, isi khet mein. Unhe bhi sab ne paagal kaha tha. Lekin unhone pathar nahi phenka. Unhone usse sambhaal kar rakha - poori zindagi. Aur jaante ho unhone kya paaya?"</p>
 
 <p>"Kya?"</p>
 
@@ -174,11 +174,11 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p>Arjun ki aankhon se aansoo beh nikle.</p>
 
-<p>"Tumhare papa ka sapna tha ki unka beta woh insaan bane jo <strong>duniya ko woh dikhaye jo dikhta nahi hai.</strong> Yeh pathar unka vishwaas hai — jo unhone tumhe de diya hai. Agar tum isse phenk dete, toh tum unka vishwaas phenk rahe the."</p>
+<p>"Tumhare papa ka sapna tha ki unka beta woh insaan bane jo <strong>duniya ko woh dikhaye jo dikhta nahi hai.</strong> Yeh pathar unka vishwaas hai - jo unhone tumhe de diya hai. Agar tum isse phenk dete, toh tum unka vishwaas phenk rahe the."</p>
 
 <h2>Wapsi</h2>
 
-<p>Jab Arjun ki aankhein khulin, woh khet mein pada tha. Subah ho chuki thi. Pathar uske haath mein tha — lekin ab woh chamak nahi raha tha. Woh phir se ek saadhaaran sa pathar lag raha tha.</p>
+<p>Jab Arjun ki aankhein khulin, woh khet mein pada tha. Subah ho chuki thi. Pathar uske haath mein tha - lekin ab woh chamak nahi raha tha. Woh phir se ek saadhaaran sa pathar lag raha tha.</p>
 
 <p>Lekin Arjun badal chuka tha.</p>
 
@@ -194,13 +194,13 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p>"Bas pata hai."</p>
 
-<p>Maa ne almaari kholi aur ek purana kapda nikala. Usme lipti hui thi — <strong>ek aur chamakti hui pathar. Bilkul waisi hi.</strong></p>
+<p>Maa ne almaari kholi aur ek purana kapda nikala. Usme lipti hui thi - <strong>ek aur chamakti hui pathar. Bilkul waisi hi.</strong></p>
 
-<p>"Yeh tumhare papa ki thi. Unhone kaha tha — 'Jab Arjun bada ho jaaye, toh isse usse de dena. Woh samjh jaayega.'"</p>
+<p>"Yeh tumhare papa ki thi. Unhone kaha tha - 'Jab Arjun bada ho jaaye, toh isse usse de dena. Woh samjh jaayega.'"</p>
 
-<p>Arjun ne dono pathar haath mein rakhe. Ek apna, ek papa ka. Aur jaise hi dono pathar ek saath aaye —</p>
+<p>Arjun ne dono pathar haath mein rakhe. Ek apna, ek papa ka. Aur jaise hi dono pathar ek saath aaye -</p>
 
-<p>Dono ne ek saath chamakna shuru kiya. Halki si, naram si, neeli roshni — jaise do taarey aa kar mil gaye hon.</p>
+<p>Dono ne ek saath chamakna shuru kiya. Halki si, naram si, neeli roshni - jaise do taarey aa kar mil gaye hon.</p>
 
 <p>Maa aur Arjun dono ro rahe the. Lekin yeh khushi ke aansoo the.</p>
 
@@ -208,46 +208,46 @@ require_once __DIR__ . '/../includes/header.php';
 
 <p>Us din ke baad Arjun ne ek faisla kiya. Woh pathar bechega nahi. Phenkega nahi. Lekin woh gaon mein baith kar bhi nahi rahega.</p>
 
-<p>Arjun ne padhai shuru ki — itni mehnat se ki school master bhi hairaan tha. Science padhi, art seekhi, kahaniyan likhna seekha. Lekin <strong>woh pathar hamesha uski jeb mein rehta tha.</strong></p>
+<p>Arjun ne padhai shuru ki - itni mehnat se ki school master bhi hairaan tha. Science padhi, art seekhi, kahaniyan likhna seekha. Lekin <strong>woh pathar hamesha uski jeb mein rehta tha.</strong></p>
 
 <p>Jab exam aata, woh pathar chhoota aur hosla milta.</p>
 
 <p>Jab koi mazaak udaata, woh pathar chhoota aur sabr milta.</p>
 
-<p>Jab raat ko akela mehsoos hota, woh pathar chhoota aur papa ki yaad aati — aur saath mein ek garmi jo kehti thi, <strong>"Main yahan hun. Hamesha."</strong></p>
+<p>Jab raat ko akela mehsoos hota, woh pathar chhoota aur papa ki yaad aati - aur saath mein ek garmi jo kehti thi, <strong>"Main yahan hun. Hamesha."</strong></p>
 
 <p>Saal beete. Arjun bada hua. Padh-likh kar shehar gaya. Lekin woh gaon nahi bhula.</p>
 
 <img src="<?php echo SITE_URL; ?>img/story1-sunrise.webp" alt="Arjun ka sapna poora hua - gaon mein school - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
 
-<p>Arjun ne ek school khola — apne gaon mein. Woh school jahan bacche sirf kitaabein nahi padhte the, <strong>balki sapne dekhna seekhte the.</strong></p>
+<p>Arjun ne ek school khola - apne gaon mein. Woh school jahan bacche sirf kitaabein nahi padhte the, <strong>balki sapne dekhna seekhte the.</strong></p>
 
-<p>School ke gate par ek pathar lagaya hua tha — chamakta hua, neela-safed. Aur uske neeche likha tha:</p>
+<p>School ke gate par ek pathar lagaya hua tha - chamakta hua, neela-safed. Aur uske neeche likha tha:</p>
 
-<blockquote>"Jab poori duniya kahe ki tum galat ho, tab bhi apne dil ki suno. Kyunki duniya ko sirf woh dikhta hai jo hai — lekin tumhe woh bhi dikhe jo <strong>ho sakta hai.</strong>"</blockquote>
+<blockquote>"Jab poori duniya kahe ki tum galat ho, tab bhi apne dil ki suno. Kyunki duniya ko sirf woh dikhta hai jo hai - lekin tumhe woh bhi dikhe jo <strong>ho sakta hai.</strong>"</blockquote>
 
 <p>Gaon ke wahi log jo kabhi Arjun ko paagal kehte the, ab apne bacchon ko usi school mein bheej rahe the.</p>
 
 <p>Sarpanch ne ek din Arjun se poocha, "Beta, tujhe kaise pata tha ki woh pathar khaas hai?"</p>
 
-<p>Arjun ne muskura kar kaha, <strong>"Sarpanch ji, pathar khaas nahi tha. Woh toh ek saadhaaran pathar hi tha. Khaas toh woh vishwaas tha jo maine uspar kiya. Jab hum kisi cheez par poora vishwaas karte hain — chahe woh pathar ho, sapna ho, ya insaan ho — toh woh cheez sach mein chamakne lagti hai."</strong></p>
+<p>Arjun ne muskura kar kaha, <strong>"Sarpanch ji, pathar khaas nahi tha. Woh toh ek saadhaaran pathar hi tha. Khaas toh woh vishwaas tha jo maine uspar kiya. Jab hum kisi cheez par poora vishwaas karte hain - chahe woh pathar ho, sapna ho, ya insaan ho - toh woh cheez sach mein chamakne lagti hai."</strong></p>
 
 <p>Sarpanch kuch na bol sake.</p>
 
 <h2>Aaj Bhi</h2>
 
-<p>Aaj bhi, raat ko jab aasmaan saaf hota hai aur taarey chamakte hain, Arjun apne school ki chhat par baithta hai. Jeb mein dono pathar hote hain — uska aur papa ka.</p>
+<p>Aaj bhi, raat ko jab aasmaan saaf hota hai aur taarey chamakte hain, Arjun apne school ki chhat par baithta hai. Jeb mein dono pathar hote hain - uska aur papa ka.</p>
 
 <p>Kabhi-kabhi woh chamakte hain. Kabhi nahi.</p>
 
-<p>Lekin Arjun ko ab fark nahi padta. Kyunki usne sabse bada sach seekh liya hai —</p>
+<p>Lekin Arjun ko ab fark nahi padta. Kyunki usne sabse bada sach seekh liya hai -</p>
 
 <p><strong>Roshni pathar mein nahi hoti. Roshni us insaan mein hoti hai jo andhere mein bhi dekhne ki himmat rakhta hai.</strong></p>
 
 <div class="moral-box">
     <h3>Kahani Ki Seekh</h3>
-    <p><strong>Vishwaas duniya ki sabse taaqatwar cheez hai.</strong> Jab poori duniya tumhe galat kahe, tab bhi apne dil ki suno. Sapne dekhna paagalpan nahi hai — sapnon ko chhodna paagalpan hai. Aur yaad rakhna — jo cheez aaj bekaar lagti hai, kal wahi tumhari sabse badi taaqat ban sakti hai.</p>
-    <p>Kabhi kisi ko chhota mat samjho. Kabhi kisi ke sapne par mat hanso. Aur sabse zaroori — <strong>kabhi apna pathar mat phenko.</strong></p>
+    <p><strong>Vishwaas duniya ki sabse taaqatwar cheez hai.</strong> Jab poori duniya tumhe galat kahe, tab bhi apne dil ki suno. Sapne dekhna paagalpan nahi hai - sapnon ko chhodna paagalpan hai. Aur yaad rakhna - jo cheez aaj bekaar lagti hai, kal wahi tumhari sabse badi taaqat ban sakti hai.</p>
+    <p>Kabhi kisi ko chhota mat samjho. Kabhi kisi ke sapne par mat hanso. Aur sabse zaroori - <strong>kabhi apna pathar mat phenko.</strong></p>
 </div>
 
                 </div>

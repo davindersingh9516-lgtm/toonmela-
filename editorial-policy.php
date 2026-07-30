@@ -54,10 +54,10 @@ require_once __DIR__ . '/includes/header.php';
             </ul>
             <p><strong>What AI does NOT do:</strong></p>
             <ul style="list-style:disc;padding-left:1.5em;margin:1em 0;">
-                <li>AI does not decide which stories to publish — humans do</li>
-                <li>AI does not determine moral lessons — our editorial team does</li>
-                <li>AI does not verify cultural appropriateness — human reviewers do</li>
-                <li>AI does not have final approval — every story is reviewed by our editor before publishing</li>
+                <li>AI does not decide which stories to publish - humans do</li>
+                <li>AI does not determine moral lessons - our editorial team does</li>
+                <li>AI does not verify cultural appropriateness - human reviewers do</li>
+                <li>AI does not have final approval - every story is reviewed by our editor before publishing</li>
             </ul>
 
             <h2>Human Editorial Oversight</h2>
@@ -80,7 +80,7 @@ require_once __DIR__ . '/includes/header.php';
             </ul>
 
             <h2>Corrections & Updates</h2>
-            <p>If we discover an error in a published story — factual, moral, or cultural — we correct it promptly and note the update date on the story. Readers can report issues to <a href="mailto:operations@toonmela.com">operations@toonmela.com</a>.</p>
+            <p>If we discover an error in a published story - factual, moral, or cultural - we correct it promptly and note the update date on the story. Readers can report issues to <a href="mailto:operations@toonmela.com">operations@toonmela.com</a>.</p>
 
             <h2>Reader Feedback</h2>
             <p>We welcome feedback from our readers. If you believe a story contains inappropriate content, factual errors, or doesn't meet our quality standards, please <a href="<?php echo SITE_URL; ?>contact.php">contact us</a>. We take every report seriously and respond within 48 hours.</p>

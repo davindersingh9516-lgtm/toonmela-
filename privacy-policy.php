@@ -35,13 +35,13 @@ require_once __DIR__ . '/includes/header.php';
 
         <div class="page-content">
             <h2>Overview</h2>
-            <p>ToonMela (toonmela.com) is a free storytelling website. We do not require accounts, logins, or subscriptions to read our stories. We collect as little data as possible — this page explains exactly what is collected and why.</p>
+            <p>ToonMela (toonmela.com) is a free storytelling website. We do not require accounts, logins, or subscriptions to read our stories. We collect as little data as possible - this page explains exactly what is collected and why.</p>
 
             <h2>Information We Collect</h2>
             <p><strong>Information you give us:</strong> If you contact us through our contact form or by email, we receive the name, email address, and message you provide. We use it only to reply to you and never sell or share it for marketing.</p>
             <p><strong>Information collected automatically:</strong></p>
             <ul style="list-style:disc;padding-left:1.5em;margin:1em 0;">
-                <li><strong>Analytics data:</strong> We use Google Analytics (GA4) to understand which stories readers enjoy — pages visited, approximate location (city level), device type, and time on page. This data is aggregated and does not personally identify you.</li>
+                <li><strong>Analytics data:</strong> We use Google Analytics (GA4) to understand which stories readers enjoy - pages visited, approximate location (city level), device type, and time on page. This data is aggregated and does not personally identify you.</li>
                 <li><strong>Story popularity counts:</strong> Our server keeps anonymous counters of how often each story is opened, so we can feature popular stories. No personal information is stored with these counts.</li>
             </ul>
 
@@ -56,11 +56,11 @@ require_once __DIR__ . '/includes/header.php';
             <h2>Third-Party Services</h2>
             <p>Some features are provided by third parties, which may set their own cookies or collect usage data under their own privacy policies:</p>
             <ul style="list-style:disc;padding-left:1.5em;margin:1em 0;">
-                <li><strong>Google Analytics</strong> — site traffic measurement (<a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a>)</li>
-                <li><strong>Google Translate</strong> — on-page language translation</li>
-                <li><strong>Google Fonts</strong> — webfonts used for the site design</li>
-                <li><strong>YouTube</strong> — embedded story videos on our Videos page</li>
-                <li><strong>Formspree</strong> — processes contact form submissions</li>
+                <li><strong>Google Analytics</strong> - site traffic measurement (<a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a>)</li>
+                <li><strong>Google Translate</strong> - on-page language translation</li>
+                <li><strong>Google Fonts</strong> - webfonts used for the site design</li>
+                <li><strong>YouTube</strong> - embedded story videos on our Videos page</li>
+                <li><strong>Formspree</strong> - processes contact form submissions</li>
             </ul>
 
             <h2>Children's Privacy</h2>

@@ -53,7 +53,7 @@ $age_groups = get_age_groups();
     <div class="container">
         <div class="hero-badge"><i data-lucide="book-open" style="width:14px;height:14px;display:inline;vertical-align:-2px"></i> India's Moral Story Platform</div>
         <h1>Kahaniyon Ka Mela</h1>
-        <p class="hero-sub">Stories that stay with you — long after you stop reading.</p>
+        <p class="hero-sub">Stories that stay with you - long after you stop reading.</p>
         <div class="hero-langs">
             <span>Read in:</span>
             <span class="hero-lang">हिन्दी</span>
