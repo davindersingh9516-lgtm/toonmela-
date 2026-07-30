@@ -1,8 +1,8 @@
 <?php
 require_once __DIR__ . '/includes/functions.php';
 $active_page = 'videos';
-$page_title = 'Watch Hindi Moral Stories Videos | Cartoon Kahani | Toon Stories Mela';
-$page_desc = 'Watch animated Hindi moral stories on YouTube. Funny cartoon kahaniyan, family stories, kids stories - sab free mein dekhein Toon Stories Mela par.';
+$page_title = 'Watch Hindi Moral Stories Videos | ToonMela';
+$page_desc = 'Watch animated Hindi moral stories on YouTube. Funny cartoon kahaniyan, family stories, kids stories - sab free mein dekhein ToonMela par.';
 $page_url = 'https://toonmela.com/videos.php';
 $page_schema = [
     '@context' => 'https://schema.org',

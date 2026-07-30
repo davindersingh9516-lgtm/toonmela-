@@ -9,14 +9,14 @@ $age_groups_data = get_age_groups();
 if ($cat) {
     $stories = get_stories_by_category($cat);
     $heading = $cat . ' Stories';
-    $page_title = 'Best ' . $cat . ' Hindi Moral Stories - ' . $cat . ' Ki Kahaniyaan | ToonMela';
+    $page_title = $cat . ' Ki Kahaniyaan Hindi Mein | ToonMela';
     $page_desc = 'ToonMela ki best ' . $cat . ' moral stories Hindi mein. ' . count($stories) . ' kahaniyan - sabke liye free. Padhein aur seekhein.';
     $keywords = strtolower($cat) . ' stories hindi, ' . strtolower($cat) . ' ki kahani, moral story hindi, hindi kahani with moral, best hindi stories';
     $page_url = 'https://toonmela.com/stories.php?cat=' . urlencode($cat);
 } elseif ($age) {
     $stories = get_stories_by_age($age);
     $heading = ($age_groups_data[$age]['label'] ?? 'Stories') . ' (' . ($age_groups_data[$age]['range'] ?? '') . ')';
-    $page_title = ($age_groups_data[$age]['label'] ?? 'Stories') . ' Hindi Moral Stories ' . ($age_groups_data[$age]['range'] ?? '') . ' - ' . ($age_groups_data[$age]['desc'] ?? '') . ' | ToonMela';
+    $page_title = ($age_groups_data[$age]['label'] ?? 'Stories') . ' (' . ($age_groups_data[$age]['range'] ?? '') . ') Stories | ToonMela';
     $page_desc = 'ToonMela par ' . ($age_groups_data[$age]['label'] ?? '') . ' ke liye ' . count($stories) . ' best Hindi moral stories. ' . ($age_groups_data[$age]['desc'] ?? '') . '. Free, 12+ Indian languages mein padhein.';
     $keywords = strtolower($age_groups_data[$age]['label'] ?? '') . ' hindi stories, moral story for ' . ($age_groups_data[$age]['range'] ?? '') . ', hindi kahani ' . ($age_groups_data[$age]['range'] ?? '') . ', best hindi moral stories, panchtantra ki kahani';
     // Canonicalize to the dedicated /age/{slug}.php page - it covers the exact same
@@ -26,8 +26,8 @@ if ($cat) {
 } else {
     $stories = get_stories();
     $heading = 'Sabhi Kahaniyaan';
-    $page_title = 'Sabhi Hindi Moral Stories - Best Hindi Kahani Collection | ToonMela';
-    $page_desc = 'ToonMela par ' . count($stories) . '+ best Hindi moral stories sabke liye - bachon se lekar adults tak. Panchtantra, Akbar Birbal, Fairy Tales, Life Lessons. Free, 12+ Indian languages.';
+    $page_title = 'Sabhi Hindi Moral Stories - Best Collection | ToonMela';
+    $page_desc = 'ToonMela par best Hindi moral stories sabke liye - bachon se adults tak. Panchtantra, Akbar Birbal, Fairy Tales, Life Lessons. Free, 12+ languages.';
     $keywords = 'hindi moral stories, hindi kahani, moral story in hindi, panchtantra ki kahani, akbar birbal ki kahani, bacchon ki kahani hindi, best hindi stories, kahani with moral, hindi fairy tales';
     $page_url = 'https://toonmela.com/stories.php';
 }

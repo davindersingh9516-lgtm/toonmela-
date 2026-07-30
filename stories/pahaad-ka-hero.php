@@ -158,7 +158,7 @@ ob_start();
 
 <p>Paani neeche wale gharon mein ghus gaya. Pehle aangan mein. Phir kamron mein. Phir chhaton tak. <strong>Neeche wale 50-60 gharon mein paani tha - 5-6 feet.</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/pahaad-hero-saved.webp" alt="Gaon ke log safe upar pahaad par - Veer hero - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/pahaad-hero-saved.webp" alt="Gaon ke log safe upar pahaad par - Veer hero - cartoon" width="1024" height="683" style="border-radius:8px; margin: 2em auto;">
 
 <p>Jo log upar chale gaye the - <strong>woh safe the.</strong></p>
 

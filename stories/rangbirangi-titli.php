@@ -31,7 +31,7 @@ ob_start();
 
 <p>Gulaab ne hansa. "Rinki, mera laal rang pyaar ka rang hai. <strong>Lekin tera laal rang bhi toh hai!</strong> Tu bhi pyaar de sakti hai. Aur tere paas toh aur bhi rang hain - jo main de hi nahi sakta!"</p>
 
-<img src="<?php echo SITE_URL; ?>img/rangbirangi-titli-flower.webp" alt="Rinki titli gulaab se baat karti hui - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/rangbirangi-titli-flower.webp" alt="Rinki titli gulaab se baat karti hui - cartoon" width="1024" height="683" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Aasmaan Se Baat</h2>
 

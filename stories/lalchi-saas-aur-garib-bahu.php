@@ -39,7 +39,7 @@ ob_start();
 
 <p>Suman ek chhote se gaon se aayi thi. Papa teacher the - sarkari school mein - 28,000 ki naukri. Maa ghar sambhaalti thi. Ghar mein paisa kam tha lekin <strong>pyaar bahut tha.</strong> Suman padhi-likhi thi - B.Ed. ki thi - lekin shaadi ke baad naukri nahi kar paayi kyunki saas ne mana kar diya tha: <strong>"Hamare ghar ki bahuen naukri nahi karti. Ghar sambhalo."</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/lalchi-saas-hero.webp" alt="Lalchi Saas Aur Garib Bahu - saas bahu ki kahani - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/lalchi-saas-hero.webp" alt="Lalchi Saas Aur Garib Bahu - saas bahu ki kahani - cartoon" width="1024" height="683" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Ghar Mein Aake</h2>
 
@@ -93,7 +93,7 @@ ob_start();
 
 <p>"Haan behen ji, bus se aaya. Car ki zaroorat nahi - <strong>achi soch le jaati hai jahan car nahi le jaati.</strong>"</p>
 
-<img src="<?php echo SITE_URL; ?>img/lalchi-saas-hero.webp" alt="Lalchi Saas aur Garib Bahu - Teacher sahab baat karte hue - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/lalchi-saas-hero.webp" alt="Lalchi Saas aur Garib Bahu - Teacher sahab baat karte hue - cartoon" width="1024" height="683" style="border-radius:8px; margin: 2em auto;">
 
 <p>Kamla Devi ka chehra tight ho gaya.</p>
 
@@ -139,7 +139,7 @@ ob_start();
 
 <p>Kamla Devi ki aankhein bhar aayin. Kyunki sach tha - <strong>bilkul sach.</strong> 35 saal pehle woh bhi aise hi sataayi gayi thin. Woh bhi roti thin. Woh bhi thaki hui thin.</p>
 
-<img src="<?php echo SITE_URL; ?>img/lalchi-saas-teacher.webp" alt="Teacher sahab saas ko samjhate hue - emotional scene - cartoon" width="2752" height="1536" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/lalchi-saas-teacher.webp" alt="Teacher sahab saas ko samjhate hue - emotional scene - cartoon" width="1024" height="572" style="border-radius:8px; margin: 2em auto;">
 
 <p>"Toh behen ji - <strong>aap wahi dard apni bahu ko kyun de rahi hain?</strong>"</p>
 

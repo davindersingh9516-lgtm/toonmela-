@@ -63,7 +63,7 @@ ob_start();
 
 <p><em>"Aaj mummy ka phone aaya. Woh bol rahi thi - jaldi aayegi!"</em></p>
 
-<img src="<?php echo SITE_URL; ?>img/chanda-mama-diary.webp" alt="Gudiya khush hoke diary mein likhti hui - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/chanda-mama-diary.webp" alt="Gudiya khush hoke diary mein likhti hui - cartoon" width="1024" height="683" style="border-radius:8px; margin: 2em auto;">
 
 <p>Hafte bhar mein diary bhar gayi <strong>acchi baaton se!</strong> Aur Gudiya ko pata chala - uski zindagi mein kitni saari acchi cheezein hain jo usne kabhi notice hi nahi ki thi!</p>
 

@@ -51,7 +51,7 @@ ob_start();
 
 <p>"Ullu Uncle, aapne kyun nahi khayi?" Bablu ne poocha.</p>
 
-<img src="<?php echo SITE_URL; ?>img/jadui-baarish-owl.webp" alt="Buddhimaan Ullu Uncle sabko samjhata hua - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/jadui-baarish-owl.webp" alt="Buddhimaan Ullu Uncle sabko samjhata hua - cartoon" width="1024" height="683" style="border-radius:8px; margin: 2em auto;">
 
 <p>Ullu Uncle ne kaha, <strong>"Bacchon, jo cheez bina mehnat ke mile, woh zyada der khushi nahi deti."</strong></p>
 

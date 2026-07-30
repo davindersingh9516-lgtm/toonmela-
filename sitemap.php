@@ -36,6 +36,16 @@ echo '<?xml version="1.0" encoding="UTF-8"?>';
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
+    <url>
+        <loc><?php echo $base; ?>/editorial-policy.php</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc><?php echo $base; ?>/privacy-policy.php</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
 <?php foreach (get_age_groups() as $slug => $info) : ?>
     <url>
         <loc><?php echo $base; ?>/age/<?php echo $slug; ?>.php</loc>

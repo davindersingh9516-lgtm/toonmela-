@@ -45,7 +45,7 @@ ob_start();
 
 <p>Aaj bhi subah se phone bajj raha tha. Secretary Priya ka call - "Sir, 8:30 pe board meeting hai, Mehta ji naraz hain kisi baat pe." CFO ka message - "Quarterly numbers discuss karne hain urgently." Wife Anjali ka missed call - 3 baar. Vikram ne ek baar bhi pick nahi kiya. <strong>"Baad mein kar lunga,"</strong> usne socha - jaise har roz sochta tha.</p>
 
-<img src="<?php echo SITE_URL; ?>img/ek-cup-chai-auto.webp" alt="Vikram CEO auto mein baitha hua - pehli baar - cartoon illustration" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/ek-cup-chai-auto.webp" alt="Vikram CEO auto mein baitha hua - pehli baar - cartoon illustration" width="1024" height="683" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Woh Subah Jo Sab Badal Gayi</h2>
 

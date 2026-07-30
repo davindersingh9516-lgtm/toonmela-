@@ -1,9 +1,28 @@
 <?php
 require_once __DIR__ . '/includes/functions.php';
 $active_page = 'contact';
-$page_title = 'Contact Us | ToonMela';
-$page_desc = 'ToonMela se contact karein. Sawaal, suggestion ya feedback - hum sunna chahte hain aapki baat.';
+$page_title = 'Contact ToonMela - Feedback & Suggestions';
+$page_desc = 'ToonMela se contact karein - sawaal, suggestion ya feedback bhejein. Story submissions aur collaboration ke liye bhi humse yahan sampark karein.';
 $page_url = 'https://toonmela.com/contact.php';
+$page_schema = [
+    '@context' => 'https://schema.org',
+    '@type' => 'ContactPage',
+    'name' => 'Contact ToonMela',
+    'description' => $page_desc,
+    'url' => $page_url,
+    'mainEntity' => [
+        '@type' => 'Organization',
+        'name' => 'ToonMela',
+        'url' => 'https://toonmela.com/',
+        'email' => 'operations@toonmela.com',
+        'sameAs' => [
+            'https://facebook.com/toonmela',
+            'https://instagram.com/toonmelatv',
+            'https://x.com/toonmelatv',
+            'https://youtube.com/@softtoonacademy',
+        ],
+    ],
+];
 require_once __DIR__ . '/includes/header.php';
 ?>
 

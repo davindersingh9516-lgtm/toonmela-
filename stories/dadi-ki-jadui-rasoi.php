@@ -42,7 +42,7 @@ ob_start();
 
 <p>Aman ne faisla kiya - <strong>"Sunday ko main spy banunga. Chhup kar dekhunga Dadi kya dalti hain khaane mein!"</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/dadi-rasoi-cooking.webp" alt="Dadi rasoi mein pyaar se khaana banati hui - cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/dadi-rasoi-cooking.webp" alt="Dadi rasoi mein pyaar se khaana banati hui - cartoon" width="1024" height="683" style="border-radius:8px; margin: 2em auto;">
 
 <h2>Secret Agent Aman - Mission Rasoi</h2>
 

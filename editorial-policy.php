@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/includes/functions.php';
-$page_title = 'Editorial Policy - AI Transparency, Human Review & Content Standards | ToonMela';
-$page_desc = 'ToonMela editorial policy: how every Hindi moral story is AI-assisted and human-reviewed by Davinder Singh. Full transparency about our content creation, age-appropriateness standards, and correction process.';
+$page_title = 'Editorial Policy - AI Transparency & Standards | ToonMela';
+$page_desc = 'ToonMela editorial policy: kaise har story AI-assisted aur human-reviewed hai. Content creation aur correction process ki poori transparency.';
 $page_url = 'https://toonmela.com/editorial-policy.php';
 $keywords = 'toonmela editorial policy, ai content transparency, hindi story editorial process, moral story quality standards, human reviewed content';
 $page_schema = [

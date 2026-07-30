@@ -25,7 +25,7 @@ ob_start();
 
 <p><strong>Motu chuhe se darta tha!</strong></p>
 
-<img src="<?php echo SITE_URL; ?>img/motu-haathi-scared.webp" alt="Motu haathi chuhe se darta hua - funny cartoon" width="1536" height="1024" style="border-radius:8px; margin: 2em auto;">
+<img src="<?php echo SITE_URL; ?>img/motu-haathi-scared.webp" alt="Motu haathi chuhe se darta hua - funny cartoon" width="1024" height="683" style="border-radius:8px; margin: 2em auto;">
 
 <p>"Eeeeek!" Jab bhi koi chuha aata, Motu chillata aur bhaag jaata. Itna bada haathi - aur itna chhota chuha - sab haste the!</p>
 

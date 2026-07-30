@@ -1,8 +1,8 @@
 <?php
 require_once __DIR__ . '/includes/functions.php';
 $active_page = 'about';
-$page_title = 'About ToonMela - Davinder Singh, Founder & Hindi Storyteller | ToonMela';
-$page_desc = 'ToonMela founded by Davinder Singh - Hindi storyteller with 5+ years in content creation. Learn how we create 2000+ word moral stories for all ages with full editorial transparency.';
+$page_title = 'About Us - Davinder Singh, Founder | ToonMela';
+$page_desc = 'ToonMela founder Davinder Singh - Hindi storyteller with 5+ years experience. Jaanein kaise hum moral stories likhte hain full transparency ke saath.';
 $page_url = 'https://toonmela.com/about.php';
 $keywords = 'toonmela founder, davinder singh storyteller, about toonmela, hindi moral stories platform, hindi kahani website, toonmela editorial process';
 $page_schema = [
@@ -92,7 +92,7 @@ require_once __DIR__ . '/includes/header.php';
                 <p><strong>Transparency:</strong> We clearly disclose AI usage. See our <a href="<?php echo SITE_URL; ?>editorial-policy.php">Editorial Policy</a>.</p>
             </div>
             <div class="about-img">
-                <img src="<?php echo SITE_URL; ?>img/about-content-standards.webp" alt="ToonMela Content Standards - Books and Quality Stories" loading="lazy" onerror="this.src='<?php echo SITE_URL; ?>img/story1-hero.webp'">
+                <img src="<?php echo SITE_URL; ?>img/story1-hero.webp" alt="ToonMela Content Standards - Books and Quality Stories" loading="lazy">
             </div>
         </div>
 

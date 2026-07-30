@@ -1,5 +1,12 @@
 RewriteEngine On
 
+# Force non-www (www.toonmela.com was serving identical content as a
+# separate 200 OK instead of redirecting - canonical tags pointed the
+# right way, but an explicit redirect is more robust and saves crawl
+# budget instead of relying on canonical hints alone).
+RewriteCond %{HTTP_HOST} ^www\.toonmela\.com$ [NC]
+RewriteRule ^(.*)$ https://toonmela.com/$1 [R=301,L]
+
 # 301 Redirects - Old WordPress URLs to new site
 # Old story URLs -> homepage
 RewriteRule ^sachai-aur-imaandari-ki-jeet/?$ https://toonmela.com/ [R=301,L]
@@ -36,6 +43,7 @@ RewriteRule ^feed\.xml$ feed.php [L]
     Header set X-Frame-Options "SAMEORIGIN"
     Header set X-XSS-Protection "1; mode=block"
     Header set Referrer-Policy "strict-origin-when-cross-origin"
+    Header set Strict-Transport-Security "max-age=31536000; includeSubDomains"
 </IfModule>
 
 # Block access to sensitive data files
