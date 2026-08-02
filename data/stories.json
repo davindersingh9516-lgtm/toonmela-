@@ -466,5 +466,31 @@
         "readTime": 4,
         "image": "/img/jugnu-roshni-hero.webp",
         "featured": false
+    },
+    {
+        "id": 37,
+        "slug": "akbar-birbal-sabse-bada-murkh",
+        "title": "Akbar Birbal - Sabse Bada Murkh Kaun?",
+        "excerpt": "Akbar ne Birbal ko hukum diya - \"Jaao, mujhe duniya ke sabse bade panch murkh dhoondh kar lao.\" Birbal ne panch ajeeb log dhoonde - lekin darbaar mein aakar usne jo chhata murkh bataya, uski baat sunke poora darbaar hairan reh gaya. Best Akbar Birbal ki kahani hindi mein.",
+        "category": "Wisdom Tales",
+        "age": "junior-readers",
+        "ageLabel": "Junior Readers (7-12)",
+        "date": "2026-08-02",
+        "readTime": 12,
+        "image": "/img/birbal-murkh-hero.webp",
+        "featured": false
+    },
+    {
+        "id": 38,
+        "slug": "pehli-mulakat-har-roz",
+        "title": "45 Saal Baad Bhi Pehli Mulakat - Ek Pyaar Ki Kahani",
+        "excerpt": "Kamla ko yaadash ki bimari ho gayi thi - kabhi kabhi woh apne pati Ramesh ko bhi pehchan nahi paati thi. Lekin Ramesh har subah usse phir se apna parichay dete the, jaise pehli mulakat ho. 45 saal ki shaadi mein unhone jo seekha, woh kisi bhi pyaar ki kahani se zyada gehra hai. Best emotional husband wife story in hindi.",
+        "category": "Family Stories",
+        "age": "sabke-liye",
+        "ageLabel": "Sabke Liye",
+        "date": "2026-08-02",
+        "readTime": 12,
+        "image": "/img/pehli-mulakat-hero.webp",
+        "featured": false
     }
 ]
