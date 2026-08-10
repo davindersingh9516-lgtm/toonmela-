@@ -492,5 +492,31 @@
         "readTime": 12,
         "image": "/img/pehli-mulakat-hero.webp",
         "featured": false
+    },
+    {
+        "id": 39,
+        "slug": "ganpati-bappa-ka-raaz",
+        "title": "Ganpati Bappa Ka Raaz - Ganesh Chaturthi Ki Kahani",
+        "excerpt": "Aditi har saal Ganpati visarjan ke waqt roti thi - use samajh nahi aata tha ki itne pyare Bappa ko paani mein kyun bahaya jaata hai. Is baar Dadi ne use ek aisa raaz bataya jisne uski poori soch badal di. Best Ganesh Chaturthi story in hindi for kids.",
+        "category": "Bedtime Stories",
+        "age": "junior-readers",
+        "ageLabel": "Junior Readers (7-12)",
+        "date": "2026-08-10",
+        "readTime": 12,
+        "image": "/img/ganpati-raaz-hero.webp",
+        "featured": false
+    },
+    {
+        "id": 40,
+        "slug": "diwali-ki-asli-roshni",
+        "title": "Diwali Ki Asli Roshni - Ek Dil Choo Lene Wali Kahani",
+        "excerpt": "Kabir apne rich classmate ke mehenge patakhon aur naye phone wale Diwali post dekh kar apne ghar ki simple Diwali se sharminda tha. Phir uske Dadaji ne unhe woh Diwali yaad dilayi jab unke paas kuch nahi tha, lekin woh unki zindagi ki sabse roshan Diwali thi. Best Diwali story in hindi with moral.",
+        "category": "Family Stories",
+        "age": "teen-readers",
+        "ageLabel": "Teen Readers (13-17)",
+        "date": "2026-08-10",
+        "readTime": 12,
+        "image": "/img/diwali-roshni-hero.webp",
+        "featured": false
     }
 ]
