@@ -518,5 +518,31 @@
         "readTime": 12,
         "image": "/img/diwali-roshni-hero.webp",
         "featured": false
+    },
+    {
+        "id": 41,
+        "slug": "ravana-ke-das-sar-ka-raaz",
+        "title": "Dussehra Ki Kahani - Ravana Ke Das Sar Ka Raaz",
+        "excerpt": "Arnav har saal Ravana ka putla jalta dekhta tha, lekin use samajh nahi aata tha ki dus sar wale rakshas ki kahani mein aisi kya khaas baat hai. Iss saal Dadaji ne use ek raaz bataya jisne uski apni zindagi ka ek bada sabak sikha diya. Best Dussehra story in hindi for kids with moral.",
+        "category": "Wisdom Tales",
+        "age": "junior-readers",
+        "ageLabel": "Junior Readers (7-12)",
+        "date": "2026-08-14",
+        "readTime": 12,
+        "image": "/img/ravana-das-sar-hero.webp",
+        "featured": false
+    },
+    {
+        "id": 42,
+        "slug": "mishti-ki-pehli-rakhi",
+        "title": "Mishti Ki Pehli Rakhi - Pyaari Raksha Bandhan Kahani",
+        "excerpt": "Mishti ne apne bhai Dev ke liye apne haathon se ek rakhi banayi thi - lekin use dar tha ki dukaan wali rakhi ke saamne uski rakhi achhi nahi lagegi. Raksha Bandhan ke din jo hua, usne Mishti ko sikhaya ki pyaar se banayi cheez hamesha sabse khaas hoti hai. Pyaari Raksha Bandhan story bacchon ke liye.",
+        "category": "Family Stories",
+        "age": "nanhe-readers",
+        "ageLabel": "Nanhe Readers (3-6)",
+        "date": "2026-08-14",
+        "readTime": 4,
+        "image": "/img/mishti-rakhi-hero.webp",
+        "featured": false
     }
 ]
