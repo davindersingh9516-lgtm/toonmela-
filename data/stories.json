@@ -544,5 +544,31 @@
         "readTime": 4,
         "image": "/img/mishti-rakhi-hero.webp",
         "featured": false
+    },
+    {
+        "id": 43,
+        "slug": "akbar-birbal-kauo-ki-ginti",
+        "title": "Akbar Birbal - Kauo Ki Ginti Ka Kamaal",
+        "excerpt": "Akbar ne ek din bagiche mein poocha - \"Birbal, hamare rajya mein kitne kauwe hain?\" Poora darbaar soch mein pad gaya ki iska jawaab kaise diya jaaye. Lekin Birbal ne jo jawaab diya, usne Akbar ko hairan kar diya aur poore darbaar ko hansa diya. Best Akbar Birbal ki kahani hindi mein.",
+        "category": "Wisdom Tales",
+        "age": "junior-readers",
+        "ageLabel": "Junior Readers (7-12)",
+        "date": "2026-08-19",
+        "readTime": 12,
+        "image": "/img/birbal-kauwe-hero.webp",
+        "featured": false
+    },
+    {
+        "id": 44,
+        "slug": "purane-naqshe-ka-raaz",
+        "title": "Purane Naqshe Ka Raaz - Ek Khazane Ki Kahani",
+        "excerpt": "Rehan ko apne Nana ke purane trunk mein ek phata-purana naqsha mila, jismein ek khazane ka raasta dikhaya gaya tha. Rehan aur uske do dost - Simran aur Yash - iss naqshe ke peeche nikal pade, ek aisi adventure par jo unki dosti ko sabse bade imtihaan mein daal degi. Best adventure story in hindi for kids with moral.",
+        "category": "Adventure",
+        "age": "junior-readers",
+        "ageLabel": "Junior Readers (7-12)",
+        "date": "2026-08-19",
+        "readTime": 12,
+        "image": "/img/naqsha-khazana-hero.webp",
+        "featured": false
     }
 ]
