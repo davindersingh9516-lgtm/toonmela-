@@ -16,7 +16,7 @@ $seo_title = 'Nani Ki Kanha Wali Kahani - Janmashtami Story | ToonMela';
 $seo_desc = 'Kabir chup chup ke behen ki chocolate churata tha. Nani ne sunayi Kanha ki makhan chori ki kahani. Padhein yeh pyaari krishna janmashtami kahani hindi mein.';
 $faq = [
     'Is kahani ka moral kya hai?' => 'Galti aur chori mein farak niyat (intention) se hota hai। Kanha jo bhi karta tha, khule dil se karta tha - pakde jaane pe muskura deta tha, chupata nahi tha। Jab hum apni galti chupate hain, toh woh bhaari lagti hai। Jab hum use pyaar se maan lete hain, toh woh sirf ek seekh ban jaati hai।',
-    'Krishna Janmashtami kab hai 2026 mein?' => 'Krishna Janmashtami 2026 mein 14 August, Friday ko manayi jaayegi - Bhagwan Krishna ke janm ka utsav, jo Bhadrapad mahine ki Krishna Ashtami tithi par padta hai।',
+    'Krishna Janmashtami kab hai 2026 mein?' => 'Krishna Janmashtami 2026 mein 4 September, Friday ko manayi jaayegi (kai Smarta ghar 3 September ko bhi manate hain) - Bhagwan Krishna ke janm ka utsav, jo Bhadrapad mahine ki Krishna Ashtami tithi par padta hai।',
     'Bachcho ko Janmashtami ki kahani kyun sunani chahiye?' => 'Krishna ki kahaniyan sirf dharmik nahi, deeply moral bhi hain - imandari, pyaar, aur maafi ke baare mein। Yeh kahaniyan bachcho ko sikhati hain ki galti hona insaan hona hai, lekin usse chupana galat hai।',
 ];
 
