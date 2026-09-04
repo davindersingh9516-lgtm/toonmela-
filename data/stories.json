@@ -570,5 +570,31 @@
         "readTime": 12,
         "image": "/img/naqsha-khazana-hero.webp",
         "featured": false
+    },
+    {
+        "id": 45,
+        "slug": "navratri-nau-shaktiyon-ki-kahani",
+        "title": "Navratri Ki Kahani - Nau Din, Nau Shaktiyan",
+        "excerpt": "Ananya ko samajh nahi aata tha ki Navratri ke nau din alag alag kyun hote hain, aur har din alag rang kyun pehna jaata hai. Uski Nani ne use ek aisi kahani sunayi jisne use sikhaya ki Durga Maa sirf ek devi nahi, balki har ladki ke andar chhupi nau shaktiyan hain. Best Navratri story in hindi for kids.",
+        "category": "Wisdom Tales",
+        "age": "junior-readers",
+        "ageLabel": "Junior Readers (7-12)",
+        "date": "2026-09-04",
+        "readTime": 12,
+        "image": "/img/navratri-shakti-hero.webp",
+        "featured": false
+    },
+    {
+        "id": 46,
+        "slug": "best-friend-se-dushman-tak",
+        "title": "Best Friend Se Dushman Tak - Dosti Ki Kahani",
+        "excerpt": "Aarav aur Dhruv bachpan ke best friends the - lekin jab school cricket team ki captaincy ke liye sirf ek ladka chuna gaya, Aarav ke dil mein jalan ne ghar kar liya. Kuch hafton mein hi unki dosti dushmani mein badal gayi. Jo hua uske baad, dono ne dosti ka sabse bada sabak seekha. Best friendship story in hindi for teenagers.",
+        "category": "Friendship",
+        "age": "teen-readers",
+        "ageLabel": "Teen Readers (13-17)",
+        "date": "2026-09-04",
+        "readTime": 12,
+        "image": "/img/dosti-jalan-hero.webp",
+        "featured": false
     }
 ]
