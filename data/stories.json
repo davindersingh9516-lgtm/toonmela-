@@ -596,5 +596,57 @@
         "readTime": 12,
         "image": "/img/dosti-jalan-hero.webp",
         "featured": false
+    },
+    {
+        "id": 47,
+        "slug": "chhotu-diye-ki-diwali",
+        "title": "Chhotu Diye Ki Diwali - Pyaari Diwali Kahani Bacchon Ke Liye",
+        "excerpt": "Pihu ne Dadaji ke saath mitti ke diye banaye, lekin ek diya chhota aur tedha ban gaya. Sab use Chhotu kehne lage. Diwali ki raat jab saari lights chali gayin, tab Chhotu diye ne sabko dikhaya ki chhota hona kamzor hona nahi hota. Pyaari Diwali story for kids in hindi.",
+        "category": "Fairy Tales",
+        "age": "nanhe-readers",
+        "ageLabel": "Nanhe Readers (3-6)",
+        "date": "2026-10-06",
+        "readTime": 4,
+        "image": "/img/chhotu-diya-hero.webp",
+        "featured": false
+    },
+    {
+        "id": 48,
+        "slug": "akbar-birbal-hara-ghoda",
+        "title": "Akbar Birbal - Hare Ghode Ki Kahani",
+        "excerpt": "Barsaat ki hariyali dekh kar Badshah Akbar ko chahiye tha ek hara ghoda! Darbari pareshan ho gaye, kisi ne ghode ko hara rang bhi pot diya. Phir Birbal ne aisi shart rakhi jisse Badshah hans pade aur ek gehri seekh bhi mil gayi. Akbar Birbal ki mazedar kahani hindi mein.",
+        "category": "Wisdom Tales",
+        "age": "junior-readers",
+        "ageLabel": "Junior Readers (7-12)",
+        "date": "2026-10-06",
+        "readTime": 12,
+        "image": "/img/birbal-hara-ghoda-hero.webp",
+        "featured": false
+    },
+    {
+        "id": 49,
+        "slug": "tenali-raman-rasgulle-ki-jad",
+        "title": "Tenali Raman Aur Rasgulle Ki Jad - Mazedar Kahani",
+        "excerpt": "Iran se aaye mehmaan ne Raja Krishnadevaraya se poocha: rasgulle ki jad kya hai? Rajguru se lekar shaahi halwai tak sab chakra gaye. Phir Tenali Raman ek gathri lekar darbar mein aaye aur jo nikla, usse sab hairaan reh gaye. Tenali Raman ki chaturai ki mazedar kahani.",
+        "category": "Wisdom Tales",
+        "age": "junior-readers",
+        "ageLabel": "Junior Readers (7-12)",
+        "date": "2026-10-06",
+        "readTime": 12,
+        "image": "/img/tenali-rasgulla-hero.webp",
+        "featured": false
+    },
+    {
+        "id": 50,
+        "slug": "filter-wali-zindagi",
+        "title": "Filter Wali Zindagi - Social Media Ki Kahani",
+        "excerpt": "Riya ko lagta tha ki classmate Tanya ki zindagi perfect hai: cafes, trips aur hazaron likes. Har raat scroll karte karte Riya ko apni zindagi chhoti lagne lagi. Phir ek school project ke liye jab Riya Tanya ke ghar gayi, toh usne filter ke peeche ka sach dekha. Social media par teenagers ke liye ek dil choo lene wali kahani.",
+        "category": "Life Lessons",
+        "age": "teen-readers",
+        "ageLabel": "Teen Readers (13-17)",
+        "date": "2026-10-06",
+        "readTime": 13,
+        "image": "/img/filter-zindagi-hero.webp",
+        "featured": false
     }
 ]
